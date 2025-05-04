@@ -1,0 +1,1121 @@
+2025-04-17 21:17:49.395 +02:00 [INF] User profile is available. Using 'C:\Users\TEFA\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-17 21:17:49.635 +02:00 [INF] Now listening on: https://localhost:7295
+2025-04-17 21:17:49.638 +02:00 [INF] Now listening on: http://localhost:5024
+2025-04-17 21:17:49.713 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-17 21:17:49.716 +02:00 [INF] Hosting environment: Development
+2025-04-17 21:17:49.718 +02:00 [INF] Content root path: E:\Course\login .net\AuthApi\AuthApi
+2025-04-17 21:17:50.273 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/index.html - null null
+2025-04-17 21:17:50.489 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/index.html - 200 null text/html;charset=utf-8 221.2696ms
+2025-04-17 21:17:50.511 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-17 21:17:50.517 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_vs/browserLink - null null
+2025-04-17 21:17:50.520 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - 200 16499 application/javascript; charset=utf-8 9.7555ms
+2025-04-17 21:17:50.571 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_vs/browserLink - 200 null text/javascript; charset=UTF-8 53.566ms
+2025-04-17 21:17:50.612 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - null null
+2025-04-17 21:17:50.626 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 14.036ms
+2025-04-17 21:19:30.758 +02:00 [INF] User profile is available. Using 'C:\Users\TEFA\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-17 21:19:30.935 +02:00 [INF] Now listening on: https://localhost:7295
+2025-04-17 21:19:30.937 +02:00 [INF] Now listening on: http://localhost:5024
+2025-04-17 21:19:31.015 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-17 21:19:31.017 +02:00 [INF] Hosting environment: Development
+2025-04-17 21:19:31.019 +02:00 [INF] Content root path: E:\Course\login .net\AuthApi\AuthApi
+2025-04-17 21:19:31.305 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/index.html - null null
+2025-04-17 21:19:31.469 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/index.html - 200 null text/html;charset=utf-8 169.274ms
+2025-04-17 21:19:31.491 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-17 21:19:31.495 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_vs/browserLink - null null
+2025-04-17 21:19:31.498 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - 200 16499 application/javascript; charset=utf-8 7.0154ms
+2025-04-17 21:19:31.525 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_vs/browserLink - 200 null text/javascript; charset=UTF-8 29.9694ms
+2025-04-17 21:19:31.576 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - null null
+2025-04-17 21:19:31.590 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 14.201ms
+2025-04-17 21:24:44.424 +02:00 [INF] User profile is available. Using 'C:\Users\TEFA\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-17 21:24:44.623 +02:00 [INF] Now listening on: https://localhost:7295
+2025-04-17 21:24:44.625 +02:00 [INF] Now listening on: http://localhost:5024
+2025-04-17 21:24:44.703 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-17 21:24:44.705 +02:00 [INF] Hosting environment: Development
+2025-04-17 21:24:44.707 +02:00 [INF] Content root path: E:\Course\login .net\AuthApi\AuthApi
+2025-04-17 21:24:45.047 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/index.html - null null
+2025-04-17 21:24:45.213 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/index.html - 200 null text/html;charset=utf-8 171.8984ms
+2025-04-17 21:24:45.236 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_vs/browserLink - null null
+2025-04-17 21:24:45.236 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-17 21:24:45.236 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/swagger-ui.css - null null
+2025-04-17 21:24:45.262 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - 200 16499 application/javascript; charset=utf-8 25.9918ms
+2025-04-17 21:24:45.341 +02:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-04-17 21:24:45.342 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/swagger-ui.css - 499 144929 text/css 106.8632ms
+2025-04-17 21:24:45.350 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_vs/browserLink - 200 null text/javascript; charset=UTF-8 114.547ms
+2025-04-17 21:24:45.354 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/favicon-16x16.png - null null
+2025-04-17 21:24:45.399 +02:00 [INF] Sending file. Request path: '/favicon-16x16.png'. Physical path: 'N/A'
+2025-04-17 21:24:45.401 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/favicon-16x16.png - 499 665 image/png 48.9755ms
+2025-04-17 21:24:45.407 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - null null
+2025-04-17 21:24:45.424 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 16.8243ms
+2025-04-17 21:25:00.118 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7295/api/Auth/login - application/json 53
+2025-04-17 21:25:00.130 +02:00 [INF] CORS policy execution successful.
+2025-04-17 21:25:00.139 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.AuthController.Login (AuthApi)'
+2025-04-17 21:25:00.192 +02:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(AuthApi.DTOs.LoginDto) on controller AuthApi.Controllers.AuthController (AuthApi).
+2025-04-17 21:25:00.451 +02:00 [INF] Login attempt for email: admin@gmail.com
+2025-04-17 21:25:02.884 +02:00 [INF] Executed DbCommand (194ms) [Parameters=[@__loginDto_Email_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email], [a].[PasswordHash]
+FROM [Admins] AS [a]
+WHERE [a].[Email] = @__loginDto_Email_0
+2025-04-17 21:25:03.436 +02:00 [INF] Admin login successful for email: admin@gmail.com
+2025-04-17 21:25:03.443 +02:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType5`5[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-04-17 21:25:03.459 +02:00 [INF] Executed action AuthApi.Controllers.AuthController.Login (AuthApi) in 3253.7346ms
+2025-04-17 21:25:03.463 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.AuthController.Login (AuthApi)'
+2025-04-17 21:25:03.470 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7295/api/Auth/login - 200 null application/json; charset=utf-8 3352.9439ms
+2025-04-17 21:25:25.804 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/api/User/patients/1 - null null
+2025-04-17 21:25:25.853 +02:00 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (admin|doctor)
+2025-04-17 21:25:25.861 +02:00 [INF] AuthenticationScheme: Bearer was challenged.
+2025-04-17 21:25:25.863 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/api/User/patients/1 - 401 0 null 58.6781ms
+2025-04-17 21:26:06.584 +02:00 [INF] User profile is available. Using 'C:\Users\TEFA\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-17 21:26:06.757 +02:00 [INF] Now listening on: https://localhost:7295
+2025-04-17 21:26:06.760 +02:00 [INF] Now listening on: http://localhost:5024
+2025-04-17 21:26:06.837 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-17 21:26:06.839 +02:00 [INF] Hosting environment: Development
+2025-04-17 21:26:06.840 +02:00 [INF] Content root path: E:\Course\login .net\AuthApi\AuthApi
+2025-04-17 21:26:07.079 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/index.html - null null
+2025-04-17 21:26:07.234 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/index.html - 200 null text/html;charset=utf-8 159.5834ms
+2025-04-17 21:26:07.261 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-17 21:26:07.267 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_vs/browserLink - null null
+2025-04-17 21:26:07.269 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - 200 16499 application/javascript; charset=utf-8 8.7788ms
+2025-04-17 21:26:07.294 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_vs/browserLink - 200 null text/javascript; charset=UTF-8 27.6184ms
+2025-04-17 21:26:07.307 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/favicon-16x16.png - null null
+2025-04-17 21:26:07.355 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - null null
+2025-04-17 21:26:07.358 +02:00 [INF] Sending file. Request path: '/favicon-16x16.png'. Physical path: 'N/A'
+2025-04-17 21:26:07.360 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/favicon-16x16.png - 499 665 image/png 52.6557ms
+2025-04-17 21:26:07.368 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 12.6628ms
+2025-04-17 21:26:20.613 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7295/api/Auth/login - application/json 53
+2025-04-17 21:26:20.619 +02:00 [INF] CORS policy execution successful.
+2025-04-17 21:26:20.622 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.AuthController.Login (AuthApi)'
+2025-04-17 21:26:20.639 +02:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(AuthApi.DTOs.LoginDto) on controller AuthApi.Controllers.AuthController (AuthApi).
+2025-04-17 21:26:20.793 +02:00 [INF] Login attempt for email: admin@gmail.com
+2025-04-17 21:26:22.099 +02:00 [INF] Executed DbCommand (123ms) [Parameters=[@__loginDto_Email_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email], [a].[PasswordHash]
+FROM [Admins] AS [a]
+WHERE [a].[Email] = @__loginDto_Email_0
+2025-04-17 21:26:22.343 +02:00 [INF] Admin login successful for email: admin@gmail.com
+2025-04-17 21:26:22.347 +02:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType5`5[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-04-17 21:26:22.354 +02:00 [INF] Executed action AuthApi.Controllers.AuthController.Login (AuthApi) in 1710.6124ms
+2025-04-17 21:26:22.356 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.AuthController.Login (AuthApi)'
+2025-04-17 21:26:22.361 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7295/api/Auth/login - 200 null application/json; charset=utf-8 1748.5263ms
+2025-04-17 21:26:47.504 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/api/User/doctors?pageNumber=1&pageSize=10 - null null
+2025-04-17 21:26:47.540 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.UserController.GetAllDoctors (AuthApi)'
+2025-04-17 21:26:47.546 +02:00 [INF] Route matched with {action = "GetAllDoctors", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllDoctors(Int32, Int32, System.String) on controller AuthApi.Controllers.UserController (AuthApi).
+2025-04-17 21:26:47.554 +02:00 [INF] GetAllDoctors called with pageNumber: 1, pageSize: 10, searchTerm: null
+2025-04-17 21:26:47.559 +02:00 [INF] Fetching all doctors with pageNumber: 1, pageSize: 10, searchTerm: null
+2025-04-17 21:26:47.684 +02:00 [INF] Executed DbCommand (81ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Doctors] AS [d]
+2025-04-17 21:26:47.798 +02:00 [INF] Executed DbCommand (84ms) [Parameters=[@__p_0='?' (DbType = Int32), @__p_1='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [d].[Id], [d].[FirstName], [d].[LastName], [d].[Gender], [d].[BirthDate], [d].[Specialty], [d].[Email], [d].[ImageUrl]
+FROM [Doctors] AS [d]
+ORDER BY [d].[Id]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY
+2025-04-17 21:26:47.807 +02:00 [INF] Successfully retrieved 1 doctors
+2025-04-17 21:26:47.808 +02:00 [INF] Executing OkObjectResult, writing value of type 'AuthApi.DTOs.PagedResult`1[[AuthApi.DTOs.DoctorResponseDto, AuthApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-04-17 21:26:47.816 +02:00 [INF] Executed action AuthApi.Controllers.UserController.GetAllDoctors (AuthApi) in 269.0327ms
+2025-04-17 21:26:47.818 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.UserController.GetAllDoctors (AuthApi)'
+2025-04-17 21:26:47.819 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/api/User/doctors?pageNumber=1&pageSize=10 - 200 null application/json; charset=utf-8 314.3576ms
+2025-04-17 21:26:53.398 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/api/User/details - null null
+2025-04-17 21:26:53.404 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.UserController.GetMyDetails (AuthApi)'
+2025-04-17 21:26:53.407 +02:00 [INF] Route matched with {action = "GetMyDetails", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetMyDetails() on controller AuthApi.Controllers.UserController (AuthApi).
+2025-04-17 21:26:53.412 +02:00 [INF] GetMyDetails called for logged-in user
+2025-04-17 21:26:53.417 +02:00 [INF] Fetching user details for userId: 3, role: admin
+2025-04-17 21:26:53.553 +02:00 [INF] Executed DbCommand (90ms) [Parameters=[@__userId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email]
+FROM [Admins] AS [a]
+WHERE [a].[Id] = @__userId_0
+2025-04-17 21:26:53.557 +02:00 [INF] Successfully retrieved details for userId: 3, role: admin
+2025-04-17 21:26:53.558 +02:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType6`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Object, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-04-17 21:26:53.562 +02:00 [INF] Executed action AuthApi.Controllers.UserController.GetMyDetails (AuthApi) in 152.8783ms
+2025-04-17 21:26:53.563 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.UserController.GetMyDetails (AuthApi)'
+2025-04-17 21:26:53.564 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/api/User/details - 200 null application/json; charset=utf-8 166.2975ms
+2025-04-17 21:28:57.854 +02:00 [INF] User profile is available. Using 'C:\Users\TEFA\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-17 21:28:58.038 +02:00 [INF] Now listening on: https://localhost:7295
+2025-04-17 21:28:58.040 +02:00 [INF] Now listening on: http://localhost:5024
+2025-04-17 21:28:58.115 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-17 21:28:58.118 +02:00 [INF] Hosting environment: Development
+2025-04-17 21:28:58.119 +02:00 [INF] Content root path: E:\Course\login .net\AuthApi\AuthApi
+2025-04-17 21:28:58.499 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/index.html - null null
+2025-04-17 21:28:58.655 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/index.html - 200 null text/html;charset=utf-8 161.2749ms
+2025-04-17 21:28:58.675 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/swagger-ui.css - null null
+2025-04-17 21:28:58.676 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-17 21:28:58.678 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_vs/browserLink - null null
+2025-04-17 21:28:58.694 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - 200 16499 application/javascript; charset=utf-8 18.8157ms
+2025-04-17 21:28:58.738 +02:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-04-17 21:28:58.739 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/swagger-ui.css - 499 144929 text/css 64.4682ms
+2025-04-17 21:28:58.756 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_vs/browserLink - 200 null text/javascript; charset=UTF-8 77.8352ms
+2025-04-17 21:28:58.792 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - null null
+2025-04-17 21:28:58.802 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 9.8306ms
+2025-04-17 21:29:23.490 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7295/api/Auth/login - application/json 53
+2025-04-17 21:29:23.500 +02:00 [INF] CORS policy execution successful.
+2025-04-17 21:29:23.503 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.AuthController.Login (AuthApi)'
+2025-04-17 21:29:23.520 +02:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(AuthApi.DTOs.LoginDto) on controller AuthApi.Controllers.AuthController (AuthApi).
+2025-04-17 21:29:23.642 +02:00 [INF] Login attempt for email: admin@gmail.com
+2025-04-17 21:29:24.944 +02:00 [INF] Executed DbCommand (128ms) [Parameters=[@__loginDto_Email_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email], [a].[PasswordHash]
+FROM [Admins] AS [a]
+WHERE [a].[Email] = @__loginDto_Email_0
+2025-04-17 21:29:25.196 +02:00 [INF] Admin login successful for email: admin@gmail.com
+2025-04-17 21:29:25.201 +02:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType5`5[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-04-17 21:29:25.221 +02:00 [INF] Executed action AuthApi.Controllers.AuthController.Login (AuthApi) in 1696.0909ms
+2025-04-17 21:29:25.239 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.AuthController.Login (AuthApi)'
+2025-04-17 21:29:25.245 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7295/api/Auth/login - 200 null application/json; charset=utf-8 1756.2471ms
+2025-04-17 21:29:49.549 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/api/User/patients/23 - null null
+2025-04-17 21:29:49.581 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.UserController.GetPatientById (AuthApi)'
+2025-04-17 21:29:49.586 +02:00 [INF] Route matched with {action = "GetPatientById", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPatientById(Int32) on controller AuthApi.Controllers.UserController (AuthApi).
+2025-04-17 21:29:49.593 +02:00 [INF] GetPatientById called with ID: 23
+2025-04-17 21:29:49.596 +02:00 [INF] Fetching patient with ID: 23
+2025-04-17 21:29:50.467 +02:00 [ERR] Failed executing DbCommand (769ms) [Parameters=[@__patientId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [t].[Id], [t].[BirthDate], [t].[CreatedAt], [t].[Email], [t].[FirstName], [t].[Gender], [t].[ImageUrl], [t].[LastName], [t].[PasswordHash], [t0].[Id], [t0].[Diagnosis], [t0].[DoctorId], [t0].[PatientId], [t0].[RecordedAt], [t0].[Treatment], [t0].[Id0], [t0].[BirthDate], [t0].[Email], [t0].[FirstName], [t0].[Gender], [t0].[ImageUrl], [t0].[LastName], [t0].[PasswordHash], [t0].[Specialty]
+FROM (
+    SELECT TOP(1) [p].[Id], [p].[BirthDate], [p].[CreatedAt], [p].[Email], [p].[FirstName], [p].[Gender], [p].[ImageUrl], [p].[LastName], [p].[PasswordHash]
+    FROM [Patients] AS [p]
+    WHERE [p].[Id] = @__patientId_0
+) AS [t]
+LEFT JOIN (
+    SELECT [p0].[Id], [p0].[Diagnosis], [p0].[DoctorId], [p0].[PatientId], [p0].[RecordedAt], [p0].[Treatment], [d].[Id] AS [Id0], [d].[BirthDate], [d].[Email], [d].[FirstName], [d].[Gender], [d].[ImageUrl], [d].[LastName], [d].[PasswordHash], [d].[Specialty]
+    FROM [PatientHistories] AS [p0]
+    INNER JOIN [Doctors] AS [d] ON [p0].[DoctorId] = [d].[Id]
+) AS [t0] ON [t].[Id] = [t0].[PatientId]
+ORDER BY [t].[Id], [t0].[Id]
+2025-04-17 21:29:50.552 +02:00 [ERR] An exception occurred while iterating over the results of a query for context type 'AuthApi.Data.AppDbContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'RecordedAt'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__195_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:7e0d06df-cc5b-4c65-9d5e-bb055edfb9dc
+Error Number:207,State:1,Class:16
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'RecordedAt'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__195_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:7e0d06df-cc5b-4c65-9d5e-bb055edfb9dc
+Error Number:207,State:1,Class:16
+2025-04-17 21:29:50.679 +02:00 [ERR] Error retrieving patient with ID: 23. StackTrace:    at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__195_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at AuthApi.Services.UserService.GetPatientByIdAsync(Int32 patientId) in E:\Course\login .net\AuthApi\AuthApi\Services\UserService.cs:line 289
+   at AuthApi.Controllers.UserController.GetPatientById(Int32 id) in E:\Course\login .net\AuthApi\AuthApi\Controllers\UserController.cs:line 148
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'RecordedAt'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__195_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at AuthApi.Services.UserService.GetPatientByIdAsync(Int32 patientId) in E:\Course\login .net\AuthApi\AuthApi\Services\UserService.cs:line 289
+   at AuthApi.Controllers.UserController.GetPatientById(Int32 id) in E:\Course\login .net\AuthApi\AuthApi\Controllers\UserController.cs:line 148
+ClientConnectionId:7e0d06df-cc5b-4c65-9d5e-bb055edfb9dc
+Error Number:207,State:1,Class:16
+2025-04-17 21:29:50.684 +02:00 [INF] Executing ObjectResult, writing value of type '<>f__AnonymousType2`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-04-17 21:29:50.686 +02:00 [INF] Executed action AuthApi.Controllers.UserController.GetPatientById (AuthApi) in 1097.8778ms
+2025-04-17 21:29:50.688 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.UserController.GetPatientById (AuthApi)'
+2025-04-17 21:29:50.689 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/api/User/patients/23 - 500 null application/json; charset=utf-8 1141.2018ms
+2025-04-17 21:29:57.759 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/api/User/patients/1 - null null
+2025-04-17 21:29:57.763 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.UserController.GetPatientById (AuthApi)'
+2025-04-17 21:29:57.764 +02:00 [INF] Route matched with {action = "GetPatientById", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPatientById(Int32) on controller AuthApi.Controllers.UserController (AuthApi).
+2025-04-17 21:29:57.767 +02:00 [INF] GetPatientById called with ID: 1
+2025-04-17 21:29:57.769 +02:00 [INF] Fetching patient with ID: 1
+2025-04-17 21:29:58.481 +02:00 [ERR] Failed executing DbCommand (653ms) [Parameters=[@__patientId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [t].[Id], [t].[BirthDate], [t].[CreatedAt], [t].[Email], [t].[FirstName], [t].[Gender], [t].[ImageUrl], [t].[LastName], [t].[PasswordHash], [t0].[Id], [t0].[Diagnosis], [t0].[DoctorId], [t0].[PatientId], [t0].[RecordedAt], [t0].[Treatment], [t0].[Id0], [t0].[BirthDate], [t0].[Email], [t0].[FirstName], [t0].[Gender], [t0].[ImageUrl], [t0].[LastName], [t0].[PasswordHash], [t0].[Specialty]
+FROM (
+    SELECT TOP(1) [p].[Id], [p].[BirthDate], [p].[CreatedAt], [p].[Email], [p].[FirstName], [p].[Gender], [p].[ImageUrl], [p].[LastName], [p].[PasswordHash]
+    FROM [Patients] AS [p]
+    WHERE [p].[Id] = @__patientId_0
+) AS [t]
+LEFT JOIN (
+    SELECT [p0].[Id], [p0].[Diagnosis], [p0].[DoctorId], [p0].[PatientId], [p0].[RecordedAt], [p0].[Treatment], [d].[Id] AS [Id0], [d].[BirthDate], [d].[Email], [d].[FirstName], [d].[Gender], [d].[ImageUrl], [d].[LastName], [d].[PasswordHash], [d].[Specialty]
+    FROM [PatientHistories] AS [p0]
+    INNER JOIN [Doctors] AS [d] ON [p0].[DoctorId] = [d].[Id]
+) AS [t0] ON [t].[Id] = [t0].[PatientId]
+ORDER BY [t].[Id], [t0].[Id]
+2025-04-17 21:29:58.524 +02:00 [ERR] An exception occurred while iterating over the results of a query for context type 'AuthApi.Data.AppDbContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'RecordedAt'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__195_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:7e0d06df-cc5b-4c65-9d5e-bb055edfb9dc
+Error Number:207,State:1,Class:16
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'RecordedAt'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__195_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:7e0d06df-cc5b-4c65-9d5e-bb055edfb9dc
+Error Number:207,State:1,Class:16
+2025-04-17 21:29:58.609 +02:00 [ERR] Error retrieving patient with ID: 1. StackTrace:    at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__195_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at AuthApi.Services.UserService.GetPatientByIdAsync(Int32 patientId) in E:\Course\login .net\AuthApi\AuthApi\Services\UserService.cs:line 289
+   at AuthApi.Controllers.UserController.GetPatientById(Int32 id) in E:\Course\login .net\AuthApi\AuthApi\Controllers\UserController.cs:line 148
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'RecordedAt'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__195_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at AuthApi.Services.UserService.GetPatientByIdAsync(Int32 patientId) in E:\Course\login .net\AuthApi\AuthApi\Services\UserService.cs:line 289
+   at AuthApi.Controllers.UserController.GetPatientById(Int32 id) in E:\Course\login .net\AuthApi\AuthApi\Controllers\UserController.cs:line 148
+ClientConnectionId:7e0d06df-cc5b-4c65-9d5e-bb055edfb9dc
+Error Number:207,State:1,Class:16
+2025-04-17 21:29:58.613 +02:00 [INF] Executing ObjectResult, writing value of type '<>f__AnonymousType2`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-04-17 21:29:58.615 +02:00 [INF] Executed action AuthApi.Controllers.UserController.GetPatientById (AuthApi) in 849.5169ms
+2025-04-17 21:29:58.615 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.UserController.GetPatientById (AuthApi)'
+2025-04-17 21:29:58.616 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/api/User/patients/1 - 500 null application/json; charset=utf-8 857.597ms
+2025-04-17 21:30:01.826 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/api/User/patients/3 - null null
+2025-04-17 21:30:01.830 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.UserController.GetPatientById (AuthApi)'
+2025-04-17 21:30:01.831 +02:00 [INF] Route matched with {action = "GetPatientById", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPatientById(Int32) on controller AuthApi.Controllers.UserController (AuthApi).
+2025-04-17 21:30:01.835 +02:00 [INF] GetPatientById called with ID: 3
+2025-04-17 21:30:01.837 +02:00 [INF] Fetching patient with ID: 3
+2025-04-17 21:30:02.506 +02:00 [ERR] Failed executing DbCommand (665ms) [Parameters=[@__patientId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [t].[Id], [t].[BirthDate], [t].[CreatedAt], [t].[Email], [t].[FirstName], [t].[Gender], [t].[ImageUrl], [t].[LastName], [t].[PasswordHash], [t0].[Id], [t0].[Diagnosis], [t0].[DoctorId], [t0].[PatientId], [t0].[RecordedAt], [t0].[Treatment], [t0].[Id0], [t0].[BirthDate], [t0].[Email], [t0].[FirstName], [t0].[Gender], [t0].[ImageUrl], [t0].[LastName], [t0].[PasswordHash], [t0].[Specialty]
+FROM (
+    SELECT TOP(1) [p].[Id], [p].[BirthDate], [p].[CreatedAt], [p].[Email], [p].[FirstName], [p].[Gender], [p].[ImageUrl], [p].[LastName], [p].[PasswordHash]
+    FROM [Patients] AS [p]
+    WHERE [p].[Id] = @__patientId_0
+) AS [t]
+LEFT JOIN (
+    SELECT [p0].[Id], [p0].[Diagnosis], [p0].[DoctorId], [p0].[PatientId], [p0].[RecordedAt], [p0].[Treatment], [d].[Id] AS [Id0], [d].[BirthDate], [d].[Email], [d].[FirstName], [d].[Gender], [d].[ImageUrl], [d].[LastName], [d].[PasswordHash], [d].[Specialty]
+    FROM [PatientHistories] AS [p0]
+    INNER JOIN [Doctors] AS [d] ON [p0].[DoctorId] = [d].[Id]
+) AS [t0] ON [t].[Id] = [t0].[PatientId]
+ORDER BY [t].[Id], [t0].[Id]
+2025-04-17 21:30:02.570 +02:00 [ERR] An exception occurred while iterating over the results of a query for context type 'AuthApi.Data.AppDbContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'RecordedAt'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__195_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:7e0d06df-cc5b-4c65-9d5e-bb055edfb9dc
+Error Number:207,State:1,Class:16
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'RecordedAt'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__195_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:7e0d06df-cc5b-4c65-9d5e-bb055edfb9dc
+Error Number:207,State:1,Class:16
+2025-04-17 21:30:02.737 +02:00 [ERR] Error retrieving patient with ID: 3. StackTrace:    at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__195_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at AuthApi.Services.UserService.GetPatientByIdAsync(Int32 patientId) in E:\Course\login .net\AuthApi\AuthApi\Services\UserService.cs:line 289
+   at AuthApi.Controllers.UserController.GetPatientById(Int32 id) in E:\Course\login .net\AuthApi\AuthApi\Controllers\UserController.cs:line 148
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'RecordedAt'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__195_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at AuthApi.Services.UserService.GetPatientByIdAsync(Int32 patientId) in E:\Course\login .net\AuthApi\AuthApi\Services\UserService.cs:line 289
+   at AuthApi.Controllers.UserController.GetPatientById(Int32 id) in E:\Course\login .net\AuthApi\AuthApi\Controllers\UserController.cs:line 148
+ClientConnectionId:7e0d06df-cc5b-4c65-9d5e-bb055edfb9dc
+Error Number:207,State:1,Class:16
+2025-04-17 21:30:02.741 +02:00 [INF] Executing ObjectResult, writing value of type '<>f__AnonymousType2`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-04-17 21:30:02.742 +02:00 [INF] Executed action AuthApi.Controllers.UserController.GetPatientById (AuthApi) in 909.656ms
+2025-04-17 21:30:02.743 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.UserController.GetPatientById (AuthApi)'
+2025-04-17 21:30:02.744 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/api/User/patients/3 - 500 null application/json; charset=utf-8 918.1428ms
+2025-04-17 21:30:05.109 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/api/User/patients/2 - null null
+2025-04-17 21:30:05.112 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.UserController.GetPatientById (AuthApi)'
+2025-04-17 21:30:05.113 +02:00 [INF] Route matched with {action = "GetPatientById", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPatientById(Int32) on controller AuthApi.Controllers.UserController (AuthApi).
+2025-04-17 21:30:05.115 +02:00 [INF] GetPatientById called with ID: 2
+2025-04-17 21:30:05.117 +02:00 [INF] Fetching patient with ID: 2
+2025-04-17 21:30:05.835 +02:00 [ERR] Failed executing DbCommand (715ms) [Parameters=[@__patientId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [t].[Id], [t].[BirthDate], [t].[CreatedAt], [t].[Email], [t].[FirstName], [t].[Gender], [t].[ImageUrl], [t].[LastName], [t].[PasswordHash], [t0].[Id], [t0].[Diagnosis], [t0].[DoctorId], [t0].[PatientId], [t0].[RecordedAt], [t0].[Treatment], [t0].[Id0], [t0].[BirthDate], [t0].[Email], [t0].[FirstName], [t0].[Gender], [t0].[ImageUrl], [t0].[LastName], [t0].[PasswordHash], [t0].[Specialty]
+FROM (
+    SELECT TOP(1) [p].[Id], [p].[BirthDate], [p].[CreatedAt], [p].[Email], [p].[FirstName], [p].[Gender], [p].[ImageUrl], [p].[LastName], [p].[PasswordHash]
+    FROM [Patients] AS [p]
+    WHERE [p].[Id] = @__patientId_0
+) AS [t]
+LEFT JOIN (
+    SELECT [p0].[Id], [p0].[Diagnosis], [p0].[DoctorId], [p0].[PatientId], [p0].[RecordedAt], [p0].[Treatment], [d].[Id] AS [Id0], [d].[BirthDate], [d].[Email], [d].[FirstName], [d].[Gender], [d].[ImageUrl], [d].[LastName], [d].[PasswordHash], [d].[Specialty]
+    FROM [PatientHistories] AS [p0]
+    INNER JOIN [Doctors] AS [d] ON [p0].[DoctorId] = [d].[Id]
+) AS [t0] ON [t].[Id] = [t0].[PatientId]
+ORDER BY [t].[Id], [t0].[Id]
+2025-04-17 21:30:05.914 +02:00 [ERR] An exception occurred while iterating over the results of a query for context type 'AuthApi.Data.AppDbContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'RecordedAt'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__195_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:7e0d06df-cc5b-4c65-9d5e-bb055edfb9dc
+Error Number:207,State:1,Class:16
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'RecordedAt'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__195_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:7e0d06df-cc5b-4c65-9d5e-bb055edfb9dc
+Error Number:207,State:1,Class:16
+2025-04-17 21:30:06.060 +02:00 [ERR] Error retrieving patient with ID: 2. StackTrace:    at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__195_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at AuthApi.Services.UserService.GetPatientByIdAsync(Int32 patientId) in E:\Course\login .net\AuthApi\AuthApi\Services\UserService.cs:line 289
+   at AuthApi.Controllers.UserController.GetPatientById(Int32 id) in E:\Course\login .net\AuthApi\AuthApi\Controllers\UserController.cs:line 148
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'RecordedAt'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__195_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at AuthApi.Services.UserService.GetPatientByIdAsync(Int32 patientId) in E:\Course\login .net\AuthApi\AuthApi\Services\UserService.cs:line 289
+   at AuthApi.Controllers.UserController.GetPatientById(Int32 id) in E:\Course\login .net\AuthApi\AuthApi\Controllers\UserController.cs:line 148
+ClientConnectionId:7e0d06df-cc5b-4c65-9d5e-bb055edfb9dc
+Error Number:207,State:1,Class:16
+2025-04-17 21:30:06.066 +02:00 [INF] Executing ObjectResult, writing value of type '<>f__AnonymousType2`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-04-17 21:30:06.069 +02:00 [INF] Executed action AuthApi.Controllers.UserController.GetPatientById (AuthApi) in 954.4547ms
+2025-04-17 21:30:06.070 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.UserController.GetPatientById (AuthApi)'
+2025-04-17 21:30:06.072 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/api/User/patients/2 - 500 null application/json; charset=utf-8 962.9411ms
+2025-04-17 21:30:08.426 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/api/User/patients/5 - null null
+2025-04-17 21:30:08.429 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.UserController.GetPatientById (AuthApi)'
+2025-04-17 21:30:08.430 +02:00 [INF] Route matched with {action = "GetPatientById", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPatientById(Int32) on controller AuthApi.Controllers.UserController (AuthApi).
+2025-04-17 21:30:08.433 +02:00 [INF] GetPatientById called with ID: 5
+2025-04-17 21:30:08.435 +02:00 [INF] Fetching patient with ID: 5
+2025-04-17 21:30:09.140 +02:00 [ERR] Failed executing DbCommand (703ms) [Parameters=[@__patientId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [t].[Id], [t].[BirthDate], [t].[CreatedAt], [t].[Email], [t].[FirstName], [t].[Gender], [t].[ImageUrl], [t].[LastName], [t].[PasswordHash], [t0].[Id], [t0].[Diagnosis], [t0].[DoctorId], [t0].[PatientId], [t0].[RecordedAt], [t0].[Treatment], [t0].[Id0], [t0].[BirthDate], [t0].[Email], [t0].[FirstName], [t0].[Gender], [t0].[ImageUrl], [t0].[LastName], [t0].[PasswordHash], [t0].[Specialty]
+FROM (
+    SELECT TOP(1) [p].[Id], [p].[BirthDate], [p].[CreatedAt], [p].[Email], [p].[FirstName], [p].[Gender], [p].[ImageUrl], [p].[LastName], [p].[PasswordHash]
+    FROM [Patients] AS [p]
+    WHERE [p].[Id] = @__patientId_0
+) AS [t]
+LEFT JOIN (
+    SELECT [p0].[Id], [p0].[Diagnosis], [p0].[DoctorId], [p0].[PatientId], [p0].[RecordedAt], [p0].[Treatment], [d].[Id] AS [Id0], [d].[BirthDate], [d].[Email], [d].[FirstName], [d].[Gender], [d].[ImageUrl], [d].[LastName], [d].[PasswordHash], [d].[Specialty]
+    FROM [PatientHistories] AS [p0]
+    INNER JOIN [Doctors] AS [d] ON [p0].[DoctorId] = [d].[Id]
+) AS [t0] ON [t].[Id] = [t0].[PatientId]
+ORDER BY [t].[Id], [t0].[Id]
+2025-04-17 21:30:09.204 +02:00 [ERR] An exception occurred while iterating over the results of a query for context type 'AuthApi.Data.AppDbContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'RecordedAt'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__195_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:7e0d06df-cc5b-4c65-9d5e-bb055edfb9dc
+Error Number:207,State:1,Class:16
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'RecordedAt'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__195_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:7e0d06df-cc5b-4c65-9d5e-bb055edfb9dc
+Error Number:207,State:1,Class:16
+2025-04-17 21:30:09.320 +02:00 [ERR] Error retrieving patient with ID: 5. StackTrace:    at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__195_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at AuthApi.Services.UserService.GetPatientByIdAsync(Int32 patientId) in E:\Course\login .net\AuthApi\AuthApi\Services\UserService.cs:line 289
+   at AuthApi.Controllers.UserController.GetPatientById(Int32 id) in E:\Course\login .net\AuthApi\AuthApi\Controllers\UserController.cs:line 148
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'RecordedAt'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__195_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at AuthApi.Services.UserService.GetPatientByIdAsync(Int32 patientId) in E:\Course\login .net\AuthApi\AuthApi\Services\UserService.cs:line 289
+   at AuthApi.Controllers.UserController.GetPatientById(Int32 id) in E:\Course\login .net\AuthApi\AuthApi\Controllers\UserController.cs:line 148
+ClientConnectionId:7e0d06df-cc5b-4c65-9d5e-bb055edfb9dc
+Error Number:207,State:1,Class:16
+2025-04-17 21:30:09.325 +02:00 [INF] Executing ObjectResult, writing value of type '<>f__AnonymousType2`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-04-17 21:30:09.326 +02:00 [INF] Executed action AuthApi.Controllers.UserController.GetPatientById (AuthApi) in 894.7617ms
+2025-04-17 21:30:09.327 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.UserController.GetPatientById (AuthApi)'
+2025-04-17 21:30:09.328 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/api/User/patients/5 - 500 null application/json; charset=utf-8 902.1084ms
+2025-04-17 21:33:18.896 +02:00 [INF] User profile is available. Using 'C:\Users\TEFA\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-17 21:33:19.099 +02:00 [INF] Now listening on: https://localhost:7295
+2025-04-17 21:33:19.103 +02:00 [INF] Now listening on: http://localhost:5024
+2025-04-17 21:33:19.230 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-17 21:33:19.232 +02:00 [INF] Hosting environment: Development
+2025-04-17 21:33:19.235 +02:00 [INF] Content root path: E:\Course\login .net\AuthApi\AuthApi
+2025-04-17 21:33:19.445 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/index.html - null null
+2025-04-17 21:33:19.596 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/index.html - 200 null text/html;charset=utf-8 155.6114ms
+2025-04-17 21:33:19.615 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-17 21:33:19.622 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_vs/browserLink - null null
+2025-04-17 21:33:19.624 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - 200 16499 application/javascript; charset=utf-8 8.2729ms
+2025-04-17 21:33:19.654 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_vs/browserLink - 200 null text/javascript; charset=UTF-8 31.8539ms
+2025-04-17 21:33:19.701 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - null null
+2025-04-17 21:33:19.715 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 13.9025ms
+2025-04-17 21:33:35.151 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7295/api/Auth/login - application/json 53
+2025-04-17 21:33:35.156 +02:00 [INF] CORS policy execution successful.
+2025-04-17 21:33:35.160 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.AuthController.Login (AuthApi)'
+2025-04-17 21:33:35.176 +02:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(AuthApi.DTOs.LoginDto) on controller AuthApi.Controllers.AuthController (AuthApi).
+2025-04-17 21:33:35.296 +02:00 [INF] Login attempt for email: admin@gmail.com
+2025-04-17 21:33:36.601 +02:00 [INF] Executed DbCommand (124ms) [Parameters=[@__loginDto_Email_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email], [a].[PasswordHash]
+FROM [Admins] AS [a]
+WHERE [a].[Email] = @__loginDto_Email_0
+2025-04-17 21:33:36.842 +02:00 [INF] Admin login successful for email: admin@gmail.com
+2025-04-17 21:33:36.849 +02:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType5`5[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-04-17 21:33:36.855 +02:00 [INF] Executed action AuthApi.Controllers.AuthController.Login (AuthApi) in 1673.5962ms
+2025-04-17 21:33:36.856 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.AuthController.Login (AuthApi)'
+2025-04-17 21:33:36.862 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7295/api/Auth/login - 200 null application/json; charset=utf-8 1711.4526ms
+2025-04-17 21:34:21.446 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/api/User/patients/1 - null null
+2025-04-17 21:34:21.478 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.UserController.GetPatientById (AuthApi)'
+2025-04-17 21:34:21.483 +02:00 [INF] Route matched with {action = "GetPatientById", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPatientById(Int32) on controller AuthApi.Controllers.UserController (AuthApi).
+2025-04-17 21:34:21.492 +02:00 [INF] GetPatientById called with ID: 1
+2025-04-17 21:34:21.497 +02:00 [INF] Fetching patient with ID: 1
+2025-04-17 21:34:22.323 +02:00 [ERR] Failed executing DbCommand (708ms) [Parameters=[@__patientId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [t].[Id], [t].[BirthDate], [t].[CreatedAt], [t].[Email], [t].[FirstName], [t].[Gender], [t].[ImageUrl], [t].[LastName], [t].[PasswordHash], [t0].[Id], [t0].[Diagnosis], [t0].[DoctorId], [t0].[PatientId], [t0].[RecordedAt], [t0].[Treatment], [t0].[Id0], [t0].[BirthDate], [t0].[Email], [t0].[FirstName], [t0].[Gender], [t0].[ImageUrl], [t0].[LastName], [t0].[PasswordHash], [t0].[Specialty]
+FROM (
+    SELECT TOP(1) [p].[Id], [p].[BirthDate], [p].[CreatedAt], [p].[Email], [p].[FirstName], [p].[Gender], [p].[ImageUrl], [p].[LastName], [p].[PasswordHash]
+    FROM [Patients] AS [p]
+    WHERE [p].[Id] = @__patientId_0
+) AS [t]
+LEFT JOIN (
+    SELECT [p0].[Id], [p0].[Diagnosis], [p0].[DoctorId], [p0].[PatientId], [p0].[RecordedAt], [p0].[Treatment], [d].[Id] AS [Id0], [d].[BirthDate], [d].[Email], [d].[FirstName], [d].[Gender], [d].[ImageUrl], [d].[LastName], [d].[PasswordHash], [d].[Specialty]
+    FROM [PatientHistories] AS [p0]
+    INNER JOIN [Doctors] AS [d] ON [p0].[DoctorId] = [d].[Id]
+) AS [t0] ON [t].[Id] = [t0].[PatientId]
+ORDER BY [t].[Id], [t0].[Id]
+2025-04-17 21:34:22.404 +02:00 [ERR] An exception occurred while iterating over the results of a query for context type 'AuthApi.Data.AppDbContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'RecordedAt'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__195_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:7223db96-2cde-4b39-ba0a-627874c83236
+Error Number:207,State:1,Class:16
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'RecordedAt'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__195_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:7223db96-2cde-4b39-ba0a-627874c83236
+Error Number:207,State:1,Class:16
+2025-04-17 21:34:22.608 +02:00 [ERR] Error retrieving patient with ID: 1, CorrelationId: 19325037-5537-4b75-ae5e-6fd510964a52. StackTrace:    at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__195_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at AuthApi.Services.UserService.GetPatientByIdAsync(Int32 patientId) in E:\Course\login .net\AuthApi\AuthApi\Services\UserService.cs:line 289
+   at AuthApi.Controllers.UserController.GetPatientById(Int32 id) in E:\Course\login .net\AuthApi\AuthApi\Controllers\UserController.cs:line 148
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'RecordedAt'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__195_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at AuthApi.Services.UserService.GetPatientByIdAsync(Int32 patientId) in E:\Course\login .net\AuthApi\AuthApi\Services\UserService.cs:line 289
+   at AuthApi.Controllers.UserController.GetPatientById(Int32 id) in E:\Course\login .net\AuthApi\AuthApi\Controllers\UserController.cs:line 148
+ClientConnectionId:7223db96-2cde-4b39-ba0a-627874c83236
+Error Number:207,State:1,Class:16
+2025-04-17 21:34:22.659 +02:00 [INF] Executing ObjectResult, writing value of type '<>f__AnonymousType7`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-04-17 21:34:22.662 +02:00 [INF] Executed action AuthApi.Controllers.UserController.GetPatientById (AuthApi) in 1176.5695ms
+2025-04-17 21:34:22.663 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.UserController.GetPatientById (AuthApi)'
+2025-04-17 21:34:22.664 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/api/User/patients/1 - 500 null application/json; charset=utf-8 1218.2044ms
+2025-04-17 21:34:34.307 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/api/User/patients?pageNumber=1&pageSize=10 - null null
+2025-04-17 21:34:34.311 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.UserController.GetAllPatients (AuthApi)'
+2025-04-17 21:34:34.333 +02:00 [INF] Route matched with {action = "GetAllPatients", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllPatients(Int32, Int32, System.String) on controller AuthApi.Controllers.UserController (AuthApi).
+2025-04-17 21:34:34.340 +02:00 [INF] GetAllPatients called with pageNumber: 1, pageSize: 10, searchTerm: null
+2025-04-17 21:34:34.347 +02:00 [INF] Fetching all patients with pageNumber: 1, pageSize: 10, searchTerm: null
+2025-04-17 21:34:34.494 +02:00 [INF] Executed DbCommand (90ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Patients] AS [p]
+2025-04-17 21:34:35.232 +02:00 [ERR] Failed executing DbCommand (692ms) [Parameters=[@__p_0='?' (DbType = Int32), @__p_1='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [t].[Id], [t].[FirstName], [t].[LastName], [t].[Gender], [t].[BirthDate], [t].[Email], [t].[ImageUrl], [t].[CreatedAt], [t0].[Diagnosis], [t0].[Treatment], [t0].[DoctorId], [t0].[DoctorFirstName], [t0].[DoctorLastName], [t0].[c]
+FROM (
+    SELECT [p].[Id], [p].[FirstName], [p].[LastName], [p].[Gender], [p].[BirthDate], [p].[Email], [p].[ImageUrl], [p].[CreatedAt]
+    FROM [Patients] AS [p]
+    ORDER BY [p].[Id]
+    OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY
+) AS [t]
+LEFT JOIN (
+    SELECT [t1].[Diagnosis], [t1].[Treatment], [t1].[DoctorId], [t1].[DoctorFirstName], [t1].[DoctorLastName], [t1].[c], [t1].[PatientId]
+    FROM (
+        SELECT [p0].[Diagnosis], [p0].[Treatment], [p0].[DoctorId], [d].[FirstName] AS [DoctorFirstName], [d].[LastName] AS [DoctorLastName], 1 AS [c], [p0].[PatientId], ROW_NUMBER() OVER(PARTITION BY [p0].[PatientId] ORDER BY [p0].[RecordedAt] DESC) AS [row]
+        FROM [PatientHistories] AS [p0]
+        INNER JOIN [Doctors] AS [d] ON [p0].[DoctorId] = [d].[Id]
+    ) AS [t1]
+    WHERE [t1].[row] <= 1
+) AS [t0] ON [t].[Id] = [t0].[PatientId]
+ORDER BY [t].[Id]
+2025-04-17 21:34:35.288 +02:00 [ERR] An exception occurred while iterating over the results of a query for context type 'AuthApi.Data.AppDbContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'RecordedAt'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__195_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:7223db96-2cde-4b39-ba0a-627874c83236
+Error Number:207,State:1,Class:16
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'RecordedAt'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__195_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:7223db96-2cde-4b39-ba0a-627874c83236
+Error Number:207,State:1,Class:16
+2025-04-17 21:34:35.402 +02:00 [ERR] Error fetching patients. StackTrace:    at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__195_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at AuthApi.Services.UserService.GetAllPatientsAsync(Int32 pageNumber, Int32 pageSize, String searchTerm) in E:\Course\login .net\AuthApi\AuthApi\Services\UserService.cs:line 92
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'RecordedAt'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__195_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at AuthApi.Services.UserService.GetAllPatientsAsync(Int32 pageNumber, Int32 pageSize, String searchTerm) in E:\Course\login .net\AuthApi\AuthApi\Services\UserService.cs:line 92
+ClientConnectionId:7223db96-2cde-4b39-ba0a-627874c83236
+Error Number:207,State:1,Class:16
+2025-04-17 21:34:35.463 +02:00 [ERR] Error retrieving patients. StackTrace:    at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__195_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at AuthApi.Services.UserService.GetAllPatientsAsync(Int32 pageNumber, Int32 pageSize, String searchTerm) in E:\Course\login .net\AuthApi\AuthApi\Services\UserService.cs:line 92
+   at AuthApi.Controllers.UserController.GetAllPatients(Int32 pageNumber, Int32 pageSize, String searchTerm) in E:\Course\login .net\AuthApi\AuthApi\Controllers\UserController.cs:line 64
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'RecordedAt'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__195_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at AuthApi.Services.UserService.GetAllPatientsAsync(Int32 pageNumber, Int32 pageSize, String searchTerm) in E:\Course\login .net\AuthApi\AuthApi\Services\UserService.cs:line 92
+   at AuthApi.Controllers.UserController.GetAllPatients(Int32 pageNumber, Int32 pageSize, String searchTerm) in E:\Course\login .net\AuthApi\AuthApi\Controllers\UserController.cs:line 64
+ClientConnectionId:7223db96-2cde-4b39-ba0a-627874c83236
+Error Number:207,State:1,Class:16
+2025-04-17 21:34:35.468 +02:00 [INF] Executing ObjectResult, writing value of type '<>f__AnonymousType2`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-04-17 21:34:35.470 +02:00 [INF] Executed action AuthApi.Controllers.UserController.GetAllPatients (AuthApi) in 1135.538ms
+2025-04-17 21:34:35.472 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.UserController.GetAllPatients (AuthApi)'
+2025-04-17 21:34:35.473 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/api/User/patients?pageNumber=1&pageSize=10 - 500 null application/json; charset=utf-8 1165.3644ms
+2025-04-17 21:34:44.962 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/api/User/doctors?pageNumber=1&pageSize=10 - null null
+2025-04-17 21:34:44.965 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.UserController.GetAllDoctors (AuthApi)'
+2025-04-17 21:34:44.968 +02:00 [INF] Route matched with {action = "GetAllDoctors", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllDoctors(Int32, Int32, System.String) on controller AuthApi.Controllers.UserController (AuthApi).
+2025-04-17 21:34:44.974 +02:00 [INF] GetAllDoctors called with pageNumber: 1, pageSize: 10, searchTerm: null
+2025-04-17 21:34:44.979 +02:00 [INF] Fetching all doctors with pageNumber: 1, pageSize: 10, searchTerm: null
+2025-04-17 21:34:45.075 +02:00 [INF] Executed DbCommand (90ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Doctors] AS [d]
+2025-04-17 21:34:45.261 +02:00 [INF] Executed DbCommand (179ms) [Parameters=[@__p_0='?' (DbType = Int32), @__p_1='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [d].[Id], [d].[FirstName], [d].[LastName], [d].[Gender], [d].[BirthDate], [d].[Specialty], [d].[Email], [d].[ImageUrl]
+FROM [Doctors] AS [d]
+ORDER BY [d].[Id]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY
+2025-04-17 21:34:45.266 +02:00 [INF] Successfully retrieved 1 doctors
+2025-04-17 21:34:45.267 +02:00 [INF] Executing OkObjectResult, writing value of type 'AuthApi.DTOs.PagedResult`1[[AuthApi.DTOs.DoctorResponseDto, AuthApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-04-17 21:34:45.275 +02:00 [INF] Executed action AuthApi.Controllers.UserController.GetAllDoctors (AuthApi) in 304.6741ms
+2025-04-17 21:34:45.276 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.UserController.GetAllDoctors (AuthApi)'
+2025-04-17 21:34:45.277 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/api/User/doctors?pageNumber=1&pageSize=10 - 200 null application/json; charset=utf-8 315.2147ms
+2025-04-17 21:36:35.174 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7295/api/Auth/patient/register - multipart/form-data; boundary=----geckoformboundary9b72d9b343dcdec7db574572eb695253 1205
+2025-04-17 21:36:35.178 +02:00 [INF] CORS policy execution successful.
+2025-04-17 21:36:35.179 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.AuthController.RegisterPatient (AuthApi)'
+2025-04-17 21:36:35.201 +02:00 [INF] Route matched with {action = "RegisterPatient", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] RegisterPatient(AuthApi.DTOs.PatientDto) on controller AuthApi.Controllers.AuthController (AuthApi).
+2025-04-17 21:36:35.220 +02:00 [INF] RegisterPatient called with email: alisayed@gmail.com
+2025-04-17 21:36:35.324 +02:00 [INF] Executed DbCommand (87ms) [Parameters=[@__patientDto_DoctorId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [d].[Id], [d].[BirthDate], [d].[Email], [d].[FirstName], [d].[Gender], [d].[ImageUrl], [d].[LastName], [d].[PasswordHash], [d].[Specialty]
+FROM [Doctors] AS [d]
+WHERE [d].[Id] = @__patientDto_DoctorId_0
+2025-04-17 21:36:35.433 +02:00 [INF] Executed DbCommand (88ms) [Parameters=[@__patientDto_Email_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [p].[Id], [p].[BirthDate], [p].[CreatedAt], [p].[Email], [p].[FirstName], [p].[Gender], [p].[ImageUrl], [p].[LastName], [p].[PasswordHash]
+FROM [Patients] AS [p]
+WHERE [p].[Email] = @__patientDto_Email_0
+2025-04-17 21:36:35.661 +02:00 [INF] Attempting to save patient with email: alisayed@gmail.com
+2025-04-17 21:36:35.903 +02:00 [INF] Executed DbCommand (86ms) [Parameters=[@p0='?' (DbType = DateTime2), @p1='?' (DbType = DateTime2), @p2='?' (Size = 4000), @p3='?' (Size = 4000), @p4='?' (Size = 4000), @p5='?' (Size = 4000), @p6='?' (Size = 4000), @p7='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Patients] ([BirthDate], [CreatedAt], [Email], [FirstName], [Gender], [ImageUrl], [LastName], [PasswordHash])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7);
+2025-04-17 21:36:36.111 +02:00 [ERR] Failed executing DbCommand (189ms) [Parameters=[@p8='?' (Size = 4000), @p9='?' (DbType = Int32), @p10='?' (DbType = Int32), @p11='?' (DbType = DateTime2), @p12='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [PatientHistories] ([Diagnosis], [DoctorId], [PatientId], [RecordedAt], [Treatment])
+OUTPUT INSERTED.[Id]
+VALUES (@p8, @p9, @p10, @p11, @p12);
+2025-04-17 21:36:36.542 +02:00 [ERR] An exception occurred in the database while saving changes for context type 'AuthApi.Data.AppDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'RecordedAt'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__195_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:7223db96-2cde-4b39-ba0a-627874c83236
+Error Number:207,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'RecordedAt'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__195_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:7223db96-2cde-4b39-ba0a-627874c83236
+Error Number:207,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2025-04-17 21:36:36.642 +02:00 [ERR] Error registering patient with email alisayed@gmail.com. StackTrace:    at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at AuthApi.Controllers.AuthController.RegisterPatient(PatientDto patientDto) in E:\Course\login .net\AuthApi\AuthApi\Controllers\AuthController.cs:line 427
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'RecordedAt'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__195_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:7223db96-2cde-4b39-ba0a-627874c83236
+Error Number:207,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at AuthApi.Controllers.AuthController.RegisterPatient(PatientDto patientDto) in E:\Course\login .net\AuthApi\AuthApi\Controllers\AuthController.cs:line 427
+2025-04-17 21:36:36.647 +02:00 [INF] Executing ObjectResult, writing value of type '<>f__AnonymousType2`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-04-17 21:36:36.648 +02:00 [INF] Executed action AuthApi.Controllers.AuthController.RegisterPatient (AuthApi) in 1445.0902ms
+2025-04-17 21:36:36.654 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.AuthController.RegisterPatient (AuthApi)'
+2025-04-17 21:36:36.655 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7295/api/Auth/patient/register - 500 null application/json; charset=utf-8 1480.9476ms
+2025-04-17 21:37:48.076 +02:00 [INF] User profile is available. Using 'C:\Users\TEFA\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-17 21:37:48.267 +02:00 [INF] Now listening on: https://localhost:7295
+2025-04-17 21:37:48.269 +02:00 [INF] Now listening on: http://localhost:5024
+2025-04-17 21:37:48.339 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-17 21:37:48.341 +02:00 [INF] Hosting environment: Development
+2025-04-17 21:37:48.342 +02:00 [INF] Content root path: E:\Course\login .net\AuthApi\AuthApi
+2025-04-17 21:37:48.862 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/index.html - null null
+2025-04-17 21:37:49.017 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/index.html - 200 null text/html;charset=utf-8 160.7502ms
+2025-04-17 21:37:49.034 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_vs/browserLink - null null
+2025-04-17 21:37:49.034 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-17 21:37:49.041 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - 200 16499 application/javascript; charset=utf-8 7.1578ms
+2025-04-17 21:37:49.060 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_vs/browserLink - 200 null text/javascript; charset=UTF-8 26.2285ms
+2025-04-17 21:37:49.117 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - null null
+2025-04-17 21:37:49.134 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 16.704ms
+2025-04-17 21:38:32.136 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7295/api/Auth/patient/register - multipart/form-data; boundary=----geckoformboundaryf05999f8db495fc767143010f2349e4b 1206
+2025-04-17 21:38:32.144 +02:00 [INF] CORS policy execution successful.
+2025-04-17 21:38:32.148 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.AuthController.RegisterPatient (AuthApi)'
+2025-04-17 21:38:32.166 +02:00 [INF] Route matched with {action = "RegisterPatient", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] RegisterPatient(AuthApi.DTOs.PatientDto) on controller AuthApi.Controllers.AuthController (AuthApi).
+2025-04-17 21:38:32.289 +02:00 [INF] RegisterPatient called with email: alisayed@gmail.com
+2025-04-17 21:38:33.544 +02:00 [INF] Executed DbCommand (122ms) [Parameters=[@__patientDto_DoctorId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [d].[Id], [d].[BirthDate], [d].[Email], [d].[FirstName], [d].[Gender], [d].[ImageUrl], [d].[LastName], [d].[PasswordHash], [d].[Specialty]
+FROM [Doctors] AS [d]
+WHERE [d].[Id] = @__patientDto_DoctorId_0
+2025-04-17 21:38:33.685 +02:00 [INF] Executed DbCommand (87ms) [Parameters=[@__patientDto_Email_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [p].[Id], [p].[BirthDate], [p].[CreatedAt], [p].[Email], [p].[FirstName], [p].[Gender], [p].[ImageUrl], [p].[LastName], [p].[PasswordHash]
+FROM [Patients] AS [p]
+WHERE [p].[Email] = @__patientDto_Email_0
+2025-04-17 21:38:33.905 +02:00 [INF] Attempting to save patient with email: alisayed@gmail.com
+2025-04-17 21:38:34.153 +02:00 [INF] Executed DbCommand (85ms) [Parameters=[@p0='?' (DbType = DateTime2), @p1='?' (DbType = DateTime2), @p2='?' (Size = 4000), @p3='?' (Size = 4000), @p4='?' (Size = 4000), @p5='?' (Size = 4000), @p6='?' (Size = 4000), @p7='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Patients] ([BirthDate], [CreatedAt], [Email], [FirstName], [Gender], [ImageUrl], [LastName], [PasswordHash])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7);
+2025-04-17 21:38:34.253 +02:00 [INF] Executed DbCommand (83ms) [Parameters=[@p8='?' (Size = 4000), @p9='?' (DbType = Int32), @p10='?' (DbType = Int32), @p11='?' (Size = 4000), @p12='?' (DbType = DateTime2)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [PatientHistories] ([Diagnosis], [DoctorId], [PatientId], [Treatment], [TreatmentDate])
+OUTPUT INSERTED.[Id]
+VALUES (@p8, @p9, @p10, @p11, @p12);
+2025-04-17 21:38:34.353 +02:00 [INF] No image provided for patient with ID 9
+2025-04-17 21:38:34.356 +02:00 [INF] Patient registered successfully with ID: 9
+2025-04-17 21:38:34.362 +02:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType4`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[AuthApi.DTOs.PatientResponseDto, AuthApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-04-17 21:38:34.376 +02:00 [INF] Executed action AuthApi.Controllers.AuthController.RegisterPatient (AuthApi) in 2206.3584ms
+2025-04-17 21:38:34.377 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.AuthController.RegisterPatient (AuthApi)'
+2025-04-17 21:38:34.383 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7295/api/Auth/patient/register - 200 null application/json; charset=utf-8 2248.0336ms
+2025-04-17 21:40:13.141 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/api/User/details - null null
+2025-04-17 21:40:13.151 +02:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2025-04-17 21:40:13.153 +02:00 [INF] AuthenticationScheme: Bearer was challenged.
+2025-04-17 21:40:13.154 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/api/User/details - 401 0 null 13.5777ms
+2025-04-17 21:40:35.939 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7295/api/Auth/login - application/json 56
+2025-04-17 21:40:35.943 +02:00 [INF] CORS policy execution successful.
+2025-04-17 21:40:35.944 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.AuthController.Login (AuthApi)'
+2025-04-17 21:40:35.948 +02:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(AuthApi.DTOs.LoginDto) on controller AuthApi.Controllers.AuthController (AuthApi).
+2025-04-17 21:40:35.964 +02:00 [INF] Login attempt for email: alisayed@gmail.com
+2025-04-17 21:40:36.076 +02:00 [INF] Executed DbCommand (82ms) [Parameters=[@__loginDto_Email_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email], [a].[PasswordHash]
+FROM [Admins] AS [a]
+WHERE [a].[Email] = @__loginDto_Email_0
+2025-04-17 21:40:36.175 +02:00 [INF] Executed DbCommand (88ms) [Parameters=[@__loginDto_Email_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [d].[Id], [d].[BirthDate], [d].[Email], [d].[FirstName], [d].[Gender], [d].[ImageUrl], [d].[LastName], [d].[PasswordHash], [d].[Specialty]
+FROM [Doctors] AS [d]
+WHERE [d].[Email] = @__loginDto_Email_0
+2025-04-17 21:40:36.264 +02:00 [INF] Executed DbCommand (81ms) [Parameters=[@__loginDto_Email_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [p].[Id], [p].[BirthDate], [p].[CreatedAt], [p].[Email], [p].[FirstName], [p].[Gender], [p].[ImageUrl], [p].[LastName], [p].[PasswordHash]
+FROM [Patients] AS [p]
+WHERE [p].[Email] = @__loginDto_Email_0
+2025-04-17 21:40:36.478 +02:00 [INF] Patient login successful for email: alisayed@gmail.com
+2025-04-17 21:40:36.479 +02:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType5`5[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-04-17 21:40:36.481 +02:00 [INF] Executed action AuthApi.Controllers.AuthController.Login (AuthApi) in 532.3726ms
+2025-04-17 21:40:36.482 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.AuthController.Login (AuthApi)'
+2025-04-17 21:40:36.482 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7295/api/Auth/login - 200 null application/json; charset=utf-8 546.0179ms
+2025-04-17 21:40:52.195 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/api/User/details - null null
+2025-04-17 21:40:52.219 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.UserController.GetMyDetails (AuthApi)'
+2025-04-17 21:40:52.222 +02:00 [INF] Route matched with {action = "GetMyDetails", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetMyDetails() on controller AuthApi.Controllers.UserController (AuthApi).
+2025-04-17 21:40:52.226 +02:00 [INF] GetMyDetails called for logged-in user
+2025-04-17 21:40:52.231 +02:00 [INF] Fetching user details for userId: 9, role: patient
+2025-04-17 21:40:52.924 +02:00 [INF] Executed DbCommand (593ms) [Parameters=[@__userId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [t].[Id], [t].[FirstName], [t].[LastName], [t].[Gender], [t].[BirthDate], [t].[Email], [t].[ImageUrl], [t].[CreatedAt], [t0].[Diagnosis], [t0].[Treatment], [t0].[DoctorId], [t0].[DoctorFirstName], [t0].[DoctorLastName], [t0].[Id], [t0].[Id0]
+FROM (
+    SELECT TOP(1) [p].[Id], [p].[FirstName], [p].[LastName], [p].[Gender], [p].[BirthDate], [p].[Email], [p].[ImageUrl], [p].[CreatedAt]
+    FROM [Patients] AS [p]
+    WHERE [p].[Id] = @__userId_0
+) AS [t]
+LEFT JOIN (
+    SELECT [p0].[Diagnosis], [p0].[Treatment], [p0].[DoctorId], [d].[FirstName] AS [DoctorFirstName], [d].[LastName] AS [DoctorLastName], [p0].[Id], [d].[Id] AS [Id0], [p0].[PatientId]
+    FROM [PatientHistories] AS [p0]
+    INNER JOIN [Doctors] AS [d] ON [p0].[DoctorId] = [d].[Id]
+) AS [t0] ON [t].[Id] = [t0].[PatientId]
+ORDER BY [t].[Id], [t0].[Id]
+2025-04-17 21:40:52.930 +02:00 [INF] Successfully retrieved details for userId: 9, role: patient
+2025-04-17 21:40:52.931 +02:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType6`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Object, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-04-17 21:40:52.932 +02:00 [INF] Executed action AuthApi.Controllers.UserController.GetMyDetails (AuthApi) in 709.4742ms
+2025-04-17 21:40:52.935 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.UserController.GetMyDetails (AuthApi)'
+2025-04-17 21:40:52.936 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/api/User/details - 200 null application/json; charset=utf-8 740.9588ms
+2025-04-17 21:42:16.531 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7295/api/Auth/login - application/json 58
+2025-04-17 21:42:16.534 +02:00 [INF] CORS policy execution successful.
+2025-04-17 21:42:16.535 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.AuthController.Login (AuthApi)'
+2025-04-17 21:42:16.535 +02:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(AuthApi.DTOs.LoginDto) on controller AuthApi.Controllers.AuthController (AuthApi).
+2025-04-17 21:42:16.539 +02:00 [INF] Login attempt for email: khaled3213@gmail.com
+2025-04-17 21:42:16.628 +02:00 [INF] Executed DbCommand (84ms) [Parameters=[@__loginDto_Email_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email], [a].[PasswordHash]
+FROM [Admins] AS [a]
+WHERE [a].[Email] = @__loginDto_Email_0
+2025-04-17 21:42:16.712 +02:00 [INF] Executed DbCommand (81ms) [Parameters=[@__loginDto_Email_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [d].[Id], [d].[BirthDate], [d].[Email], [d].[FirstName], [d].[Gender], [d].[ImageUrl], [d].[LastName], [d].[PasswordHash], [d].[Specialty]
+FROM [Doctors] AS [d]
+WHERE [d].[Email] = @__loginDto_Email_0
+2025-04-17 21:42:16.796 +02:00 [INF] Executed DbCommand (80ms) [Parameters=[@__loginDto_Email_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [p].[Id], [p].[BirthDate], [p].[CreatedAt], [p].[Email], [p].[FirstName], [p].[Gender], [p].[ImageUrl], [p].[LastName], [p].[PasswordHash]
+FROM [Patients] AS [p]
+WHERE [p].[Email] = @__loginDto_Email_0
+2025-04-17 21:42:16.922 +02:00 [INF] Patient login successful for email: khaled3213@gmail.com
+2025-04-17 21:42:16.923 +02:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType5`5[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-04-17 21:42:16.923 +02:00 [INF] Executed action AuthApi.Controllers.AuthController.Login (AuthApi) in 387.2156ms
+2025-04-17 21:42:16.926 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.AuthController.Login (AuthApi)'
+2025-04-17 21:42:16.928 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7295/api/Auth/login - 200 null application/json; charset=utf-8 398.3918ms
+2025-04-17 21:42:31.785 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/api/User/details - null null
+2025-04-17 21:42:31.787 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.UserController.GetMyDetails (AuthApi)'
+2025-04-17 21:42:31.788 +02:00 [INF] Route matched with {action = "GetMyDetails", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetMyDetails() on controller AuthApi.Controllers.UserController (AuthApi).
+2025-04-17 21:42:31.790 +02:00 [INF] GetMyDetails called for logged-in user
+2025-04-17 21:42:31.792 +02:00 [INF] Fetching user details for userId: 10, role: patient
+2025-04-17 21:42:32.392 +02:00 [INF] Executed DbCommand (593ms) [Parameters=[@__userId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [t].[Id], [t].[FirstName], [t].[LastName], [t].[Gender], [t].[BirthDate], [t].[Email], [t].[ImageUrl], [t].[CreatedAt], [t0].[Diagnosis], [t0].[Treatment], [t0].[DoctorId], [t0].[DoctorFirstName], [t0].[DoctorLastName], [t0].[Id], [t0].[Id0]
+FROM (
+    SELECT TOP(1) [p].[Id], [p].[FirstName], [p].[LastName], [p].[Gender], [p].[BirthDate], [p].[Email], [p].[ImageUrl], [p].[CreatedAt]
+    FROM [Patients] AS [p]
+    WHERE [p].[Id] = @__userId_0
+) AS [t]
+LEFT JOIN (
+    SELECT [p0].[Diagnosis], [p0].[Treatment], [p0].[DoctorId], [d].[FirstName] AS [DoctorFirstName], [d].[LastName] AS [DoctorLastName], [p0].[Id], [d].[Id] AS [Id0], [p0].[PatientId]
+    FROM [PatientHistories] AS [p0]
+    INNER JOIN [Doctors] AS [d] ON [p0].[DoctorId] = [d].[Id]
+) AS [t0] ON [t].[Id] = [t0].[PatientId]
+ORDER BY [t].[Id], [t0].[Id]
+2025-04-17 21:42:32.395 +02:00 [INF] Successfully retrieved details for userId: 10, role: patient
+2025-04-17 21:42:32.396 +02:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType6`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Object, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-04-17 21:42:32.397 +02:00 [INF] Executed action AuthApi.Controllers.UserController.GetMyDetails (AuthApi) in 608.1279ms
+2025-04-17 21:42:32.398 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.UserController.GetMyDetails (AuthApi)'
+2025-04-17 21:42:32.399 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/api/User/details - 200 null application/json; charset=utf-8 613.9191ms

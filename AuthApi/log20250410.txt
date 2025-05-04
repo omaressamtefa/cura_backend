@@ -1,0 +1,1432 @@
+2025-04-10 05:53:52.072 +02:00 [INF] User profile is available. Using 'C:\Users\TEFA\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-10 05:53:52.176 +02:00 [WRN] The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+2025-04-10 05:53:52.256 +02:00 [INF] Now listening on: https://localhost:7295
+2025-04-10 05:53:52.258 +02:00 [INF] Now listening on: http://localhost:5024
+2025-04-10 05:53:52.321 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-10 05:53:52.323 +02:00 [INF] Hosting environment: Development
+2025-04-10 05:53:52.325 +02:00 [INF] Content root path: E:\Course\login .net\AuthApi\AuthApi
+2025-04-10 05:53:53.008 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/index.html - null null
+2025-04-10 05:53:53.174 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/index.html - 200 null text/html;charset=utf-8 172.2411ms
+2025-04-10 05:53:53.199 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-10 05:53:53.200 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_vs/browserLink - null null
+2025-04-10 05:53:53.207 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - 200 16499 application/javascript; charset=utf-8 8.0731ms
+2025-04-10 05:53:53.244 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_vs/browserLink - 200 null text/javascript; charset=UTF-8 44.7613ms
+2025-04-10 05:53:53.366 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - null null
+2025-04-10 05:53:53.384 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 17.6913ms
+2025-04-10 06:01:34.351 +02:00 [INF] User profile is available. Using 'C:\Users\TEFA\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-10 06:01:34.471 +02:00 [WRN] The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+2025-04-10 06:01:34.564 +02:00 [INF] Now listening on: https://localhost:7295
+2025-04-10 06:01:34.566 +02:00 [INF] Now listening on: http://localhost:5024
+2025-04-10 06:01:34.642 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-10 06:01:34.648 +02:00 [INF] Hosting environment: Development
+2025-04-10 06:01:34.650 +02:00 [INF] Content root path: E:\Course\login .net\AuthApi\AuthApi
+2025-04-10 06:01:35.106 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/index.html - null null
+2025-04-10 06:01:35.219 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/index.html - 200 null text/html;charset=utf-8 117.9955ms
+2025-04-10 06:01:35.248 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_vs/browserLink - null null
+2025-04-10 06:01:35.250 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-10 06:01:35.260 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - 200 16499 application/javascript; charset=utf-8 10.5402ms
+2025-04-10 06:01:35.278 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_vs/browserLink - 200 null text/javascript; charset=UTF-8 30.3201ms
+2025-04-10 06:01:35.395 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - null null
+2025-04-10 06:01:35.406 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 11.803ms
+2025-04-10 06:01:48.372 +02:00 [INF] User profile is available. Using 'C:\Users\TEFA\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-10 06:01:48.475 +02:00 [WRN] The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+2025-04-10 06:01:48.570 +02:00 [INF] Now listening on: https://localhost:7295
+2025-04-10 06:01:48.575 +02:00 [INF] Now listening on: http://localhost:5024
+2025-04-10 06:01:48.641 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-10 06:01:48.648 +02:00 [INF] Hosting environment: Development
+2025-04-10 06:01:48.650 +02:00 [INF] Content root path: E:\Course\login .net\AuthApi\AuthApi
+2025-04-10 06:01:49.191 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/index.html - null null
+2025-04-10 06:01:49.305 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/index.html - 200 null text/html;charset=utf-8 119.671ms
+2025-04-10 06:01:49.336 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_vs/browserLink - null null
+2025-04-10 06:01:49.338 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-10 06:01:49.346 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - 200 16499 application/javascript; charset=utf-8 7.489ms
+2025-04-10 06:01:49.365 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_vs/browserLink - 200 null text/javascript; charset=UTF-8 29.0134ms
+2025-04-10 06:01:49.461 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - null null
+2025-04-10 06:01:49.473 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 12.4581ms
+2025-04-10 06:12:00.431 +02:00 [INF] User profile is available. Using 'C:\Users\TEFA\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-10 06:12:00.595 +02:00 [INF] Now listening on: https://localhost:7295
+2025-04-10 06:12:00.597 +02:00 [INF] Now listening on: http://localhost:5024
+2025-04-10 06:12:00.662 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-10 06:12:00.665 +02:00 [INF] Hosting environment: Development
+2025-04-10 06:12:00.666 +02:00 [INF] Content root path: E:\Course\login .net\AuthApi\AuthApi
+2025-04-10 06:12:01.700 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/index.html - null null
+2025-04-10 06:12:01.801 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/index.html - 200 null text/html;charset=utf-8 105.171ms
+2025-04-10 06:12:01.833 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_vs/browserLink - null null
+2025-04-10 06:12:01.833 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-10 06:12:01.844 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - 200 16499 application/javascript; charset=utf-8 11.6805ms
+2025-04-10 06:12:01.865 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_vs/browserLink - 200 null text/javascript; charset=UTF-8 32.5325ms
+2025-04-10 06:12:01.955 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - null null
+2025-04-10 06:12:01.967 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 13.5611ms
+2025-04-10 06:12:34.408 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5024/ - null null
+2025-04-10 06:12:34.453 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5024/ - 307 0 null 45.9228ms
+2025-04-10 06:12:34.460 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/ - null null
+2025-04-10 06:12:34.567 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/ - 404 0 null 107.2014ms
+2025-04-10 06:12:34.574 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7295/, Response status code: 404
+2025-04-10 06:12:36.291 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/ - null null
+2025-04-10 06:12:36.302 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/ - 404 0 null 11.0805ms
+2025-04-10 06:12:36.341 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7295/, Response status code: 404
+2025-04-10 06:31:12.243 +02:00 [INF] User profile is available. Using 'C:\Users\TEFA\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-10 06:31:12.401 +02:00 [INF] Now listening on: https://localhost:7295
+2025-04-10 06:31:12.403 +02:00 [INF] Now listening on: http://localhost:5024
+2025-04-10 06:31:12.463 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-10 06:31:12.465 +02:00 [INF] Hosting environment: Development
+2025-04-10 06:31:12.467 +02:00 [INF] Content root path: E:\Course\login .net\AuthApi\AuthApi
+2025-04-10 06:31:13.857 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/index.html - null null
+2025-04-10 06:31:13.966 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/index.html - 200 null text/html;charset=utf-8 113.3891ms
+2025-04-10 06:31:13.984 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-10 06:31:13.987 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_vs/browserLink - null null
+2025-04-10 06:31:13.987 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/swagger-ui.css - null null
+2025-04-10 06:31:13.997 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - 200 16499 application/javascript; charset=utf-8 12.6783ms
+2025-04-10 06:31:14.090 +02:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-04-10 06:31:14.093 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/swagger-ui.css - 499 144929 text/css 106.7792ms
+2025-04-10 06:31:14.100 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_vs/browserLink - 200 null text/javascript; charset=UTF-8 112.7296ms
+2025-04-10 06:31:14.169 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - null null
+2025-04-10 06:31:14.182 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 13.7528ms
+2025-04-10 06:37:39.003 +02:00 [INF] User profile is available. Using 'C:\Users\TEFA\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-10 06:37:39.208 +02:00 [INF] Now listening on: https://localhost:7295
+2025-04-10 06:37:39.211 +02:00 [INF] Now listening on: http://localhost:5024
+2025-04-10 06:37:39.295 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-10 06:37:39.299 +02:00 [INF] Hosting environment: Development
+2025-04-10 06:37:39.322 +02:00 [INF] Content root path: E:\Course\login .net\AuthApi\AuthApi
+2025-04-10 06:37:40.058 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/index.html - null null
+2025-04-10 06:37:40.195 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/index.html - 200 null text/html;charset=utf-8 141.1069ms
+2025-04-10 06:37:40.222 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-10 06:37:40.224 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_vs/browserLink - null null
+2025-04-10 06:37:40.234 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - 200 16499 application/javascript; charset=utf-8 12.432ms
+2025-04-10 06:37:40.270 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_vs/browserLink - 200 null text/javascript; charset=UTF-8 46.1134ms
+2025-04-10 06:37:40.367 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - null null
+2025-04-10 06:37:40.380 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 13.7864ms
+2025-04-10 06:38:09.774 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7295/api/Auth/login - application/json 60
+2025-04-10 06:38:09.970 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.AuthController.Login (AuthApi)'
+2025-04-10 06:38:10.032 +02:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(AuthApi.DTOs.LoginDto) on controller AuthApi.Controllers.AuthController (AuthApi).
+2025-04-10 06:38:10.439 +02:00 [INF] Login attempt for email: admin1@gedisa.com
+2025-04-10 06:38:12.605 +02:00 [INF] Executed DbCommand (120ms) [Parameters=[@__loginDto_Email_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email], [a].[PasswordHash]
+FROM [Admins] AS [a]
+WHERE [a].[Email] = @__loginDto_Email_0
+2025-04-10 06:38:13.452 +02:00 [WRN] Invalid password for admin with email: admin1@gedisa.com
+2025-04-10 06:38:13.506 +02:00 [INF] Executing BadRequestObjectResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-04-10 06:38:13.554 +02:00 [INF] Executed action AuthApi.Controllers.AuthController.Login (AuthApi) in 3497.2285ms
+2025-04-10 06:38:13.561 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.AuthController.Login (AuthApi)'
+2025-04-10 06:38:13.584 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7295/api/Auth/login - 400 null application/json; charset=utf-8 3810.3736ms
+2025-04-10 06:38:19.315 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7295/api/Auth/login - application/json 61
+2025-04-10 06:38:19.329 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.AuthController.Login (AuthApi)'
+2025-04-10 06:38:19.333 +02:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(AuthApi.DTOs.LoginDto) on controller AuthApi.Controllers.AuthController (AuthApi).
+2025-04-10 06:38:19.346 +02:00 [INF] Login attempt for email: admin1@gedisa.com
+2025-04-10 06:38:19.389 +02:00 [INF] Executed DbCommand (9ms) [Parameters=[@__loginDto_Email_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email], [a].[PasswordHash]
+FROM [Admins] AS [a]
+WHERE [a].[Email] = @__loginDto_Email_0
+2025-04-10 06:38:19.898 +02:00 [INF] Admin login successful for email: admin1@gedisa.com
+2025-04-10 06:38:19.901 +02:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType5`5[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-04-10 06:38:19.907 +02:00 [INF] Executed action AuthApi.Controllers.AuthController.Login (AuthApi) in 567.8977ms
+2025-04-10 06:38:19.910 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.AuthController.Login (AuthApi)'
+2025-04-10 06:38:19.913 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7295/api/Auth/login - 200 null application/json; charset=utf-8 598.6698ms
+2025-04-10 06:38:38.384 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/api/User/doctors?pageNumber=1&pageSize=10 - null null
+2025-04-10 06:38:38.490 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.UserController.GetAllDoctors (AuthApi)'
+2025-04-10 06:38:38.508 +02:00 [INF] Route matched with {action = "GetAllDoctors", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllDoctors(Int32, Int32, System.String) on controller AuthApi.Controllers.UserController (AuthApi).
+2025-04-10 06:38:38.538 +02:00 [INF] GetAllDoctors called with pageNumber: 1, pageSize: 10, searchTerm: null
+2025-04-10 06:38:38.555 +02:00 [INF] Fetching all doctors with pageNumber: 1, pageSize: 10, searchTerm: null
+2025-04-10 06:38:38.761 +02:00 [INF] Executed DbCommand (25ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Doctors] AS [d]
+2025-04-10 06:38:38.819 +02:00 [INF] Executed DbCommand (5ms) [Parameters=[@__p_0='?' (DbType = Int32), @__p_1='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [d].[Id], [d].[FirstName], [d].[LastName], [d].[Gender], [d].[BirthDate], [d].[Specialty], [d].[Email], [d].[ImageUrl]
+FROM [Doctors] AS [d]
+ORDER BY [d].[Id]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY
+2025-04-10 06:38:38.833 +02:00 [INF] Successfully retrieved 3 doctors
+2025-04-10 06:38:38.836 +02:00 [INF] Executing OkObjectResult, writing value of type 'AuthApi.DTOs.PagedResult`1[[AuthApi.DTOs.DoctorResponseDto, AuthApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-04-10 06:38:38.858 +02:00 [INF] Executed action AuthApi.Controllers.UserController.GetAllDoctors (AuthApi) in 339.7622ms
+2025-04-10 06:38:38.862 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.UserController.GetAllDoctors (AuthApi)'
+2025-04-10 06:38:38.864 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/api/User/doctors?pageNumber=1&pageSize=10 - 200 null application/json; charset=utf-8 479.805ms
+2025-04-10 06:38:46.447 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/api/User/details - null null
+2025-04-10 06:38:46.459 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.UserController.GetMyDetails (AuthApi)'
+2025-04-10 06:38:46.469 +02:00 [INF] Route matched with {action = "GetMyDetails", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetMyDetails() on controller AuthApi.Controllers.UserController (AuthApi).
+2025-04-10 06:38:46.485 +02:00 [INF] GetMyDetails called for logged-in user
+2025-04-10 06:38:46.498 +02:00 [INF] Fetching user details for userId: 1, role: admin
+2025-04-10 06:38:46.524 +02:00 [INF] Executed DbCommand (6ms) [Parameters=[@__userId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email]
+FROM [Admins] AS [a]
+WHERE [a].[Id] = @__userId_0
+2025-04-10 06:38:46.533 +02:00 [INF] Successfully retrieved details for userId: 1, role: admin
+2025-04-10 06:38:46.536 +02:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType6`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Object, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-04-10 06:38:46.543 +02:00 [INF] Executed action AuthApi.Controllers.UserController.GetMyDetails (AuthApi) in 65.6522ms
+2025-04-10 06:38:46.545 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.UserController.GetMyDetails (AuthApi)'
+2025-04-10 06:38:46.547 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/api/User/details - 200 null application/json; charset=utf-8 100.7941ms
+2025-04-10 06:38:52.146 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/api/User/patients?pageNumber=1&pageSize=10 - null null
+2025-04-10 06:38:52.158 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.UserController.GetAllPatients (AuthApi)'
+2025-04-10 06:38:52.167 +02:00 [INF] Route matched with {action = "GetAllPatients", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllPatients(Int32, Int32, System.String) on controller AuthApi.Controllers.UserController (AuthApi).
+2025-04-10 06:38:52.183 +02:00 [INF] GetAllPatients called with pageNumber: 1, pageSize: 10, searchTerm: null
+2025-04-10 06:38:52.195 +02:00 [INF] Fetching all patients with pageNumber: 1, pageSize: 10, searchTerm: null
+2025-04-10 06:38:52.246 +02:00 [INF] Executed DbCommand (22ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Patients] AS [p]
+2025-04-10 06:38:52.392 +02:00 [INF] Executed DbCommand (14ms) [Parameters=[@__p_0='?' (DbType = Int32), @__p_1='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [t].[Id], [t].[FirstName], [t].[LastName], [t].[Gender], [t].[BirthDate], [t].[Email], [t].[ImageUrl], [t].[CreatedAt], [t0].[Diagnosis], [t0].[Treatment], [t0].[DoctorId], [t0].[DoctorFirstName], [t0].[DoctorLastName], [t0].[Id], [t0].[Id0]
+FROM (
+    SELECT [p].[Id], [p].[FirstName], [p].[LastName], [p].[Gender], [p].[BirthDate], [p].[Email], [p].[ImageUrl], [p].[CreatedAt]
+    FROM [Patients] AS [p]
+    ORDER BY [p].[Id]
+    OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY
+) AS [t]
+LEFT JOIN (
+    SELECT [p0].[Diagnosis], [p0].[Treatment], [p0].[DoctorId], [d].[FirstName] AS [DoctorFirstName], [d].[LastName] AS [DoctorLastName], [p0].[Id], [d].[Id] AS [Id0], [p0].[PatientId]
+    FROM [PatientHistories] AS [p0]
+    INNER JOIN [Doctors] AS [d] ON [p0].[DoctorId] = [d].[Id]
+) AS [t0] ON [t].[Id] = [t0].[PatientId]
+ORDER BY [t].[Id], [t0].[Id]
+2025-04-10 06:38:52.417 +02:00 [INF] Successfully retrieved 2 patients
+2025-04-10 06:38:52.422 +02:00 [INF] Executing OkObjectResult, writing value of type 'AuthApi.DTOs.PagedResult`1[[AuthApi.DTOs.PatientResponseDto, AuthApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-04-10 06:38:52.440 +02:00 [INF] Executed action AuthApi.Controllers.UserController.GetAllPatients (AuthApi) in 265.747ms
+2025-04-10 06:38:52.447 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.UserController.GetAllPatients (AuthApi)'
+2025-04-10 06:38:52.451 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/api/User/patients?pageNumber=1&pageSize=10 - 200 null application/json; charset=utf-8 304.9201ms
+2025-04-10 06:48:57.712 +02:00 [INF] User profile is available. Using 'C:\Users\TEFA\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-10 06:48:58.015 +02:00 [INF] Now listening on: https://localhost:7295
+2025-04-10 06:48:58.020 +02:00 [INF] Now listening on: http://localhost:5024
+2025-04-10 06:48:58.118 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-10 06:48:58.121 +02:00 [INF] Hosting environment: Development
+2025-04-10 06:48:58.124 +02:00 [INF] Content root path: E:\Course\login .net\AuthApi\AuthApi
+2025-04-10 06:48:58.784 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/index.html - null null
+2025-04-10 06:48:58.942 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/index.html - 200 null text/html;charset=utf-8 166.0899ms
+2025-04-10 06:48:58.985 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-10 06:48:58.986 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_vs/browserLink - null null
+2025-04-10 06:48:58.995 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - 200 16499 application/javascript; charset=utf-8 10.2375ms
+2025-04-10 06:48:59.042 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_vs/browserLink - 200 null text/javascript; charset=UTF-8 56.5215ms
+2025-04-10 06:48:59.247 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - null null
+2025-04-10 06:48:59.261 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 14.1763ms
+2025-04-10 06:56:54.849 +02:00 [INF] User profile is available. Using 'C:\Users\TEFA\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-10 06:56:55.104 +02:00 [INF] Now listening on: https://localhost:7295
+2025-04-10 06:56:55.111 +02:00 [INF] Now listening on: http://localhost:5024
+2025-04-10 06:56:55.203 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-10 06:56:55.206 +02:00 [INF] Hosting environment: Development
+2025-04-10 06:56:55.208 +02:00 [INF] Content root path: E:\Course\login .net\AuthApi\AuthApi
+2025-04-10 06:56:55.789 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/index.html - null null
+2025-04-10 06:56:55.978 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/index.html - 200 null text/html;charset=utf-8 196.2226ms
+2025-04-10 06:56:56.013 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-10 06:56:56.014 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/swagger-ui.css - null null
+2025-04-10 06:56:56.015 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_vs/browserLink - null null
+2025-04-10 06:56:56.033 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - 200 16499 application/javascript; charset=utf-8 19.6311ms
+2025-04-10 06:56:56.106 +02:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-04-10 06:56:56.110 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/swagger-ui.css - 499 144929 text/css 96.2122ms
+2025-04-10 06:56:56.139 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_vs/browserLink - 200 null text/javascript; charset=UTF-8 125.2884ms
+2025-04-10 06:56:56.282 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - null null
+2025-04-10 06:56:56.295 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 13.3187ms
+2025-04-10 06:57:57.572 +02:00 [INF] User profile is available. Using 'C:\Users\TEFA\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-10 06:57:57.879 +02:00 [INF] Now listening on: https://localhost:7295
+2025-04-10 06:57:57.882 +02:00 [INF] Now listening on: http://localhost:5024
+2025-04-10 06:57:58.073 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-10 06:57:58.077 +02:00 [INF] Hosting environment: Development
+2025-04-10 06:57:58.079 +02:00 [INF] Content root path: E:\Course\login .net\AuthApi\AuthApi
+2025-04-10 06:57:58.313 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/index.html - null null
+2025-04-10 06:57:58.469 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/index.html - 200 null text/html;charset=utf-8 163.8072ms
+2025-04-10 06:57:58.511 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-10 06:57:58.514 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_vs/browserLink - null null
+2025-04-10 06:57:58.522 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - 200 16499 application/javascript; charset=utf-8 11.2595ms
+2025-04-10 06:57:58.563 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_vs/browserLink - 200 null text/javascript; charset=UTF-8 50.1905ms
+2025-04-10 06:57:58.719 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - null null
+2025-04-10 06:57:58.733 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 14.9541ms
+2025-04-10 08:21:40.986 +02:00 [INF] Executed DbCommand (114ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2025-04-10 08:21:41.101 +02:00 [INF] Executed DbCommand (89ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2025-04-10 08:21:41.184 +02:00 [INF] Executed DbCommand (82ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2025-04-10 08:21:41.309 +02:00 [INF] Executed DbCommand (92ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [__EFMigrationsHistory] (
+    [MigrationId] nvarchar(150) NOT NULL,
+    [ProductVersion] nvarchar(32) NOT NULL,
+    CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+);
+2025-04-10 08:21:41.391 +02:00 [INF] Executed DbCommand (81ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2025-04-10 08:21:41.473 +02:00 [INF] Executed DbCommand (82ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2025-04-10 08:21:41.561 +02:00 [INF] Executed DbCommand (86ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2025-04-10 08:21:41.571 +02:00 [INF] Applying migration '20250405215506_AddImageUrlToDoctorAndPatient'.
+2025-04-10 08:21:41.791 +02:00 [ERR] Failed executing DbCommand (85ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+ALTER TABLE [Patients] ADD [ImageUrl] nvarchar(max) NULL;
+2025-04-10 08:28:37.612 +02:00 [INF] Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2025-04-10 08:28:37.649 +02:00 [INF] Executed DbCommand (13ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2025-04-10 08:28:37.650 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2025-04-10 08:28:37.650 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2025-04-10 08:28:37.668 +02:00 [INF] Executed DbCommand (11ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2025-04-10 08:28:37.675 +02:00 [INF] No migrations were applied. The database is already up to date.
+2025-04-10 08:30:26.110 +02:00 [INF] Executed DbCommand (92ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2025-04-10 08:30:26.221 +02:00 [INF] Executed DbCommand (87ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2025-04-10 08:30:26.305 +02:00 [INF] Executed DbCommand (83ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2025-04-10 08:30:26.383 +02:00 [INF] Executed DbCommand (78ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2025-04-10 08:30:26.472 +02:00 [INF] Executed DbCommand (80ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2025-04-10 08:30:26.481 +02:00 [INF] Applying migration '20250405215506_AddImageUrlToDoctorAndPatient'.
+2025-04-10 08:30:26.670 +02:00 [ERR] Failed executing DbCommand (80ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+ALTER TABLE [Patients] ADD [ImageUrl] nvarchar(max) NULL;
+2025-04-10 08:31:36.204 +02:00 [INF] User profile is available. Using 'C:\Users\TEFA\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-10 08:31:36.355 +02:00 [INF] Now listening on: https://localhost:7295
+2025-04-10 08:31:36.357 +02:00 [INF] Now listening on: http://localhost:5024
+2025-04-10 08:31:36.421 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-10 08:31:36.423 +02:00 [INF] Hosting environment: Development
+2025-04-10 08:31:36.425 +02:00 [INF] Content root path: E:\Course\login .net\AuthApi\AuthApi
+2025-04-10 08:31:37.270 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/index.html - null null
+2025-04-10 08:31:37.365 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/index.html - 200 null text/html;charset=utf-8 100.039ms
+2025-04-10 08:31:37.393 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-10 08:31:37.398 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_vs/browserLink - null null
+2025-04-10 08:31:37.398 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - 200 16499 application/javascript; charset=utf-8 5.3309ms
+2025-04-10 08:31:37.424 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_vs/browserLink - 200 null text/javascript; charset=UTF-8 27.3528ms
+2025-04-10 08:31:37.556 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - null null
+2025-04-10 08:31:37.565 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 8.4998ms
+2025-04-10 08:38:04.691 +02:00 [INF] User profile is available. Using 'C:\Users\TEFA\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-10 08:38:04.855 +02:00 [INF] Now listening on: https://localhost:7295
+2025-04-10 08:38:04.857 +02:00 [INF] Now listening on: http://localhost:5024
+2025-04-10 08:38:04.917 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-10 08:38:04.919 +02:00 [INF] Hosting environment: Development
+2025-04-10 08:38:04.921 +02:00 [INF] Content root path: E:\Course\login .net\AuthApi\AuthApi
+2025-04-10 08:38:05.243 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/index.html - null null
+2025-04-10 08:38:05.337 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/index.html - 200 null text/html;charset=utf-8 99.9292ms
+2025-04-10 08:38:05.367 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-10 08:38:05.371 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_vs/browserLink - null null
+2025-04-10 08:38:05.373 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - 200 16499 application/javascript; charset=utf-8 6.7075ms
+2025-04-10 08:38:05.400 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_vs/browserLink - 200 null text/javascript; charset=UTF-8 29.1226ms
+2025-04-10 08:38:05.493 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - null null
+2025-04-10 08:38:05.501 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 8.1315ms
+2025-04-10 08:43:37.510 +02:00 [INF] User profile is available. Using 'C:\Users\TEFA\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-10 08:43:37.668 +02:00 [INF] Now listening on: https://localhost:7295
+2025-04-10 08:43:37.670 +02:00 [INF] Now listening on: http://localhost:5024
+2025-04-10 08:43:37.727 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-10 08:43:37.729 +02:00 [INF] Hosting environment: Development
+2025-04-10 08:43:37.731 +02:00 [INF] Content root path: E:\Course\login .net\AuthApi\AuthApi
+2025-04-10 08:43:38.039 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/index.html - null null
+2025-04-10 08:43:38.138 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/index.html - 200 null text/html;charset=utf-8 105.4046ms
+2025-04-10 08:43:38.174 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-10 08:43:38.176 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_vs/browserLink - null null
+2025-04-10 08:43:38.180 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - 200 16499 application/javascript; charset=utf-8 6.1133ms
+2025-04-10 08:43:38.206 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_vs/browserLink - 200 null text/javascript; charset=UTF-8 30.1594ms
+2025-04-10 08:43:38.323 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - null null
+2025-04-10 08:43:38.330 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 7.38ms
+2025-04-10 09:29:09.784 +02:00 [INF] User profile is available. Using 'C:\Users\TEFA\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-10 09:29:09.934 +02:00 [INF] Now listening on: https://localhost:7295
+2025-04-10 09:29:09.940 +02:00 [INF] Now listening on: http://localhost:5024
+2025-04-10 09:29:09.998 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-10 09:29:10.001 +02:00 [INF] Hosting environment: Development
+2025-04-10 09:29:10.003 +02:00 [INF] Content root path: E:\Course\login .net\AuthApi\AuthApi
+2025-04-10 09:29:10.814 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/index.html - null null
+2025-04-10 09:29:10.919 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/index.html - 200 null text/html;charset=utf-8 111.3756ms
+2025-04-10 09:29:10.950 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-10 09:29:10.953 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_vs/browserLink - null null
+2025-04-10 09:29:10.954 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - 200 16499 application/javascript; charset=utf-8 4.5703ms
+2025-04-10 09:29:10.981 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_vs/browserLink - 200 null text/javascript; charset=UTF-8 28.0664ms
+2025-04-10 09:29:11.078 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - null null
+2025-04-10 09:29:11.090 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 11.6676ms
+2025-04-10 09:38:45.289 +02:00 [INF] User profile is available. Using 'C:\Users\TEFA\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-10 09:38:45.457 +02:00 [INF] Now listening on: https://localhost:7295
+2025-04-10 09:38:45.460 +02:00 [INF] Now listening on: http://localhost:5024
+2025-04-10 09:38:45.529 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-10 09:38:45.532 +02:00 [INF] Hosting environment: Development
+2025-04-10 09:38:45.534 +02:00 [INF] Content root path: E:\Course\login .net\AuthApi\AuthApi
+2025-04-10 09:38:46.278 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/index.html - null null
+2025-04-10 09:38:46.410 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/index.html - 200 null text/html;charset=utf-8 137.9604ms
+2025-04-10 09:38:46.436 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-10 09:38:46.437 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/swagger-ui.css - null null
+2025-04-10 09:38:46.438 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_vs/browserLink - null null
+2025-04-10 09:38:46.457 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - 200 16499 application/javascript; charset=utf-8 21.1478ms
+2025-04-10 09:38:46.511 +02:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-04-10 09:38:46.512 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/swagger-ui.css - 499 144929 text/css 75.1359ms
+2025-04-10 09:38:46.536 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_vs/browserLink - 200 null text/javascript; charset=UTF-8 98.3865ms
+2025-04-10 09:38:46.591 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - null null
+2025-04-10 09:38:46.601 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 10.3598ms
+2025-04-10 09:39:05.086 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7295/api/Auth/login - application/json 61
+2025-04-10 09:39:05.211 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.AuthController.Login (AuthApi)'
+2025-04-10 09:39:05.261 +02:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(AuthApi.DTOs.LoginDto) on controller AuthApi.Controllers.AuthController (AuthApi).
+2025-04-10 09:39:05.535 +02:00 [INF] Login attempt for email: admin1@gedisa.com
+2025-04-10 09:39:07.178 +02:00 [INF] Executed DbCommand (80ms) [Parameters=[@__loginDto_Email_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email], [a].[PasswordHash]
+FROM [Admins] AS [a]
+WHERE [a].[Email] = @__loginDto_Email_0
+2025-04-10 09:39:07.667 +02:00 [INF] Admin login successful for email: admin1@gedisa.com
+2025-04-10 09:39:07.674 +02:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType5`5[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-04-10 09:39:07.685 +02:00 [INF] Executed action AuthApi.Controllers.AuthController.Login (AuthApi) in 2398.3871ms
+2025-04-10 09:39:07.687 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.AuthController.Login (AuthApi)'
+2025-04-10 09:39:07.694 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7295/api/Auth/login - 200 null application/json; charset=utf-8 2608.2583ms
+2025-04-10 09:39:22.870 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/api/User/doctors?pageNumber=1&pageSize=10 - null null
+2025-04-10 09:39:22.955 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.UserController.GetAllDoctors (AuthApi)'
+2025-04-10 09:39:22.963 +02:00 [INF] Route matched with {action = "GetAllDoctors", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllDoctors(Int32, Int32, System.String) on controller AuthApi.Controllers.UserController (AuthApi).
+2025-04-10 09:39:22.978 +02:00 [INF] GetAllDoctors called with pageNumber: 1, pageSize: 10, searchTerm: null
+2025-04-10 09:39:22.984 +02:00 [INF] Fetching all doctors with pageNumber: 1, pageSize: 10, searchTerm: null
+2025-04-10 09:39:23.069 +02:00 [INF] Executed DbCommand (9ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Doctors] AS [d]
+2025-04-10 09:39:23.099 +02:00 [INF] Executed DbCommand (5ms) [Parameters=[@__p_0='?' (DbType = Int32), @__p_1='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [d].[Id], [d].[FirstName], [d].[LastName], [d].[Gender], [d].[BirthDate], [d].[Specialty], [d].[Email], [d].[ImageUrl]
+FROM [Doctors] AS [d]
+ORDER BY [d].[Id]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY
+2025-04-10 09:39:23.107 +02:00 [INF] Successfully retrieved 3 doctors
+2025-04-10 09:39:23.109 +02:00 [INF] Executing OkObjectResult, writing value of type 'AuthApi.DTOs.PagedResult`1[[AuthApi.DTOs.DoctorResponseDto, AuthApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-04-10 09:39:23.120 +02:00 [INF] Executed action AuthApi.Controllers.UserController.GetAllDoctors (AuthApi) in 154.3501ms
+2025-04-10 09:39:23.123 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.UserController.GetAllDoctors (AuthApi)'
+2025-04-10 09:39:23.124 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/api/User/doctors?pageNumber=1&pageSize=10 - 200 null application/json; charset=utf-8 254.336ms
+2025-04-10 09:39:31.822 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/api/User/patients?pageNumber=1&pageSize=10 - null null
+2025-04-10 09:39:31.830 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.UserController.GetAllPatients (AuthApi)'
+2025-04-10 09:39:31.838 +02:00 [INF] Route matched with {action = "GetAllPatients", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllPatients(Int32, Int32, System.String) on controller AuthApi.Controllers.UserController (AuthApi).
+2025-04-10 09:39:31.845 +02:00 [INF] GetAllPatients called with pageNumber: 1, pageSize: 10, searchTerm: null
+2025-04-10 09:39:31.855 +02:00 [INF] Fetching all patients with pageNumber: 1, pageSize: 10, searchTerm: null
+2025-04-10 09:39:31.971 +02:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Patients] AS [p]
+2025-04-10 09:39:32.094 +02:00 [INF] Executed DbCommand (13ms) [Parameters=[@__p_0='?' (DbType = Int32), @__p_1='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [t].[Id], [t].[FirstName], [t].[LastName], [t].[Gender], [t].[BirthDate], [t].[Email], [t].[ImageUrl], [t].[CreatedAt], [t0].[Diagnosis], [t0].[Treatment], [t0].[DoctorId], [t0].[DoctorFirstName], [t0].[DoctorLastName], [t0].[Id], [t0].[Id0]
+FROM (
+    SELECT [p].[Id], [p].[FirstName], [p].[LastName], [p].[Gender], [p].[BirthDate], [p].[Email], [p].[ImageUrl], [p].[CreatedAt]
+    FROM [Patients] AS [p]
+    ORDER BY [p].[Id]
+    OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY
+) AS [t]
+LEFT JOIN (
+    SELECT [p0].[Diagnosis], [p0].[Treatment], [p0].[DoctorId], [d].[FirstName] AS [DoctorFirstName], [d].[LastName] AS [DoctorLastName], [p0].[Id], [d].[Id] AS [Id0], [p0].[PatientId]
+    FROM [PatientHistories] AS [p0]
+    INNER JOIN [Doctors] AS [d] ON [p0].[DoctorId] = [d].[Id]
+) AS [t0] ON [t].[Id] = [t0].[PatientId]
+ORDER BY [t].[Id], [t0].[Id]
+2025-04-10 09:39:32.134 +02:00 [INF] Successfully retrieved 2 patients
+2025-04-10 09:39:32.138 +02:00 [INF] Executing OkObjectResult, writing value of type 'AuthApi.DTOs.PagedResult`1[[AuthApi.DTOs.PatientResponseDto, AuthApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-04-10 09:39:32.149 +02:00 [INF] Executed action AuthApi.Controllers.UserController.GetAllPatients (AuthApi) in 308.9979ms
+2025-04-10 09:39:32.151 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.UserController.GetAllPatients (AuthApi)'
+2025-04-10 09:39:32.152 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/api/User/patients?pageNumber=1&pageSize=10 - 200 null application/json; charset=utf-8 330.2925ms
+2025-04-10 12:27:16.300 +02:00 [INF] User profile is available. Using 'C:\Users\TEFA\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-10 12:27:16.494 +02:00 [INF] Now listening on: https://localhost:7295
+2025-04-10 12:27:16.497 +02:00 [INF] Now listening on: http://localhost:5024
+2025-04-10 12:27:16.559 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-10 12:27:16.562 +02:00 [INF] Hosting environment: Development
+2025-04-10 12:27:16.564 +02:00 [INF] Content root path: E:\Course\login .net\AuthApi\AuthApi
+2025-04-10 12:27:17.402 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/index.html - null null
+2025-04-10 12:27:17.532 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/index.html - 200 null text/html;charset=utf-8 135.2083ms
+2025-04-10 12:27:17.556 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-10 12:27:17.562 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_vs/browserLink - null null
+2025-04-10 12:27:17.564 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - 200 16499 application/javascript; charset=utf-8 7.9962ms
+2025-04-10 12:27:17.678 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_vs/browserLink - 200 null text/javascript; charset=UTF-8 115.6021ms
+2025-04-10 12:27:17.688 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/favicon-32x32.png - null null
+2025-04-10 12:27:17.740 +02:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2025-04-10 12:27:17.742 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/favicon-32x32.png - 499 628 image/png 54.7457ms
+2025-04-10 12:27:17.763 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - null null
+2025-04-10 12:27:17.772 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 9.3599ms
+2025-04-10 12:30:19.606 +02:00 [INF] User profile is available. Using 'C:\Users\TEFA\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-10 12:30:19.778 +02:00 [INF] Now listening on: https://localhost:7295
+2025-04-10 12:30:19.781 +02:00 [INF] Now listening on: http://localhost:5024
+2025-04-10 12:30:19.837 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-10 12:30:19.840 +02:00 [INF] Hosting environment: Development
+2025-04-10 12:30:19.849 +02:00 [INF] Content root path: E:\Course\login .net\AuthApi\AuthApi
+2025-04-10 12:30:20.136 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/index.html - null null
+2025-04-10 12:30:20.243 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/index.html - 200 null text/html;charset=utf-8 111.2015ms
+2025-04-10 12:30:20.270 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-10 12:30:20.272 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_vs/browserLink - null null
+2025-04-10 12:30:20.278 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - 200 16499 application/javascript; charset=utf-8 9.167ms
+2025-04-10 12:30:20.299 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_vs/browserLink - 200 null text/javascript; charset=UTF-8 27.2478ms
+2025-04-10 12:30:20.400 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - null null
+2025-04-10 12:30:20.409 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 9.4003ms
+2025-04-10 12:30:32.818 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7295/api/Auth/login - application/json 61
+2025-04-10 12:30:32.950 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.AuthController.Login (AuthApi)'
+2025-04-10 12:30:33.021 +02:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(AuthApi.DTOs.LoginDto) on controller AuthApi.Controllers.AuthController (AuthApi).
+2025-04-10 12:30:33.304 +02:00 [INF] Login attempt for email: admin1@gedisa.com
+2025-04-10 12:30:35.280 +02:00 [ERR] Failed executing DbCommand (310ms) [Parameters=[@__loginDto_Email_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email], [a].[PasswordHash]
+FROM [Admins] AS [a]
+WHERE [a].[Email] = @__loginDto_Email_0
+2025-04-10 12:30:35.450 +02:00 [ERR] An exception occurred while iterating over the results of a query for context type 'AuthApi.Data.AppDbContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'Admins'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__195_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:75a2231b-1d79-42ff-b22e-5345d03d5251
+Error Number:208,State:1,Class:16
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'Admins'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__195_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:75a2231b-1d79-42ff-b22e-5345d03d5251
+Error Number:208,State:1,Class:16
+2025-04-10 12:30:35.606 +02:00 [ERR] Error during login attempt for email admin1@gedisa.com. StackTrace:    at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__195_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at AuthApi.Controllers.AuthController.Login(LoginDto loginDto) in E:\Course\login .net\AuthApi\AuthApi\Controllers\AuthController.cs:line 486
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'Admins'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__195_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at AuthApi.Controllers.AuthController.Login(LoginDto loginDto) in E:\Course\login .net\AuthApi\AuthApi\Controllers\AuthController.cs:line 486
+ClientConnectionId:75a2231b-1d79-42ff-b22e-5345d03d5251
+Error Number:208,State:1,Class:16
+2025-04-10 12:30:35.638 +02:00 [INF] Executing ObjectResult, writing value of type '<>f__AnonymousType2`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-04-10 12:30:35.653 +02:00 [INF] Executed action AuthApi.Controllers.AuthController.Login (AuthApi) in 2623.1449ms
+2025-04-10 12:30:35.654 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.AuthController.Login (AuthApi)'
+2025-04-10 12:30:35.663 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7295/api/Auth/login - 500 null application/json; charset=utf-8 2845.4909ms
+2025-04-10 12:31:37.744 +02:00 [INF] Executed DbCommand (9ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2025-04-10 12:31:37.780 +02:00 [INF] Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2025-04-10 12:31:37.781 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2025-04-10 12:31:38.034 +02:00 [INF] Executed DbCommand (199ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [__EFMigrationsHistory] (
+    [MigrationId] nvarchar(150) NOT NULL,
+    [ProductVersion] nvarchar(32) NOT NULL,
+    CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+);
+2025-04-10 12:31:38.035 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2025-04-10 12:31:38.036 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2025-04-10 12:31:38.043 +02:00 [INF] Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2025-04-10 12:31:38.052 +02:00 [INF] Applying migration '20250405215506_AddImageUrlToDoctorAndPatient'.
+2025-04-10 12:31:38.092 +02:00 [ERR] Failed executing DbCommand (17ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+ALTER TABLE [Patients] ADD [ImageUrl] nvarchar(max) NULL;
+2025-04-10 12:34:39.396 +02:00 [INF] Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2025-04-10 12:34:39.443 +02:00 [INF] Executed DbCommand (24ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2025-04-10 12:34:39.444 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2025-04-10 12:34:39.480 +02:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [__EFMigrationsHistory] (
+    [MigrationId] nvarchar(150) NOT NULL,
+    [ProductVersion] nvarchar(32) NOT NULL,
+    CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+);
+2025-04-10 12:34:39.482 +02:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2025-04-10 12:34:39.483 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2025-04-10 12:34:39.489 +02:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2025-04-10 12:34:39.497 +02:00 [INF] Applying migration '20250405215506_AddImageUrlToDoctorAndPatient'.
+2025-04-10 12:34:39.523 +02:00 [INF] Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+ALTER TABLE [Patients] ADD [ImageUrl] nvarchar(max) NULL;
+2025-04-10 12:34:39.528 +02:00 [ERR] Failed executing DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+ALTER TABLE [Doctors] ADD [ImageUrl] nvarchar(max) NULL;
+2025-04-10 12:39:38.234 +02:00 [INF] Executed DbCommand (38ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2025-04-10 12:39:38.262 +02:00 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2025-04-10 12:39:38.263 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2025-04-10 12:39:38.313 +02:00 [INF] Executed DbCommand (20ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [__EFMigrationsHistory] (
+    [MigrationId] nvarchar(150) NOT NULL,
+    [ProductVersion] nvarchar(32) NOT NULL,
+    CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+);
+2025-04-10 12:39:38.314 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2025-04-10 12:39:38.315 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2025-04-10 12:39:38.320 +02:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2025-04-10 12:39:38.328 +02:00 [INF] Applying migration '20250410103933_InitialCreate'.
+2025-04-10 12:39:38.349 +02:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Admins] (
+    [Id] int NOT NULL IDENTITY,
+    [Email] nvarchar(max) NOT NULL,
+    [PasswordHash] nvarchar(max) NOT NULL,
+    CONSTRAINT [PK_Admins] PRIMARY KEY ([Id])
+);
+2025-04-10 12:39:38.390 +02:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Doctors] (
+    [Id] int NOT NULL IDENTITY,
+    [FirstName] nvarchar(max) NOT NULL,
+    [LastName] nvarchar(max) NOT NULL,
+    [Gender] nvarchar(max) NOT NULL,
+    [BirthDate] datetime2 NULL,
+    [Specialty] nvarchar(max) NOT NULL,
+    [Email] nvarchar(max) NOT NULL,
+    [PasswordHash] nvarchar(max) NOT NULL,
+    [ImageUrl] nvarchar(max) NULL,
+    CONSTRAINT [PK_Doctors] PRIMARY KEY ([Id])
+);
+2025-04-10 12:39:38.391 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Patients] (
+    [Id] int NOT NULL IDENTITY,
+    [FirstName] nvarchar(max) NOT NULL,
+    [LastName] nvarchar(max) NOT NULL,
+    [Gender] nvarchar(max) NOT NULL,
+    [BirthDate] datetime2 NULL,
+    [Email] nvarchar(max) NOT NULL,
+    [PasswordHash] nvarchar(max) NOT NULL,
+    [ImageUrl] nvarchar(max) NULL,
+    [CreatedAt] datetime2 NOT NULL,
+    CONSTRAINT [PK_Patients] PRIMARY KEY ([Id])
+);
+2025-04-10 12:39:38.395 +02:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [PatientHistories] (
+    [Id] int NOT NULL IDENTITY,
+    [PatientId] int NOT NULL,
+    [DoctorId] int NOT NULL,
+    [Diagnosis] nvarchar(max) NOT NULL,
+    [Treatment] nvarchar(max) NOT NULL,
+    [TreatmentDate] datetime2 NOT NULL,
+    CONSTRAINT [PK_PatientHistories] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_PatientHistories_Doctors_DoctorId] FOREIGN KEY ([DoctorId]) REFERENCES [Doctors] ([Id]) ON DELETE CASCADE,
+    CONSTRAINT [FK_PatientHistories_Patients_PatientId] FOREIGN KEY ([PatientId]) REFERENCES [Patients] ([Id]) ON DELETE CASCADE
+);
+2025-04-10 12:39:39.095 +02:00 [INF] Executed DbCommand (18ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_PatientHistories_DoctorId] ON [PatientHistories] ([DoctorId]);
+2025-04-10 12:39:39.097 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_PatientHistories_PatientId] ON [PatientHistories] ([PatientId]);
+2025-04-10 12:39:39.099 +02:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20250410103933_InitialCreate', N'8.0.0');
+2025-04-10 12:40:01.460 +02:00 [INF] User profile is available. Using 'C:\Users\TEFA\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-10 12:40:01.696 +02:00 [INF] Now listening on: https://localhost:7295
+2025-04-10 12:40:01.699 +02:00 [INF] Now listening on: http://localhost:5024
+2025-04-10 12:40:01.882 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-10 12:40:01.884 +02:00 [INF] Hosting environment: Development
+2025-04-10 12:40:01.915 +02:00 [INF] Content root path: E:\Course\login .net\AuthApi\AuthApi
+2025-04-10 12:40:02.827 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/index.html - null null
+2025-04-10 12:40:02.933 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/index.html - 200 null text/html;charset=utf-8 110.0114ms
+2025-04-10 12:40:02.969 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-10 12:40:02.969 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_vs/browserLink - null null
+2025-04-10 12:40:02.977 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - 200 16499 application/javascript; charset=utf-8 8.2577ms
+2025-04-10 12:40:03.001 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_vs/browserLink - 200 null text/javascript; charset=UTF-8 32.8935ms
+2025-04-10 12:40:03.099 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - null null
+2025-04-10 12:40:03.109 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 10.9518ms
+2025-04-10 12:40:35.058 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7295/api/Auth/login - application/json 61
+2025-04-10 12:40:35.243 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.AuthController.Login (AuthApi)'
+2025-04-10 12:40:35.288 +02:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(AuthApi.DTOs.LoginDto) on controller AuthApi.Controllers.AuthController (AuthApi).
+2025-04-10 12:40:35.469 +02:00 [INF] Login attempt for email: admin1@gedisa.com
+2025-04-10 12:40:37.192 +02:00 [INF] Executed DbCommand (41ms) [Parameters=[@__loginDto_Email_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email], [a].[PasswordHash]
+FROM [Admins] AS [a]
+WHERE [a].[Email] = @__loginDto_Email_0
+2025-04-10 12:40:37.242 +02:00 [INF] Executed DbCommand (9ms) [Parameters=[@__loginDto_Email_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [d].[Id], [d].[BirthDate], [d].[Email], [d].[FirstName], [d].[Gender], [d].[ImageUrl], [d].[LastName], [d].[PasswordHash], [d].[Specialty]
+FROM [Doctors] AS [d]
+WHERE [d].[Email] = @__loginDto_Email_0
+2025-04-10 12:40:37.254 +02:00 [INF] Executed DbCommand (3ms) [Parameters=[@__loginDto_Email_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [p].[Id], [p].[BirthDate], [p].[CreatedAt], [p].[Email], [p].[FirstName], [p].[Gender], [p].[ImageUrl], [p].[LastName], [p].[PasswordHash]
+FROM [Patients] AS [p]
+WHERE [p].[Email] = @__loginDto_Email_0
+2025-04-10 12:40:37.261 +02:00 [WRN] Invalid login attempt for email: admin1@gedisa.com
+2025-04-10 12:40:37.268 +02:00 [INF] Executing BadRequestObjectResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-04-10 12:40:37.275 +02:00 [INF] Executed action AuthApi.Controllers.AuthController.Login (AuthApi) in 1977.9845ms
+2025-04-10 12:40:37.275 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.AuthController.Login (AuthApi)'
+2025-04-10 12:40:37.281 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7295/api/Auth/login - 400 null application/json; charset=utf-8 2223.9198ms
+2025-04-10 12:42:03.804 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7295/api/Auth/admin/register - application/json 54
+2025-04-10 12:42:03.811 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.AuthController.RegisterAdmin (AuthApi)'
+2025-04-10 12:42:03.817 +02:00 [INF] Route matched with {action = "RegisterAdmin", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] RegisterAdmin(AuthApi.DTOs.AdminDto) on controller AuthApi.Controllers.AuthController (AuthApi).
+2025-04-10 12:42:03.824 +02:00 [INF] RegisterAdmin called with email: admin1@gmail.com
+2025-04-10 12:42:03.931 +02:00 [INF] Executed DbCommand (4ms) [Parameters=[@__adminDto_Email_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Admins] AS [a]
+        WHERE [a].[Email] = @__adminDto_Email_0) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2025-04-10 12:42:04.022 +02:00 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Admins] AS [a]
+2025-04-10 12:42:04.580 +02:00 [INF] Executed DbCommand (10ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Admins] ([Email], [PasswordHash])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1);
+2025-04-10 12:42:04.625 +02:00 [INF] Admin registered successfully with ID: 1
+2025-04-10 12:42:04.628 +02:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[AuthApi.DTOs.AdminResponseDto, AuthApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-04-10 12:42:04.632 +02:00 [INF] Executed action AuthApi.Controllers.AuthController.RegisterAdmin (AuthApi) in 814.7363ms
+2025-04-10 12:42:04.635 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.AuthController.RegisterAdmin (AuthApi)'
+2025-04-10 12:42:04.637 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7295/api/Auth/admin/register - 200 null application/json; charset=utf-8 833.7121ms
+2025-04-10 12:42:13.263 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7295/api/Auth/login - application/json 54
+2025-04-10 12:42:13.268 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.AuthController.Login (AuthApi)'
+2025-04-10 12:42:13.270 +02:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(AuthApi.DTOs.LoginDto) on controller AuthApi.Controllers.AuthController (AuthApi).
+2025-04-10 12:42:13.279 +02:00 [INF] Login attempt for email: admin1@gmail.com
+2025-04-10 12:42:13.367 +02:00 [INF] Executed DbCommand (8ms) [Parameters=[@__loginDto_Email_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email], [a].[PasswordHash]
+FROM [Admins] AS [a]
+WHERE [a].[Email] = @__loginDto_Email_0
+2025-04-10 12:42:13.740 +02:00 [INF] Admin login successful for email: admin1@gmail.com
+2025-04-10 12:42:13.744 +02:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType5`5[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-04-10 12:42:13.757 +02:00 [INF] Executed action AuthApi.Controllers.AuthController.Login (AuthApi) in 485.8102ms
+2025-04-10 12:42:13.764 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.AuthController.Login (AuthApi)'
+2025-04-10 12:42:13.766 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7295/api/Auth/login - 200 null application/json; charset=utf-8 502.9244ms
+2025-04-10 12:43:24.583 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7295/api/Auth/doctor/register - multipart/form-data; boundary=----geckoformboundary7e650d3f9eaee8ef8b1d860fbee43723 18485
+2025-04-10 12:43:24.664 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.AuthController.RegisterDoctor (AuthApi)'
+2025-04-10 12:43:24.675 +02:00 [INF] Route matched with {action = "RegisterDoctor", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] RegisterDoctor(AuthApi.DTOs.DoctorDto) on controller AuthApi.Controllers.AuthController (AuthApi).
+2025-04-10 12:43:24.705 +02:00 [INF] RegisterDoctor called with email: essam@gmail.com
+2025-04-10 12:43:24.712 +02:00 [WRN] Invalid specialty provided: heart. Allowed specialties are: Cardiology, Neurology, Pediatrics, Orthopedics, Dermatology
+2025-04-10 12:43:24.714 +02:00 [INF] Executing BadRequestObjectResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-04-10 12:43:24.715 +02:00 [INF] Executed action AuthApi.Controllers.AuthController.RegisterDoctor (AuthApi) in 36.1642ms
+2025-04-10 12:43:24.716 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.AuthController.RegisterDoctor (AuthApi)'
+2025-04-10 12:43:24.718 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7295/api/Auth/doctor/register - 400 null application/json; charset=utf-8 134.5621ms
+2025-04-10 12:43:32.355 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7295/api/Auth/doctor/register - multipart/form-data; boundary=----geckoformboundary1cb964b75beffba13d8b9df46e7e3fa9 18490
+2025-04-10 12:43:32.359 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.AuthController.RegisterDoctor (AuthApi)'
+2025-04-10 12:43:32.360 +02:00 [INF] Route matched with {action = "RegisterDoctor", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] RegisterDoctor(AuthApi.DTOs.DoctorDto) on controller AuthApi.Controllers.AuthController (AuthApi).
+2025-04-10 12:43:32.365 +02:00 [INF] RegisterDoctor called with email: essam@gmail.com
+2025-04-10 12:43:32.379 +02:00 [INF] Executed DbCommand (4ms) [Parameters=[@__doctorDto_Email_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Doctors] AS [d]
+        WHERE [d].[Email] = @__doctorDto_Email_0) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2025-04-10 12:43:32.706 +02:00 [INF] Executed DbCommand (4ms) [Parameters=[@p0='?' (DbType = DateTime2), @p1='?' (Size = 4000), @p2='?' (Size = 4000), @p3='?' (Size = 4000), @p4='?' (Size = 4000), @p5='?' (Size = 4000), @p6='?' (Size = 4000), @p7='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Doctors] ([BirthDate], [Email], [FirstName], [Gender], [ImageUrl], [LastName], [PasswordHash], [Specialty])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7);
+2025-04-10 12:43:32.713 +02:00 [INF] Saving image for doctor with ID 1 to E:\Course\login .net\AuthApi\AuthApi\Uploads\Images\doctor-1-20250410124332.jpg
+2025-04-10 12:43:32.748 +02:00 [INF] Image saved successfully for doctor with ID 1. Path: /Uploads/Images/doctor-1-20250410124332.jpg
+2025-04-10 12:43:32.765 +02:00 [INF] Executed DbCommand (6ms) [Parameters=[@p1='?' (DbType = Int32), @p0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [Doctors] SET [ImageUrl] = @p0
+OUTPUT 1
+WHERE [Id] = @p1;
+2025-04-10 12:43:32.783 +02:00 [INF] Doctor registered successfully with ID: 1
+2025-04-10 12:43:32.785 +02:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType3`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[AuthApi.DTOs.DoctorResponseDto, AuthApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-04-10 12:43:32.797 +02:00 [INF] Executed action AuthApi.Controllers.AuthController.RegisterDoctor (AuthApi) in 435.4635ms
+2025-04-10 12:43:32.800 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.AuthController.RegisterDoctor (AuthApi)'
+2025-04-10 12:43:32.805 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7295/api/Auth/doctor/register - 200 null application/json; charset=utf-8 450.3421ms
+2025-04-10 12:43:44.147 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7295/api/Auth/patient/register - multipart/form-data; boundary=----geckoformboundary5c8a6595d4982d3463b04f4281e90d49 74871
+2025-04-10 12:43:44.151 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.AuthController.RegisterPatient (AuthApi)'
+2025-04-10 12:43:44.161 +02:00 [INF] Route matched with {action = "RegisterPatient", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] RegisterPatient(AuthApi.DTOs.PatientDto) on controller AuthApi.Controllers.AuthController (AuthApi).
+2025-04-10 12:43:44.199 +02:00 [INF] RegisterPatient called with email: omar@gmail.com
+2025-04-10 12:43:44.216 +02:00 [INF] Executed DbCommand (3ms) [Parameters=[@__patientDto_DoctorId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [d].[Id], [d].[BirthDate], [d].[Email], [d].[FirstName], [d].[Gender], [d].[ImageUrl], [d].[LastName], [d].[PasswordHash], [d].[Specialty]
+FROM [Doctors] AS [d]
+WHERE [d].[Id] = @__patientDto_DoctorId_0
+2025-04-10 12:43:44.228 +02:00 [INF] Executed DbCommand (3ms) [Parameters=[@__patientDto_Email_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [p].[Id], [p].[BirthDate], [p].[CreatedAt], [p].[Email], [p].[FirstName], [p].[Gender], [p].[ImageUrl], [p].[LastName], [p].[PasswordHash]
+FROM [Patients] AS [p]
+WHERE [p].[Email] = @__patientDto_Email_0
+2025-04-10 12:43:44.432 +02:00 [INF] Attempting to save patient with email: omar@gmail.com
+2025-04-10 12:43:44.543 +02:00 [INF] Executed DbCommand (3ms) [Parameters=[@p0='?' (DbType = DateTime2), @p1='?' (DbType = DateTime2), @p2='?' (Size = 4000), @p3='?' (Size = 4000), @p4='?' (Size = 4000), @p5='?' (Size = 4000), @p6='?' (Size = 4000), @p7='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Patients] ([BirthDate], [CreatedAt], [Email], [FirstName], [Gender], [ImageUrl], [LastName], [PasswordHash])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7);
+2025-04-10 12:43:44.557 +02:00 [INF] Executed DbCommand (4ms) [Parameters=[@p8='?' (Size = 4000), @p9='?' (DbType = Int32), @p10='?' (DbType = Int32), @p11='?' (Size = 4000), @p12='?' (DbType = DateTime2)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [PatientHistories] ([Diagnosis], [DoctorId], [PatientId], [Treatment], [TreatmentDate])
+OUTPUT INSERTED.[Id]
+VALUES (@p8, @p9, @p10, @p11, @p12);
+2025-04-10 12:43:44.569 +02:00 [INF] Saving image for patient with ID 1 to E:\Course\login .net\AuthApi\AuthApi\Uploads\Images\patient-1-20250410124344.jpg
+2025-04-10 12:43:44.590 +02:00 [INF] Image saved successfully for patient with ID 1. Path: /Uploads/Images/patient-1-20250410124344.jpg
+2025-04-10 12:43:44.607 +02:00 [INF] Executed DbCommand (5ms) [Parameters=[@p1='?' (DbType = Int32), @p0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [Patients] SET [ImageUrl] = @p0
+OUTPUT 1
+WHERE [Id] = @p1;
+2025-04-10 12:43:44.614 +02:00 [INF] Patient registered successfully with ID: 1
+2025-04-10 12:43:44.615 +02:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType4`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[AuthApi.DTOs.PatientResponseDto, AuthApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-04-10 12:43:44.622 +02:00 [INF] Executed action AuthApi.Controllers.AuthController.RegisterPatient (AuthApi) in 458.7135ms
+2025-04-10 12:43:44.624 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.AuthController.RegisterPatient (AuthApi)'
+2025-04-10 12:43:44.625 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7295/api/Auth/patient/register - 200 null application/json; charset=utf-8 477.9921ms
+2025-04-10 12:43:52.319 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/api/User/doctors?pageNumber=1&pageSize=10 - null null
+2025-04-10 12:43:52.330 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.UserController.GetAllDoctors (AuthApi)'
+2025-04-10 12:43:52.333 +02:00 [INF] Route matched with {action = "GetAllDoctors", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllDoctors(Int32, Int32, System.String) on controller AuthApi.Controllers.UserController (AuthApi).
+2025-04-10 12:43:52.346 +02:00 [INF] GetAllDoctors called with pageNumber: 1, pageSize: 10, searchTerm: null
+2025-04-10 12:43:52.373 +02:00 [INF] Fetching all doctors with pageNumber: 1, pageSize: 10, searchTerm: null
+2025-04-10 12:43:52.392 +02:00 [INF] Executed DbCommand (7ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Doctors] AS [d]
+2025-04-10 12:43:52.439 +02:00 [INF] Executed DbCommand (2ms) [Parameters=[@__p_0='?' (DbType = Int32), @__p_1='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [d].[Id], [d].[FirstName], [d].[LastName], [d].[Gender], [d].[BirthDate], [d].[Specialty], [d].[Email], [d].[ImageUrl]
+FROM [Doctors] AS [d]
+ORDER BY [d].[Id]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY
+2025-04-10 12:43:52.445 +02:00 [INF] Successfully retrieved 1 doctors
+2025-04-10 12:43:52.446 +02:00 [INF] Executing OkObjectResult, writing value of type 'AuthApi.DTOs.PagedResult`1[[AuthApi.DTOs.DoctorResponseDto, AuthApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-04-10 12:43:52.450 +02:00 [INF] Executed action AuthApi.Controllers.UserController.GetAllDoctors (AuthApi) in 114.7646ms
+2025-04-10 12:43:52.452 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.UserController.GetAllDoctors (AuthApi)'
+2025-04-10 12:43:52.453 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/api/User/doctors?pageNumber=1&pageSize=10 - 200 null application/json; charset=utf-8 133.5978ms
+2025-04-10 12:43:58.108 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/api/User/patients?pageNumber=1&pageSize=10 - null null
+2025-04-10 12:43:58.113 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.UserController.GetAllPatients (AuthApi)'
+2025-04-10 12:43:58.120 +02:00 [INF] Route matched with {action = "GetAllPatients", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllPatients(Int32, Int32, System.String) on controller AuthApi.Controllers.UserController (AuthApi).
+2025-04-10 12:43:58.127 +02:00 [INF] GetAllPatients called with pageNumber: 1, pageSize: 10, searchTerm: null
+2025-04-10 12:43:58.135 +02:00 [INF] Fetching all patients with pageNumber: 1, pageSize: 10, searchTerm: null
+2025-04-10 12:43:58.168 +02:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Patients] AS [p]
+2025-04-10 12:43:58.314 +02:00 [INF] Executed DbCommand (12ms) [Parameters=[@__p_0='?' (DbType = Int32), @__p_1='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [t].[Id], [t].[FirstName], [t].[LastName], [t].[Gender], [t].[BirthDate], [t].[Email], [t].[ImageUrl], [t].[CreatedAt], [t0].[Diagnosis], [t0].[Treatment], [t0].[DoctorId], [t0].[DoctorFirstName], [t0].[DoctorLastName], [t0].[Id], [t0].[Id0]
+FROM (
+    SELECT [p].[Id], [p].[FirstName], [p].[LastName], [p].[Gender], [p].[BirthDate], [p].[Email], [p].[ImageUrl], [p].[CreatedAt]
+    FROM [Patients] AS [p]
+    ORDER BY [p].[Id]
+    OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY
+) AS [t]
+LEFT JOIN (
+    SELECT [p0].[Diagnosis], [p0].[Treatment], [p0].[DoctorId], [d].[FirstName] AS [DoctorFirstName], [d].[LastName] AS [DoctorLastName], [p0].[Id], [d].[Id] AS [Id0], [p0].[PatientId]
+    FROM [PatientHistories] AS [p0]
+    INNER JOIN [Doctors] AS [d] ON [p0].[DoctorId] = [d].[Id]
+) AS [t0] ON [t].[Id] = [t0].[PatientId]
+ORDER BY [t].[Id], [t0].[Id]
+2025-04-10 12:43:58.334 +02:00 [INF] Successfully retrieved 1 patients
+2025-04-10 12:43:58.340 +02:00 [INF] Executing OkObjectResult, writing value of type 'AuthApi.DTOs.PagedResult`1[[AuthApi.DTOs.PatientResponseDto, AuthApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-04-10 12:43:58.342 +02:00 [INF] Executed action AuthApi.Controllers.UserController.GetAllPatients (AuthApi) in 219.4771ms
+2025-04-10 12:43:58.345 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.UserController.GetAllPatients (AuthApi)'
+2025-04-10 12:43:58.346 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/api/User/patients?pageNumber=1&pageSize=10 - 200 null application/json; charset=utf-8 238.3519ms
+2025-04-10 12:44:04.172 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/api/User/patients/doctor/1?pageNumber=1&pageSize=10 - null null
+2025-04-10 12:44:04.178 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.UserController.GetPatientsByDoctor (AuthApi)'
+2025-04-10 12:44:04.185 +02:00 [INF] Route matched with {action = "GetPatientsByDoctor", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPatientsByDoctor(Int32, Int32, Int32, System.String) on controller AuthApi.Controllers.UserController (AuthApi).
+2025-04-10 12:44:04.193 +02:00 [INF] GetPatientsByDoctor called with doctorId: 1, pageNumber: 1, pageSize: 10, searchTerm: null
+2025-04-10 12:44:04.204 +02:00 [INF] Fetching patients for doctorId: 1, pageNumber: 1, pageSize: 10, searchTerm: null
+2025-04-10 12:44:04.220 +02:00 [INF] Executed DbCommand (4ms) [Parameters=[@__doctorId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Doctors] AS [d]
+        WHERE [d].[Id] = @__doctorId_0) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2025-04-10 12:44:04.301 +02:00 [INF] Executed DbCommand (61ms) [Parameters=[@__doctorId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Patients] AS [p]
+WHERE EXISTS (
+    SELECT 1
+    FROM [PatientHistories] AS [p0]
+    WHERE [p].[Id] = [p0].[PatientId] AND [p0].[DoctorId] = @__doctorId_0)
+2025-04-10 12:44:04.360 +02:00 [INF] Executed DbCommand (14ms) [Parameters=[@__doctorId_0='?' (DbType = Int32), @__p_1='?' (DbType = Int32), @__p_2='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [t].[Id], [t].[FirstName], [t].[LastName], [t].[Gender], [t].[BirthDate], [t].[Email], [t].[ImageUrl], [t].[CreatedAt], [t0].[Diagnosis], [t0].[Treatment], [t0].[DoctorId], [t0].[DoctorFirstName], [t0].[DoctorLastName], [t0].[Id], [t0].[Id0]
+FROM (
+    SELECT [p].[Id], [p].[FirstName], [p].[LastName], [p].[Gender], [p].[BirthDate], [p].[Email], [p].[ImageUrl], [p].[CreatedAt]
+    FROM [Patients] AS [p]
+    WHERE EXISTS (
+        SELECT 1
+        FROM [PatientHistories] AS [p0]
+        WHERE [p].[Id] = [p0].[PatientId] AND [p0].[DoctorId] = @__doctorId_0)
+    ORDER BY [p].[Id]
+    OFFSET @__p_1 ROWS FETCH NEXT @__p_2 ROWS ONLY
+) AS [t]
+LEFT JOIN (
+    SELECT [p1].[Diagnosis], [p1].[Treatment], [p1].[DoctorId], [d].[FirstName] AS [DoctorFirstName], [d].[LastName] AS [DoctorLastName], [p1].[Id], [d].[Id] AS [Id0], [p1].[PatientId]
+    FROM [PatientHistories] AS [p1]
+    INNER JOIN [Doctors] AS [d] ON [p1].[DoctorId] = [d].[Id]
+    WHERE [p1].[DoctorId] = @__doctorId_0
+) AS [t0] ON [t].[Id] = [t0].[PatientId]
+ORDER BY [t].[Id], [t0].[Id]
+2025-04-10 12:44:04.367 +02:00 [INF] Successfully retrieved 1 patients for doctorId: 1
+2025-04-10 12:44:04.371 +02:00 [INF] Executing OkObjectResult, writing value of type 'AuthApi.DTOs.PagedResult`1[[AuthApi.DTOs.PatientResponseDto, AuthApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-04-10 12:44:04.374 +02:00 [INF] Executed action AuthApi.Controllers.UserController.GetPatientsByDoctor (AuthApi) in 187.2772ms
+2025-04-10 12:44:04.375 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.UserController.GetPatientsByDoctor (AuthApi)'
+2025-04-10 12:44:04.376 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/api/User/patients/doctor/1?pageNumber=1&pageSize=10 - 200 null application/json; charset=utf-8 204.0695ms
+2025-04-10 12:44:08.398 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/api/User/details - null null
+2025-04-10 12:44:08.405 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.UserController.GetMyDetails (AuthApi)'
+2025-04-10 12:44:08.414 +02:00 [INF] Route matched with {action = "GetMyDetails", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetMyDetails() on controller AuthApi.Controllers.UserController (AuthApi).
+2025-04-10 12:44:08.419 +02:00 [INF] GetMyDetails called for logged-in user
+2025-04-10 12:44:08.427 +02:00 [INF] Fetching user details for userId: 1, role: admin
+2025-04-10 12:44:08.440 +02:00 [INF] Executed DbCommand (4ms) [Parameters=[@__userId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email]
+FROM [Admins] AS [a]
+WHERE [a].[Id] = @__userId_0
+2025-04-10 12:44:08.444 +02:00 [INF] Successfully retrieved details for userId: 1, role: admin
+2025-04-10 12:44:08.446 +02:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType6`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Object, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-04-10 12:44:08.449 +02:00 [INF] Executed action AuthApi.Controllers.UserController.GetMyDetails (AuthApi) in 33.7299ms
+2025-04-10 12:44:08.451 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.UserController.GetMyDetails (AuthApi)'
+2025-04-10 12:44:08.452 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/api/User/details - 200 null application/json; charset=utf-8 53.545ms
+2025-04-10 12:44:20.722 +02:00 [INF] Request starting HTTP/2 DELETE https://localhost:7295/api/Update/patient/1 - null null
+2025-04-10 12:44:20.724 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.UpdateController.DeletePatient (AuthApi)'
+2025-04-10 12:44:20.727 +02:00 [INF] Route matched with {action = "DeletePatient", controller = "Update"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] DeletePatient(Int32) on controller AuthApi.Controllers.UpdateController (AuthApi).
+2025-04-10 12:44:20.731 +02:00 [INF] DeletePatient called for patient ID 1
+2025-04-10 12:44:20.774 +02:00 [INF] Executed DbCommand (5ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [p].[Id], [p].[BirthDate], [p].[CreatedAt], [p].[Email], [p].[FirstName], [p].[Gender], [p].[ImageUrl], [p].[LastName], [p].[PasswordHash]
+FROM [Patients] AS [p]
+WHERE [p].[Id] = @__p_0
+2025-04-10 12:44:20.797 +02:00 [INF] Executed DbCommand (3ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [p].[Id], [p].[Diagnosis], [p].[DoctorId], [p].[PatientId], [p].[Treatment], [p].[TreatmentDate]
+FROM [PatientHistories] AS [p]
+WHERE [p].[PatientId] = @__id_0
+2025-04-10 12:44:20.840 +02:00 [INF] Deleting 1 patient histories associated with patient ID 1
+2025-04-10 12:44:20.930 +02:00 [ERR] Failed to delete image: /Uploads/Images/patient-1-20250410124344.jpg
+System.ArgumentNullException: Value cannot be null. (Parameter 'path1')
+   at System.ArgumentNullException.Throw(String paramName)
+   at System.IO.Path.Combine(String path1, String path2)
+   at AuthApi.Services.ImageService.DeleteImage(String imageUrl) in E:\Course\login .net\AuthApi\AuthApi\Services\ImageService.cs:line 85
+2025-04-10 12:44:20.964 +02:00 [WRN] Failed to delete image for patient ID 1: Value cannot be null. (Parameter 'path1')
+System.ArgumentNullException: Value cannot be null. (Parameter 'path1')
+   at System.ArgumentNullException.Throw(String paramName)
+   at System.IO.Path.Combine(String path1, String path2)
+   at AuthApi.Services.ImageService.DeleteImage(String imageUrl) in E:\Course\login .net\AuthApi\AuthApi\Services\ImageService.cs:line 85
+   at AuthApi.Controllers.UpdateController.DeletePatient(Int32 id) in E:\Course\login .net\AuthApi\AuthApi\Controllers\UpdateController.cs:line 355
+2025-04-10 12:44:20.989 +02:00 [INF] Executed DbCommand (13ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+DELETE FROM [PatientHistories]
+OUTPUT 1
+WHERE [Id] = @p0;
+DELETE FROM [Patients]
+OUTPUT 1
+WHERE [Id] = @p1;
+2025-04-10 12:44:20.998 +02:00 [INF] Patient deleted successfully for ID 1
+2025-04-10 12:44:21.001 +02:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-04-10 12:44:21.003 +02:00 [INF] Executed action AuthApi.Controllers.UpdateController.DeletePatient (AuthApi) in 275.8062ms
+2025-04-10 12:44:21.005 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.UpdateController.DeletePatient (AuthApi)'
+2025-04-10 12:44:21.007 +02:00 [INF] Request finished HTTP/2 DELETE https://localhost:7295/api/Update/patient/1 - 200 null application/json; charset=utf-8 284.5926ms
+2025-04-10 12:44:25.070 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/api/User/patients?pageNumber=1&pageSize=10 - null null
+2025-04-10 12:44:25.073 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.UserController.GetAllPatients (AuthApi)'
+2025-04-10 12:44:25.075 +02:00 [INF] Route matched with {action = "GetAllPatients", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllPatients(Int32, Int32, System.String) on controller AuthApi.Controllers.UserController (AuthApi).
+2025-04-10 12:44:25.082 +02:00 [INF] GetAllPatients called with pageNumber: 1, pageSize: 10, searchTerm: null
+2025-04-10 12:44:25.087 +02:00 [INF] Fetching all patients with pageNumber: 1, pageSize: 10, searchTerm: null
+2025-04-10 12:44:25.100 +02:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Patients] AS [p]
+2025-04-10 12:44:25.114 +02:00 [INF] Executed DbCommand (6ms) [Parameters=[@__p_0='?' (DbType = Int32), @__p_1='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [t].[Id], [t].[FirstName], [t].[LastName], [t].[Gender], [t].[BirthDate], [t].[Email], [t].[ImageUrl], [t].[CreatedAt], [t0].[Diagnosis], [t0].[Treatment], [t0].[DoctorId], [t0].[DoctorFirstName], [t0].[DoctorLastName], [t0].[Id], [t0].[Id0]
+FROM (
+    SELECT [p].[Id], [p].[FirstName], [p].[LastName], [p].[Gender], [p].[BirthDate], [p].[Email], [p].[ImageUrl], [p].[CreatedAt]
+    FROM [Patients] AS [p]
+    ORDER BY [p].[Id]
+    OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY
+) AS [t]
+LEFT JOIN (
+    SELECT [p0].[Diagnosis], [p0].[Treatment], [p0].[DoctorId], [d].[FirstName] AS [DoctorFirstName], [d].[LastName] AS [DoctorLastName], [p0].[Id], [d].[Id] AS [Id0], [p0].[PatientId]
+    FROM [PatientHistories] AS [p0]
+    INNER JOIN [Doctors] AS [d] ON [p0].[DoctorId] = [d].[Id]
+) AS [t0] ON [t].[Id] = [t0].[PatientId]
+ORDER BY [t].[Id], [t0].[Id]
+2025-04-10 12:44:25.118 +02:00 [INF] Successfully retrieved 0 patients
+2025-04-10 12:44:25.119 +02:00 [INF] Executing OkObjectResult, writing value of type 'AuthApi.DTOs.PagedResult`1[[AuthApi.DTOs.PatientResponseDto, AuthApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-04-10 12:44:25.120 +02:00 [INF] Executed action AuthApi.Controllers.UserController.GetAllPatients (AuthApi) in 42.5509ms
+2025-04-10 12:44:25.121 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.UserController.GetAllPatients (AuthApi)'
+2025-04-10 12:44:25.122 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/api/User/patients?pageNumber=1&pageSize=10 - 200 null application/json; charset=utf-8 52.9953ms
+2025-04-10 13:52:20.873 +02:00 [INF] User profile is available. Using 'C:\Users\TEFA\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-10 13:52:21.028 +02:00 [INF] Now listening on: https://localhost:7295
+2025-04-10 13:52:21.030 +02:00 [INF] Now listening on: http://localhost:5024
+2025-04-10 13:52:21.091 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-10 13:52:21.093 +02:00 [INF] Hosting environment: Development
+2025-04-10 13:52:21.095 +02:00 [INF] Content root path: E:\Course\login .net\AuthApi\AuthApi
+2025-04-10 13:52:21.589 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/index.html - null null
+2025-04-10 13:52:21.691 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/index.html - 200 null text/html;charset=utf-8 106.5451ms
+2025-04-10 13:52:21.719 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-10 13:52:21.721 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_vs/browserLink - null null
+2025-04-10 13:52:21.724 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - 200 16499 application/javascript; charset=utf-8 5.6806ms
+2025-04-10 13:52:21.768 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_vs/browserLink - 200 null text/javascript; charset=UTF-8 46.2951ms
+2025-04-10 13:52:21.856 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - null null
+2025-04-10 13:52:21.866 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 9.6032ms
+2025-04-10 13:52:41.527 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7295/api/Auth/login - application/json 61
+2025-04-10 13:52:41.603 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.AuthController.Login (AuthApi)'
+2025-04-10 13:52:41.622 +02:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(AuthApi.DTOs.LoginDto) on controller AuthApi.Controllers.AuthController (AuthApi).
+2025-04-10 13:52:41.756 +02:00 [INF] Login attempt for email: admin1@gedisa.com
+2025-04-10 13:52:42.526 +02:00 [ERR] An error occurred using the connection to database '' on server ''.
+2025-04-10 13:52:42.767 +02:00 [ERR] An exception occurred while iterating over the results of a query for context type 'AuthApi.Data.AppDbContext'.
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at Microsoft.Data.SqlClient.SqlConnection.PermissionDemand()
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.InternalOpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at Microsoft.Data.SqlClient.SqlConnection.PermissionDemand()
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.InternalOpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+2025-04-10 13:52:42.919 +02:00 [ERR] Error during login attempt for email admin1@gedisa.com. StackTrace:    at Microsoft.Data.SqlClient.SqlConnection.PermissionDemand()
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.InternalOpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at AuthApi.Controllers.AuthController.Login(LoginDto loginDto) in E:\Course\login .net\AuthApi\AuthApi\Controllers\AuthController.cs:line 486
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at Microsoft.Data.SqlClient.SqlConnection.PermissionDemand()
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.InternalOpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at AuthApi.Controllers.AuthController.Login(LoginDto loginDto) in E:\Course\login .net\AuthApi\AuthApi\Controllers\AuthController.cs:line 486
+2025-04-10 13:52:42.925 +02:00 [INF] Executing ObjectResult, writing value of type '<>f__AnonymousType2`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-04-10 13:52:42.931 +02:00 [INF] Executed action AuthApi.Controllers.AuthController.Login (AuthApi) in 1304.2056ms
+2025-04-10 13:52:42.931 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.AuthController.Login (AuthApi)'
+2025-04-10 13:52:42.937 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7295/api/Auth/login - 500 null application/json; charset=utf-8 1410.7869ms
+2025-04-10 13:52:48.874 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7295/api/Auth/admin/register - application/json 61
+2025-04-10 13:52:48.878 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.AuthController.RegisterAdmin (AuthApi)'
+2025-04-10 13:52:48.882 +02:00 [INF] Route matched with {action = "RegisterAdmin", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] RegisterAdmin(AuthApi.DTOs.AdminDto) on controller AuthApi.Controllers.AuthController (AuthApi).
+2025-04-10 13:52:48.888 +02:00 [INF] RegisterAdmin called with email: admin1@gedisa.com
+2025-04-10 13:52:49.022 +02:00 [ERR] An error occurred using the connection to database '' on server ''.
+2025-04-10 13:52:49.240 +02:00 [ERR] An exception occurred while iterating over the results of a query for context type 'AuthApi.Data.AppDbContext'.
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at Microsoft.Data.SqlClient.SqlConnection.PermissionDemand()
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.InternalOpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at Microsoft.Data.SqlClient.SqlConnection.PermissionDemand()
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.InternalOpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+2025-04-10 13:52:49.366 +02:00 [ERR] Error registering admin with email admin1@gedisa.com. StackTrace:    at Microsoft.Data.SqlClient.SqlConnection.PermissionDemand()
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.InternalOpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at AuthApi.Controllers.AuthController.RegisterAdmin(AdminDto adminDto) in E:\Course\login .net\AuthApi\AuthApi\Controllers\AuthController.cs:line 202
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at Microsoft.Data.SqlClient.SqlConnection.PermissionDemand()
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.InternalOpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at AuthApi.Controllers.AuthController.RegisterAdmin(AdminDto adminDto) in E:\Course\login .net\AuthApi\AuthApi\Controllers\AuthController.cs:line 202
+2025-04-10 13:52:49.369 +02:00 [INF] Executing ObjectResult, writing value of type '<>f__AnonymousType2`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-04-10 13:52:49.370 +02:00 [INF] Executed action AuthApi.Controllers.AuthController.RegisterAdmin (AuthApi) in 487.2655ms
+2025-04-10 13:52:49.371 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.AuthController.RegisterAdmin (AuthApi)'
+2025-04-10 13:52:49.371 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7295/api/Auth/admin/register - 500 null application/json; charset=utf-8 497.2148ms
+2025-04-10 13:53:06.943 +02:00 [INF] User profile is available. Using 'C:\Users\TEFA\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-10 13:53:07.092 +02:00 [INF] Now listening on: https://localhost:7295
+2025-04-10 13:53:07.095 +02:00 [INF] Now listening on: http://localhost:5024
+2025-04-10 13:53:07.148 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-10 13:53:07.150 +02:00 [INF] Hosting environment: Development
+2025-04-10 13:53:07.152 +02:00 [INF] Content root path: E:\Course\login .net\AuthApi\AuthApi
+2025-04-10 13:53:07.720 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/index.html - null null
+2025-04-10 13:53:07.817 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/index.html - 200 null text/html;charset=utf-8 102.4924ms
+2025-04-10 13:53:07.846 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-10 13:53:07.847 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_vs/browserLink - null null
+2025-04-10 13:53:07.856 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - 200 16499 application/javascript; charset=utf-8 10.6306ms
+2025-04-10 13:53:07.880 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_vs/browserLink - 200 null text/javascript; charset=UTF-8 33.1757ms
+2025-04-10 13:53:07.969 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - null null
+2025-04-10 13:53:07.977 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 9.4839ms
+2025-04-10 13:53:26.755 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7295/api/Auth/login - application/json 54
+2025-04-10 13:53:26.882 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.AuthController.Login (AuthApi)'
+2025-04-10 13:53:26.911 +02:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(AuthApi.DTOs.LoginDto) on controller AuthApi.Controllers.AuthController (AuthApi).
+2025-04-10 13:53:27.134 +02:00 [INF] Login attempt for email: admin1@gmail.com
+2025-04-10 13:53:28.700 +02:00 [INF] Executed DbCommand (167ms) [Parameters=[@__loginDto_Email_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email], [a].[PasswordHash]
+FROM [Admins] AS [a]
+WHERE [a].[Email] = @__loginDto_Email_0
+2025-04-10 13:53:29.139 +02:00 [INF] Admin login successful for email: admin1@gmail.com
+2025-04-10 13:53:29.150 +02:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType5`5[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-04-10 13:53:29.162 +02:00 [INF] Executed action AuthApi.Controllers.AuthController.Login (AuthApi) in 2243.7823ms
+2025-04-10 13:53:29.164 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.AuthController.Login (AuthApi)'
+2025-04-10 13:53:29.173 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7295/api/Auth/login - 200 null application/json; charset=utf-8 2418.1746ms
+2025-04-10 14:41:28.228 +02:00 [INF] User profile is available. Using 'C:\Users\TEFA\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-10 14:41:28.431 +02:00 [INF] Now listening on: https://localhost:7295
+2025-04-10 14:41:28.433 +02:00 [INF] Now listening on: http://localhost:5024
+2025-04-10 14:41:28.588 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-10 14:41:28.590 +02:00 [INF] Hosting environment: Development
+2025-04-10 14:41:28.591 +02:00 [INF] Content root path: E:\Course\login .net\AuthApi\AuthApi
+2025-04-10 14:41:29.289 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/index.html - null null
+2025-04-10 14:41:29.421 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/index.html - 200 null text/html;charset=utf-8 137.1541ms
+2025-04-10 14:41:29.444 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-10 14:41:29.450 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - 200 16499 application/javascript; charset=utf-8 5.7426ms
+2025-04-10 14:41:29.450 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_vs/browserLink - null null
+2025-04-10 14:41:29.512 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_vs/browserLink - 200 null text/javascript; charset=UTF-8 62.1252ms
+2025-04-10 14:41:29.610 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - null null
+2025-04-10 14:41:29.620 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 10.3276ms
+2025-04-10 15:02:01.313 +02:00 [INF] Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2025-04-10 15:02:01.347 +02:00 [INF] Executed DbCommand (10ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2025-04-10 15:02:01.349 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2025-04-10 15:02:01.350 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2025-04-10 15:02:01.364 +02:00 [INF] Executed DbCommand (7ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2025-04-10 15:02:01.372 +02:00 [INF] No migrations were applied. The database is already up to date.
+2025-04-10 15:02:08.994 +02:00 [INF] User profile is available. Using 'C:\Users\TEFA\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-10 15:02:09.160 +02:00 [INF] Now listening on: https://localhost:7295
+2025-04-10 15:02:09.162 +02:00 [INF] Now listening on: http://localhost:5024
+2025-04-10 15:02:09.221 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-10 15:02:09.223 +02:00 [INF] Hosting environment: Development
+2025-04-10 15:02:09.225 +02:00 [INF] Content root path: E:\Course\login .net\AuthApi\AuthApi
+2025-04-10 15:02:09.754 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/index.html - null null
+2025-04-10 15:02:09.854 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/index.html - 200 null text/html;charset=utf-8 105.8035ms
+2025-04-10 15:02:09.883 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-10 15:02:09.883 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_vs/browserLink - null null
+2025-04-10 15:02:09.888 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - 200 16499 application/javascript; charset=utf-8 5.5277ms
+2025-04-10 15:02:09.916 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_vs/browserLink - 200 null text/javascript; charset=UTF-8 32.6929ms
+2025-04-10 15:02:10.021 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - null null
+2025-04-10 15:02:10.030 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 9.2103ms
+2025-04-10 15:02:22.187 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7295/api/Auth/login - application/json 53
+2025-04-10 15:02:22.340 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.AuthController.Login (AuthApi)'
+2025-04-10 15:02:22.368 +02:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(AuthApi.DTOs.LoginDto) on controller AuthApi.Controllers.AuthController (AuthApi).
+2025-04-10 15:02:22.652 +02:00 [INF] Login attempt for email: admin@gmail.com
+2025-04-10 15:02:24.170 +02:00 [INF] Executed DbCommand (79ms) [Parameters=[@__loginDto_Email_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email], [a].[PasswordHash]
+FROM [Admins] AS [a]
+WHERE [a].[Email] = @__loginDto_Email_0
+2025-04-10 15:02:24.250 +02:00 [INF] Executed DbCommand (19ms) [Parameters=[@__loginDto_Email_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [d].[Id], [d].[BirthDate], [d].[Email], [d].[FirstName], [d].[Gender], [d].[ImageUrl], [d].[LastName], [d].[PasswordHash], [d].[Specialty]
+FROM [Doctors] AS [d]
+WHERE [d].[Email] = @__loginDto_Email_0
+2025-04-10 15:02:24.267 +02:00 [INF] Executed DbCommand (5ms) [Parameters=[@__loginDto_Email_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [p].[Id], [p].[BirthDate], [p].[CreatedAt], [p].[Email], [p].[FirstName], [p].[Gender], [p].[ImageUrl], [p].[LastName], [p].[PasswordHash]
+FROM [Patients] AS [p]
+WHERE [p].[Email] = @__loginDto_Email_0
+2025-04-10 15:02:24.279 +02:00 [WRN] Invalid login attempt for email: admin@gmail.com
+2025-04-10 15:02:24.296 +02:00 [INF] Executing BadRequestObjectResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-04-10 15:02:24.306 +02:00 [INF] Executed action AuthApi.Controllers.AuthController.Login (AuthApi) in 1928.2857ms
+2025-04-10 15:02:24.310 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.AuthController.Login (AuthApi)'
+2025-04-10 15:02:24.318 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7295/api/Auth/login - 400 null application/json; charset=utf-8 2131.0904ms
+2025-04-10 15:02:55.030 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7295/api/Auth/login - application/json 54
+2025-04-10 15:02:55.037 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.AuthController.Login (AuthApi)'
+2025-04-10 15:02:55.039 +02:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(AuthApi.DTOs.LoginDto) on controller AuthApi.Controllers.AuthController (AuthApi).
+2025-04-10 15:02:55.048 +02:00 [INF] Login attempt for email: admin1@gmail.com
+2025-04-10 15:02:55.100 +02:00 [INF] Executed DbCommand (4ms) [Parameters=[@__loginDto_Email_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email], [a].[PasswordHash]
+FROM [Admins] AS [a]
+WHERE [a].[Email] = @__loginDto_Email_0
+2025-04-10 15:02:55.483 +02:00 [INF] Admin login successful for email: admin1@gmail.com
+2025-04-10 15:02:55.500 +02:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType5`5[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-04-10 15:02:55.505 +02:00 [INF] Executed action AuthApi.Controllers.AuthController.Login (AuthApi) in 462.6778ms
+2025-04-10 15:02:55.507 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.AuthController.Login (AuthApi)'
+2025-04-10 15:02:55.508 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7295/api/Auth/login - 200 null application/json; charset=utf-8 477.6591ms
+2025-04-10 15:03:11.763 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/api/User/doctors?pageNumber=1&pageSize=10 - null null
+2025-04-10 15:03:11.870 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.UserController.GetAllDoctors (AuthApi)'
+2025-04-10 15:03:11.888 +02:00 [INF] Route matched with {action = "GetAllDoctors", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllDoctors(Int32, Int32, System.String) on controller AuthApi.Controllers.UserController (AuthApi).
+2025-04-10 15:03:11.919 +02:00 [INF] GetAllDoctors called with pageNumber: 1, pageSize: 10, searchTerm: null
+2025-04-10 15:03:11.936 +02:00 [INF] Fetching all doctors with pageNumber: 1, pageSize: 10, searchTerm: null
+2025-04-10 15:03:12.102 +02:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Doctors] AS [d]
+2025-04-10 15:03:12.184 +02:00 [INF] Executed DbCommand (4ms) [Parameters=[@__p_0='?' (DbType = Int32), @__p_1='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [d].[Id], [d].[FirstName], [d].[LastName], [d].[Gender], [d].[BirthDate], [d].[Specialty], [d].[Email], [d].[ImageUrl]
+FROM [Doctors] AS [d]
+ORDER BY [d].[Id]
+OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY
+2025-04-10 15:03:12.198 +02:00 [INF] Successfully retrieved 1 doctors
+2025-04-10 15:03:12.203 +02:00 [INF] Executing OkObjectResult, writing value of type 'AuthApi.DTOs.PagedResult`1[[AuthApi.DTOs.DoctorResponseDto, AuthApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-04-10 15:03:12.233 +02:00 [INF] Executed action AuthApi.Controllers.UserController.GetAllDoctors (AuthApi) in 339.6889ms
+2025-04-10 15:03:12.236 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.UserController.GetAllDoctors (AuthApi)'
+2025-04-10 15:03:12.238 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/api/User/doctors?pageNumber=1&pageSize=10 - 200 null application/json; charset=utf-8 475.2851ms
+2025-04-10 15:18:53.503 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5024/api/auth/reset-database - null 0
+2025-04-10 15:18:53.507 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5024/api/auth/reset-database - 307 0 null 4.1095ms
+2025-04-10 15:18:53.525 +02:00 [INF] Request starting HTTP/1.1 POST https://localhost:7295/api/auth/reset-database - null 0
+2025-04-10 15:18:53.528 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.AuthController.ResetDatabase (AuthApi)'
+2025-04-10 15:18:53.534 +02:00 [INF] Route matched with {action = "ResetDatabase", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] ResetDatabase() on controller AuthApi.Controllers.AuthController (AuthApi).
+2025-04-10 15:18:53.561 +02:00 [INF] Resetting database...
+2025-04-10 15:18:53.616 +02:00 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [p].[Id], [p].[Diagnosis], [p].[DoctorId], [p].[PatientId], [p].[Treatment], [p].[TreatmentDate]
+FROM [PatientHistories] AS [p]
+2025-04-10 15:18:53.644 +02:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [p].[Id], [p].[BirthDate], [p].[CreatedAt], [p].[Email], [p].[FirstName], [p].[Gender], [p].[ImageUrl], [p].[LastName], [p].[PasswordHash]
+FROM [Patients] AS [p]
+2025-04-10 15:18:53.660 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [d].[Id], [d].[BirthDate], [d].[Email], [d].[FirstName], [d].[Gender], [d].[ImageUrl], [d].[LastName], [d].[PasswordHash], [d].[Specialty]
+FROM [Doctors] AS [d]
+2025-04-10 15:18:53.705 +02:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[Id], [a].[Email], [a].[PasswordHash]
+FROM [Admins] AS [a]
+2025-04-10 15:18:53.824 +02:00 [INF] Executed DbCommand (34ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+DELETE FROM [Admins]
+OUTPUT 1
+WHERE [Id] = @p0;
+DELETE FROM [Doctors]
+OUTPUT 1
+WHERE [Id] = @p1;
+2025-04-10 15:18:53.893 +02:00 [INF] Executed DbCommand (31ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DBCC CHECKIDENT ('Admins', RESEED, 0)
+2025-04-10 15:18:53.906 +02:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DBCC CHECKIDENT ('Doctors', RESEED, 0)
+2025-04-10 15:18:53.912 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DBCC CHECKIDENT ('Patients', RESEED, 0)
+2025-04-10 15:18:53.917 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DBCC CHECKIDENT ('PatientHistories', RESEED, 0)
+2025-04-10 15:18:54.510 +02:00 [INF] Executed DbCommand (16ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (Size = 4000), @p2='?' (Size = 4000), @p3='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+MERGE [Admins] USING (
+VALUES (@p0, @p1, 0),
+(@p2, @p3, 1)) AS i ([Email], [PasswordHash], _Position) ON 1=0
+WHEN NOT MATCHED THEN
+INSERT ([Email], [PasswordHash])
+VALUES (i.[Email], i.[PasswordHash])
+OUTPUT INSERTED.[Id], i._Position;
+2025-04-10 15:18:54.554 +02:00 [INF] Database reset successfully. Added admin users with Id 1 and 2.
+2025-04-10 15:18:54.556 +02:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-04-10 15:18:54.558 +02:00 [INF] Executed action AuthApi.Controllers.AuthController.ResetDatabase (AuthApi) in 1020.2733ms
+2025-04-10 15:18:54.560 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.AuthController.ResetDatabase (AuthApi)'
+2025-04-10 15:18:54.561 +02:00 [INF] Request finished HTTP/1.1 POST https://localhost:7295/api/auth/reset-database - 200 null application/json; charset=utf-8 1036.0353ms
+2025-04-10 15:19:04.465 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5024/api/auth/reset-database - null 0
+2025-04-10 15:19:04.477 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5024/api/auth/reset-database - 307 0 null 11.6133ms
+2025-04-10 15:19:04.483 +02:00 [INF] Request starting HTTP/1.1 POST https://localhost:7295/api/auth/reset-database - null 0
+2025-04-10 15:19:04.492 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.AuthController.ResetDatabase (AuthApi)'
+2025-04-10 15:19:04.494 +02:00 [INF] Route matched with {action = "ResetDatabase", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] ResetDatabase() on controller AuthApi.Controllers.AuthController (AuthApi).
+2025-04-10 15:19:04.500 +02:00 [INF] Resetting database...
+2025-04-10 15:19:04.505 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [p].[Id], [p].[Diagnosis], [p].[DoctorId], [p].[PatientId], [p].[Treatment], [p].[TreatmentDate]
+FROM [PatientHistories] AS [p]
+2025-04-10 15:19:04.512 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [p].[Id], [p].[BirthDate], [p].[CreatedAt], [p].[Email], [p].[FirstName], [p].[Gender], [p].[ImageUrl], [p].[LastName], [p].[PasswordHash]
+FROM [Patients] AS [p]
+2025-04-10 15:19:04.516 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [d].[Id], [d].[BirthDate], [d].[Email], [d].[FirstName], [d].[Gender], [d].[ImageUrl], [d].[LastName], [d].[PasswordHash], [d].[Specialty]
+FROM [Doctors] AS [d]
+2025-04-10 15:19:04.521 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[Id], [a].[Email], [a].[PasswordHash]
+FROM [Admins] AS [a]
+2025-04-10 15:19:04.533 +02:00 [INF] Executed DbCommand (3ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+DELETE FROM [Admins]
+OUTPUT 1
+WHERE [Id] = @p0;
+DELETE FROM [Admins]
+OUTPUT 1
+WHERE [Id] = @p1;
+2025-04-10 15:19:04.542 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DBCC CHECKIDENT ('Admins', RESEED, 0)
+2025-04-10 15:19:04.547 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DBCC CHECKIDENT ('Doctors', RESEED, 0)
+2025-04-10 15:19:04.553 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DBCC CHECKIDENT ('Patients', RESEED, 0)
+2025-04-10 15:19:04.557 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DBCC CHECKIDENT ('PatientHistories', RESEED, 0)
+2025-04-10 15:19:04.883 +02:00 [INF] Executed DbCommand (2ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (Size = 4000), @p2='?' (Size = 4000), @p3='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+MERGE [Admins] USING (
+VALUES (@p0, @p1, 0),
+(@p2, @p3, 1)) AS i ([Email], [PasswordHash], _Position) ON 1=0
+WHEN NOT MATCHED THEN
+INSERT ([Email], [PasswordHash])
+VALUES (i.[Email], i.[PasswordHash])
+OUTPUT INSERTED.[Id], i._Position;
+2025-04-10 15:19:04.889 +02:00 [INF] Database reset successfully. Added admin users with Id 1 and 2.
+2025-04-10 15:19:04.890 +02:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-04-10 15:19:04.892 +02:00 [INF] Executed action AuthApi.Controllers.AuthController.ResetDatabase (AuthApi) in 393.748ms
+2025-04-10 15:19:04.893 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.AuthController.ResetDatabase (AuthApi)'
+2025-04-10 15:19:04.895 +02:00 [INF] Request finished HTTP/1.1 POST https://localhost:7295/api/auth/reset-database - 200 null application/json; charset=utf-8 411.4809ms
+2025-04-10 15:19:52.978 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5024/api/auth/register - application/json 57
+2025-04-10 15:19:52.987 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5024/api/auth/register - 307 0 null 8.8082ms
+2025-04-10 15:19:52.989 +02:00 [INF] Request starting HTTP/1.1 POST https://localhost:7295/api/auth/register - application/json 57
+2025-04-10 15:19:52.998 +02:00 [INF] Request finished HTTP/1.1 POST https://localhost:7295/api/auth/register - 404 0 null 8.4148ms
+2025-04-10 15:19:53.000 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: POST https://localhost:7295/api/auth/register, Response status code: 404
+2025-04-10 15:20:15.146 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5024/api/auth/register - null 0
+2025-04-10 15:20:15.150 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5024/api/auth/register - 307 0 null 5.7974ms
+2025-04-10 15:20:15.151 +02:00 [INF] Request starting HTTP/1.1 POST https://localhost:7295/api/auth/register - null 0
+2025-04-10 15:20:15.157 +02:00 [INF] Request finished HTTP/1.1 POST https://localhost:7295/api/auth/register - 404 0 null 6.2058ms
+2025-04-10 15:20:15.161 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: POST https://localhost:7295/api/auth/register, Response status code: 404
+2025-04-10 15:20:34.567 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7295/api/Auth/admin/register - application/json 54
+2025-04-10 15:20:34.570 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.AuthController.RegisterAdmin (AuthApi)'
+2025-04-10 15:20:34.573 +02:00 [INF] Route matched with {action = "RegisterAdmin", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] RegisterAdmin(AuthApi.DTOs.AdminDto) on controller AuthApi.Controllers.AuthController (AuthApi).
+2025-04-10 15:20:34.605 +02:00 [INF] RegisterAdmin called with email: admin1@gmail.com
+2025-04-10 15:20:34.649 +02:00 [INF] Executed DbCommand (22ms) [Parameters=[@__adminDto_Email_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Admins] AS [a]
+        WHERE [a].[Email] = @__adminDto_Email_0) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2025-04-10 15:20:34.659 +02:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Admins] AS [a]
+2025-04-10 15:20:34.789 +02:00 [INF] Executed DbCommand (4ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Admins] ([Email], [PasswordHash])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1);
+2025-04-10 15:20:34.795 +02:00 [INF] Admin registered successfully with ID: 3
+2025-04-10 15:20:34.796 +02:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[AuthApi.DTOs.AdminResponseDto, AuthApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-04-10 15:20:34.799 +02:00 [INF] Executed action AuthApi.Controllers.AuthController.RegisterAdmin (AuthApi) in 223.5891ms
+2025-04-10 15:20:34.801 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.AuthController.RegisterAdmin (AuthApi)'
+2025-04-10 15:20:34.803 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7295/api/Auth/admin/register - 200 null application/json; charset=utf-8 236.0312ms
+2025-04-10 15:20:46.641 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5024/api/auth/login - application/json 57
+2025-04-10 15:20:46.643 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5024/api/auth/login - 307 0 null 1.6936ms
+2025-04-10 15:20:46.644 +02:00 [INF] Request starting HTTP/1.1 POST https://localhost:7295/api/auth/login - application/json 57
+2025-04-10 15:20:46.647 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.AuthController.Login (AuthApi)'
+2025-04-10 15:20:46.648 +02:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(AuthApi.DTOs.LoginDto) on controller AuthApi.Controllers.AuthController (AuthApi).
+2025-04-10 15:20:46.651 +02:00 [INF] Login attempt for email: admin1@gmail.com
+2025-04-10 15:20:46.656 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[@__loginDto_Email_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email], [a].[PasswordHash]
+FROM [Admins] AS [a]
+WHERE [a].[Email] = @__loginDto_Email_0
+2025-04-10 15:20:46.778 +02:00 [INF] Admin login successful for email: admin1@gmail.com
+2025-04-10 15:20:46.780 +02:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType5`5[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-04-10 15:20:46.782 +02:00 [INF] Executed action AuthApi.Controllers.AuthController.Login (AuthApi) in 133.1768ms
+2025-04-10 15:20:46.784 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.AuthController.Login (AuthApi)'
+2025-04-10 15:20:46.786 +02:00 [INF] Request finished HTTP/1.1 POST https://localhost:7295/api/auth/login - 200 null application/json; charset=utf-8 141.7877ms
+2025-04-10 16:06:53.609 +02:00 [INF] User profile is available. Using 'C:\Users\TEFA\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-10 16:06:53.787 +02:00 [INF] Now listening on: https://localhost:7295
+2025-04-10 16:06:53.790 +02:00 [INF] Now listening on: http://localhost:5024
+2025-04-10 16:06:53.864 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-10 16:06:53.867 +02:00 [INF] Hosting environment: Development
+2025-04-10 16:06:53.893 +02:00 [INF] Content root path: E:\Course\login .net\AuthApi\AuthApi
+2025-04-10 16:06:54.214 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/index.html - null null
+2025-04-10 16:06:54.320 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/index.html - 200 null text/html;charset=utf-8 111.9319ms
+2025-04-10 16:06:54.356 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-10 16:06:54.356 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_vs/browserLink - null null
+2025-04-10 16:06:54.364 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - 200 16499 application/javascript; charset=utf-8 7.5944ms
+2025-04-10 16:06:54.394 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_vs/browserLink - 200 null text/javascript; charset=UTF-8 38.4501ms
+2025-04-10 16:06:54.525 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - null null
+2025-04-10 16:06:54.534 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 9.2944ms
+2025-04-10 16:07:14.252 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7295/api/Auth/login - application/json 54
+2025-04-10 16:07:14.321 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.AuthController.Login (AuthApi)'
+2025-04-10 16:07:14.338 +02:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(AuthApi.DTOs.LoginDto) on controller AuthApi.Controllers.AuthController (AuthApi).
+2025-04-10 16:07:14.478 +02:00 [INF] Login attempt for email: admin1@gmail.com
+2025-04-10 16:07:15.251 +02:00 [INF] Executed DbCommand (42ms) [Parameters=[@__loginDto_Email_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email], [a].[PasswordHash]
+FROM [Admins] AS [a]
+WHERE [a].[Email] = @__loginDto_Email_0
+2025-04-10 16:07:15.519 +02:00 [INF] Admin login successful for email: admin1@gmail.com
+2025-04-10 16:07:15.525 +02:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType5`5[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-04-10 16:07:15.531 +02:00 [INF] Executed action AuthApi.Controllers.AuthController.Login (AuthApi) in 1189.595ms
+2025-04-10 16:07:15.534 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.AuthController.Login (AuthApi)'
+2025-04-10 16:07:15.539 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7295/api/Auth/login - 200 null application/json; charset=utf-8 1287.2629ms
+2025-04-10 16:07:22.234 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:5024/api/auth/login - application/json 57
+2025-04-10 16:07:22.237 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:5024/api/auth/login - 307 0 null 2.9369ms
+2025-04-10 16:07:22.256 +02:00 [INF] Request starting HTTP/1.1 POST https://localhost:7295/api/auth/login - application/json 57
+2025-04-10 16:07:22.259 +02:00 [INF] Executing endpoint 'AuthApi.Controllers.AuthController.Login (AuthApi)'
+2025-04-10 16:07:22.260 +02:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(AuthApi.DTOs.LoginDto) on controller AuthApi.Controllers.AuthController (AuthApi).
+2025-04-10 16:07:22.265 +02:00 [INF] Login attempt for email: admin1@gmail.com
+2025-04-10 16:07:22.280 +02:00 [INF] Executed DbCommand (3ms) [Parameters=[@__loginDto_Email_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email], [a].[PasswordHash]
+FROM [Admins] AS [a]
+WHERE [a].[Email] = @__loginDto_Email_0
+2025-04-10 16:07:22.462 +02:00 [INF] Admin login successful for email: admin1@gmail.com
+2025-04-10 16:07:22.463 +02:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType5`5[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-04-10 16:07:22.465 +02:00 [INF] Executed action AuthApi.Controllers.AuthController.Login (AuthApi) in 203.4629ms
+2025-04-10 16:07:22.466 +02:00 [INF] Executed endpoint 'AuthApi.Controllers.AuthController.Login (AuthApi)'
+2025-04-10 16:07:22.466 +02:00 [INF] Request finished HTTP/1.1 POST https://localhost:7295/api/auth/login - 200 null application/json; charset=utf-8 210.5996ms

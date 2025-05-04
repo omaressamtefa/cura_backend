@@ -1,0 +1,6 @@
+2025-04-09 01:36:48.621 +02:00 [INF] User profile is available. Using 'C:\Users\TEFA\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-09 01:36:48.685 +02:00 [WRN] The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+2025-04-09 01:36:48.696 +02:00 [INF] Now listening on: http://localhost:5024
+2025-04-09 01:36:48.700 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-09 01:36:48.701 +02:00 [INF] Hosting environment: Development
+2025-04-09 01:36:48.701 +02:00 [INF] Content root path: E:\Course\login .net\AuthApi\AuthApi

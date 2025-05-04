@@ -1,0 +1,744 @@
+4/8/2025 7:24:59 AM: Warning: The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+4/8/2025 7:24:59 AM: Information: Now listening on: https://localhost:7295
+4/8/2025 7:24:59 AM: Information: Now listening on: http://localhost:5024
+4/8/2025 7:24:59 AM: Information: Application started. Press Ctrl+C to shut down.
+4/8/2025 7:24:59 AM: Information: Hosting environment: Development
+4/8/2025 7:24:59 AM: Information: Content root path: E:\Course\login .net\AuthApi\AuthApi
+4/8/2025 7:25:35 AM: Information: RegisterDoctor called with email: omaressamtefa@gmail.com
+4/8/2025 7:25:36 AM: Information: Executed DbCommand (67ms) [Parameters=[@__doctorDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Doctors] AS [d]
+        WHERE [d].[Email] = @__doctorDto_Email_0) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+4/8/2025 7:25:37 AM: Information: Executed DbCommand (7ms) [Parameters=[@p0='?' (DbType = DateTime2), @p1='?' (Size = 4000), @p2='?' (Size = 4000), @p3='?' (Size = 4000), @p4='?' (Size = 4000), @p5='?' (Size = 4000), @p6='?' (Size = 4000), @p7='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Doctors] ([BirthDate], [Email], [FirstName], [Gender], [ImageUrl], [LastName], [PasswordHash], [Specialty])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7);
+4/8/2025 7:25:37 AM: Information: Saving image for doctor with ID 2 to E:\Course\login .net\AuthApi\AuthApi\Uploads\Images\doctor-2-20250408092537.jpg
+4/8/2025 7:25:37 AM: Information: Image saved successfully for doctor with ID 2. Path: /Uploads/Images/doctor-2-20250408092537.jpg
+4/8/2025 7:25:37 AM: Information: Executed DbCommand (6ms) [Parameters=[@p1='?' (DbType = Int32), @p0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [Doctors] SET [ImageUrl] = @p0
+OUTPUT 1
+WHERE [Id] = @p1;
+4/8/2025 7:25:37 AM: Information: Doctor registered successfully with ID: 2
+4/8/2025 7:25:56 AM: Information: RequestPasswordReset called for email: omaressamtefa@gmail.com
+4/8/2025 7:25:56 AM: Information: Executed DbCommand (10ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email], [a].[PasswordHash]
+FROM [Admins] AS [a]
+WHERE [a].[Email] = @__requestDto_Email_0
+4/8/2025 7:25:56 AM: Information: Executed DbCommand (3ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [d].[Id], [d].[BirthDate], [d].[Email], [d].[FirstName], [d].[Gender], [d].[ImageUrl], [d].[LastName], [d].[PasswordHash], [d].[Specialty]
+FROM [Doctors] AS [d]
+WHERE [d].[Email] = @__requestDto_Email_0
+4/8/2025 7:25:56 AM: Information: Executed DbCommand (4ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [p].[Id], [p].[BirthDate], [p].[CreatedAt], [p].[Email], [p].[FirstName], [p].[Gender], [p].[ImageUrl], [p].[LastName], [p].[PasswordHash]
+FROM [Patients] AS [p]
+WHERE [p].[Email] = @__requestDto_Email_0
+4/8/2025 7:25:56 AM: Error: Invalid SMTP configuration. Host: (null), Username: (null), Password: (null), FromEmail: (null)
+4/8/2025 7:25:56 AM: Error: Failed to send password reset email to omaressamtefa@gmail.com
+4/8/2025 7:30:48 AM: Warning: The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+4/8/2025 7:30:48 AM: Information: Now listening on: https://localhost:7295
+4/8/2025 7:30:48 AM: Information: Now listening on: http://localhost:5024
+4/8/2025 7:30:48 AM: Information: Application started. Press Ctrl+C to shut down.
+4/8/2025 7:30:48 AM: Information: Hosting environment: Development
+4/8/2025 7:30:48 AM: Information: Content root path: E:\Course\login .net\AuthApi\AuthApi
+4/8/2025 7:31:04 AM: Warning: The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+4/8/2025 7:31:04 AM: Information: Now listening on: https://localhost:7295
+4/8/2025 7:31:04 AM: Information: Now listening on: http://localhost:5024
+4/8/2025 7:31:04 AM: Information: Application started. Press Ctrl+C to shut down.
+4/8/2025 7:31:04 AM: Information: Hosting environment: Development
+4/8/2025 7:31:04 AM: Information: Content root path: E:\Course\login .net\AuthApi\AuthApi
+4/8/2025 7:31:48 AM: Information: Login attempt for email: omaressamtefa@gmail.com
+4/8/2025 7:31:49 AM: Information: Executed DbCommand (53ms) [Parameters=[@__loginDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email], [a].[PasswordHash]
+FROM [Admins] AS [a]
+WHERE [a].[Email] = @__loginDto_Email_0
+4/8/2025 7:31:49 AM: Information: Executed DbCommand (6ms) [Parameters=[@__loginDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [d].[Id], [d].[BirthDate], [d].[Email], [d].[FirstName], [d].[Gender], [d].[ImageUrl], [d].[LastName], [d].[PasswordHash], [d].[Specialty]
+FROM [Doctors] AS [d]
+WHERE [d].[Email] = @__loginDto_Email_0
+4/8/2025 7:31:49 AM: Information: Doctor login successful for email: omaressamtefa@gmail.com
+4/8/2025 7:32:08 AM: Information: RequestPasswordReset called for email: omaressamtefa@gmail.com
+4/8/2025 7:32:08 AM: Information: Executed DbCommand (2ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email], [a].[PasswordHash]
+FROM [Admins] AS [a]
+WHERE [a].[Email] = @__requestDto_Email_0
+4/8/2025 7:32:08 AM: Information: Executed DbCommand (1ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [d].[Id], [d].[BirthDate], [d].[Email], [d].[FirstName], [d].[Gender], [d].[ImageUrl], [d].[LastName], [d].[PasswordHash], [d].[Specialty]
+FROM [Doctors] AS [d]
+WHERE [d].[Email] = @__requestDto_Email_0
+4/8/2025 7:32:08 AM: Information: Executed DbCommand (21ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [p].[Id], [p].[BirthDate], [p].[CreatedAt], [p].[Email], [p].[FirstName], [p].[Gender], [p].[ImageUrl], [p].[LastName], [p].[PasswordHash]
+FROM [Patients] AS [p]
+WHERE [p].[Email] = @__requestDto_Email_0
+4/8/2025 7:32:08 AM: Error: Invalid SendGrid configuration. ApiKey: (null), FromEmail: (null)
+4/8/2025 7:32:08 AM: Error: Failed to send password reset email to omaressamtefa@gmail.com
+4/8/2025 7:33:51 AM: Information: RegisterDoctor called with email: eafifa2424@hotmail.com
+4/8/2025 7:33:51 AM: Information: Executed DbCommand (7ms) [Parameters=[@__doctorDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Doctors] AS [d]
+        WHERE [d].[Email] = @__doctorDto_Email_0) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+4/8/2025 7:33:52 AM: Information: Executed DbCommand (20ms) [Parameters=[@p0='?' (DbType = DateTime2), @p1='?' (Size = 4000), @p2='?' (Size = 4000), @p3='?' (Size = 4000), @p4='?' (Size = 4000), @p5='?' (Size = 4000), @p6='?' (Size = 4000), @p7='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Doctors] ([BirthDate], [Email], [FirstName], [Gender], [ImageUrl], [LastName], [PasswordHash], [Specialty])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7);
+4/8/2025 7:33:52 AM: Information: Saving image for doctor with ID 3 to E:\Course\login .net\AuthApi\AuthApi\Uploads\Images\doctor-3-20250408093352.jpg
+4/8/2025 7:33:52 AM: Information: Image saved successfully for doctor with ID 3. Path: /Uploads/Images/doctor-3-20250408093352.jpg
+4/8/2025 7:33:52 AM: Information: Executed DbCommand (3ms) [Parameters=[@p1='?' (DbType = Int32), @p0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [Doctors] SET [ImageUrl] = @p0
+OUTPUT 1
+WHERE [Id] = @p1;
+4/8/2025 7:33:52 AM: Information: Doctor registered successfully with ID: 3
+4/8/2025 7:34:09 AM: Information: RequestPasswordReset called for email: eafifa2424@hotmail.com
+4/8/2025 7:34:09 AM: Information: Executed DbCommand (21ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email], [a].[PasswordHash]
+FROM [Admins] AS [a]
+WHERE [a].[Email] = @__requestDto_Email_0
+4/8/2025 7:34:09 AM: Information: Executed DbCommand (2ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [d].[Id], [d].[BirthDate], [d].[Email], [d].[FirstName], [d].[Gender], [d].[ImageUrl], [d].[LastName], [d].[PasswordHash], [d].[Specialty]
+FROM [Doctors] AS [d]
+WHERE [d].[Email] = @__requestDto_Email_0
+4/8/2025 7:34:09 AM: Information: Executed DbCommand (3ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [p].[Id], [p].[BirthDate], [p].[CreatedAt], [p].[Email], [p].[FirstName], [p].[Gender], [p].[ImageUrl], [p].[LastName], [p].[PasswordHash]
+FROM [Patients] AS [p]
+WHERE [p].[Email] = @__requestDto_Email_0
+4/8/2025 7:34:09 AM: Error: Invalid SendGrid configuration. ApiKey: (null), FromEmail: (null)
+4/8/2025 7:34:09 AM: Error: Failed to send password reset email to eafifa2424@hotmail.com
+4/8/2025 8:24:16 AM: Warning: The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+4/8/2025 8:24:16 AM: Information: Now listening on: https://localhost:7295
+4/8/2025 8:24:16 AM: Information: Now listening on: http://localhost:5024
+4/8/2025 8:24:16 AM: Information: Application started. Press Ctrl+C to shut down.
+4/8/2025 8:24:16 AM: Information: Hosting environment: Development
+4/8/2025 8:24:16 AM: Information: Content root path: E:\Course\login .net\AuthApi\AuthApi
+4/8/2025 8:24:43 AM: Information: Login attempt for email: omaressamtefa@gmail.com
+4/8/2025 8:24:44 AM: Information: Executed DbCommand (96ms) [Parameters=[@__loginDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email], [a].[PasswordHash]
+FROM [Admins] AS [a]
+WHERE [a].[Email] = @__loginDto_Email_0
+4/8/2025 8:24:44 AM: Information: Executed DbCommand (5ms) [Parameters=[@__loginDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [d].[Id], [d].[BirthDate], [d].[Email], [d].[FirstName], [d].[Gender], [d].[ImageUrl], [d].[LastName], [d].[PasswordHash], [d].[Specialty]
+FROM [Doctors] AS [d]
+WHERE [d].[Email] = @__loginDto_Email_0
+4/8/2025 8:24:45 AM: Information: Doctor login successful for email: omaressamtefa@gmail.com
+4/8/2025 8:26:03 AM: Information: RegisterDoctor called with email: dontplaywithmeeh007@gmail.com
+4/8/2025 8:26:03 AM: Information: Executed DbCommand (5ms) [Parameters=[@__doctorDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Doctors] AS [d]
+        WHERE [d].[Email] = @__doctorDto_Email_0) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+4/8/2025 8:26:03 AM: Information: Executed DbCommand (7ms) [Parameters=[@p0='?' (DbType = DateTime2), @p1='?' (Size = 4000), @p2='?' (Size = 4000), @p3='?' (Size = 4000), @p4='?' (Size = 4000), @p5='?' (Size = 4000), @p6='?' (Size = 4000), @p7='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Doctors] ([BirthDate], [Email], [FirstName], [Gender], [ImageUrl], [LastName], [PasswordHash], [Specialty])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7);
+4/8/2025 8:26:03 AM: Information: Saving image for doctor with ID 4 to E:\Course\login .net\AuthApi\AuthApi\Uploads\Images\doctor-4-20250408102603.jpg
+4/8/2025 8:26:03 AM: Information: Image saved successfully for doctor with ID 4. Path: /Uploads/Images/doctor-4-20250408102603.jpg
+4/8/2025 8:26:03 AM: Information: Executed DbCommand (5ms) [Parameters=[@p1='?' (DbType = Int32), @p0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [Doctors] SET [ImageUrl] = @p0
+OUTPUT 1
+WHERE [Id] = @p1;
+4/8/2025 8:26:03 AM: Information: Doctor registered successfully with ID: 4
+4/8/2025 8:26:14 AM: Information: Login attempt for email: dontplaywithmeeh007@gmail.com
+4/8/2025 8:26:14 AM: Information: Executed DbCommand (2ms) [Parameters=[@__loginDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email], [a].[PasswordHash]
+FROM [Admins] AS [a]
+WHERE [a].[Email] = @__loginDto_Email_0
+4/8/2025 8:26:14 AM: Information: Executed DbCommand (2ms) [Parameters=[@__loginDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [d].[Id], [d].[BirthDate], [d].[Email], [d].[FirstName], [d].[Gender], [d].[ImageUrl], [d].[LastName], [d].[PasswordHash], [d].[Specialty]
+FROM [Doctors] AS [d]
+WHERE [d].[Email] = @__loginDto_Email_0
+4/8/2025 8:26:14 AM: Information: Doctor login successful for email: dontplaywithmeeh007@gmail.com
+4/8/2025 8:28:09 AM: Warning: The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+4/8/2025 8:28:10 AM: Information: Now listening on: https://localhost:7295
+4/8/2025 8:28:10 AM: Information: Now listening on: http://localhost:5024
+4/8/2025 8:28:10 AM: Information: Application started. Press Ctrl+C to shut down.
+4/8/2025 8:28:10 AM: Information: Hosting environment: Development
+4/8/2025 8:28:10 AM: Information: Content root path: E:\Course\login .net\AuthApi\AuthApi
+4/8/2025 8:28:31 AM: Information: RequestPasswordReset called for email: dontplaywithmeeh007@gmail.com
+4/8/2025 8:28:33 AM: Information: Executed DbCommand (51ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email], [a].[PasswordHash]
+FROM [Admins] AS [a]
+WHERE [a].[Email] = @__requestDto_Email_0
+4/8/2025 8:28:33 AM: Information: Executed DbCommand (5ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [d].[Id], [d].[BirthDate], [d].[Email], [d].[FirstName], [d].[Gender], [d].[ImageUrl], [d].[LastName], [d].[PasswordHash], [d].[Specialty]
+FROM [Doctors] AS [d]
+WHERE [d].[Email] = @__requestDto_Email_0
+4/8/2025 8:28:33 AM: Information: Executed DbCommand (6ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [p].[Id], [p].[BirthDate], [p].[CreatedAt], [p].[Email], [p].[FirstName], [p].[Gender], [p].[ImageUrl], [p].[LastName], [p].[PasswordHash]
+FROM [Patients] AS [p]
+WHERE [p].[Email] = @__requestDto_Email_0
+4/8/2025 8:28:49 AM: Error: Failed to send email to dontplaywithmeeh007@gmail.com. Details: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Authentication Required. For more information, go to
+4/8/2025 8:28:49 AM: Error: Failed to send password reset email to dontplaywithmeeh007@gmail.com
+4/8/2025 8:44:03 AM: Warning: The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+4/8/2025 8:44:03 AM: Information: Now listening on: http://localhost:5024
+4/8/2025 8:44:03 AM: Information: Application started. Press Ctrl+C to shut down.
+4/8/2025 8:44:03 AM: Information: Hosting environment: Development
+4/8/2025 8:44:03 AM: Information: Content root path: E:\Course\login .net\AuthApi\AuthApi
+4/8/2025 8:45:27 AM: Warning: The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+4/8/2025 8:45:27 AM: Information: Now listening on: https://localhost:7295
+4/8/2025 8:45:27 AM: Information: Now listening on: http://localhost:5024
+4/8/2025 8:45:27 AM: Information: Application started. Press Ctrl+C to shut down.
+4/8/2025 8:45:27 AM: Information: Hosting environment: Development
+4/8/2025 8:45:27 AM: Information: Content root path: E:\Course\login .net\AuthApi\AuthApi
+4/8/2025 8:45:46 AM: Information: RequestPasswordReset called for email: dontplaywithmeeh007@gmail.com
+4/8/2025 8:45:47 AM: Information: Executed DbCommand (37ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email], [a].[PasswordHash]
+FROM [Admins] AS [a]
+WHERE [a].[Email] = @__requestDto_Email_0
+4/8/2025 8:45:47 AM: Information: Executed DbCommand (4ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [d].[Id], [d].[BirthDate], [d].[Email], [d].[FirstName], [d].[Gender], [d].[ImageUrl], [d].[LastName], [d].[PasswordHash], [d].[Specialty]
+FROM [Doctors] AS [d]
+WHERE [d].[Email] = @__requestDto_Email_0
+4/8/2025 8:45:47 AM: Information: Executed DbCommand (4ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [p].[Id], [p].[BirthDate], [p].[CreatedAt], [p].[Email], [p].[FirstName], [p].[Gender], [p].[ImageUrl], [p].[LastName], [p].[PasswordHash]
+FROM [Patients] AS [p]
+WHERE [p].[Email] = @__requestDto_Email_0
+4/8/2025 8:45:48 AM: Error: Failed to send email to dontplaywithmeeh007@gmail.com. Details: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Authentication Required. For more information, go to
+4/8/2025 8:45:48 AM: Error: Failed to send password reset email to dontplaywithmeeh007@gmail.com
+4/8/2025 8:46:20 AM: Warning: The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+4/8/2025 8:46:20 AM: Information: Now listening on: https://localhost:7295
+4/8/2025 8:46:20 AM: Information: Now listening on: http://localhost:5024
+4/8/2025 8:46:20 AM: Information: Application started. Press Ctrl+C to shut down.
+4/8/2025 8:46:20 AM: Information: Hosting environment: Development
+4/8/2025 8:46:20 AM: Information: Content root path: E:\Course\login .net\AuthApi\AuthApi
+4/8/2025 8:46:38 AM: Information: Login attempt for email: omaressamtefa@gmail.com
+4/8/2025 8:46:39 AM: Information: Executed DbCommand (50ms) [Parameters=[@__loginDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email], [a].[PasswordHash]
+FROM [Admins] AS [a]
+WHERE [a].[Email] = @__loginDto_Email_0
+4/8/2025 8:46:39 AM: Information: Executed DbCommand (3ms) [Parameters=[@__loginDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [d].[Id], [d].[BirthDate], [d].[Email], [d].[FirstName], [d].[Gender], [d].[ImageUrl], [d].[LastName], [d].[PasswordHash], [d].[Specialty]
+FROM [Doctors] AS [d]
+WHERE [d].[Email] = @__loginDto_Email_0
+4/8/2025 8:46:40 AM: Information: Doctor login successful for email: omaressamtefa@gmail.com
+4/8/2025 8:46:46 AM: Information: RequestPasswordReset called for email: omaressamtefa@gmail.com
+4/8/2025 8:46:46 AM: Information: Executed DbCommand (3ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email], [a].[PasswordHash]
+FROM [Admins] AS [a]
+WHERE [a].[Email] = @__requestDto_Email_0
+4/8/2025 8:46:46 AM: Information: Executed DbCommand (4ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [d].[Id], [d].[BirthDate], [d].[Email], [d].[FirstName], [d].[Gender], [d].[ImageUrl], [d].[LastName], [d].[PasswordHash], [d].[Specialty]
+FROM [Doctors] AS [d]
+WHERE [d].[Email] = @__requestDto_Email_0
+4/8/2025 8:46:46 AM: Information: Executed DbCommand (3ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [p].[Id], [p].[BirthDate], [p].[CreatedAt], [p].[Email], [p].[FirstName], [p].[Gender], [p].[ImageUrl], [p].[LastName], [p].[PasswordHash]
+FROM [Patients] AS [p]
+WHERE [p].[Email] = @__requestDto_Email_0
+4/8/2025 8:46:52 AM: Information: Email sent successfully to omaressamtefa@gmail.com
+4/8/2025 8:46:52 AM: Information: Password reset code sent to email: omaressamtefa@gmail.com
+4/8/2025 8:47:38 AM: Information: ResetPassword called for email: omaressamtefa@gmail.com
+4/8/2025 8:47:38 AM: Information: Executed DbCommand (6ms) [Parameters=[@__resetDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email], [a].[PasswordHash]
+FROM [Admins] AS [a]
+WHERE [a].[Email] = @__resetDto_Email_0
+4/8/2025 8:47:38 AM: Information: Executed DbCommand (2ms) [Parameters=[@__resetDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [d].[Id], [d].[BirthDate], [d].[Email], [d].[FirstName], [d].[Gender], [d].[ImageUrl], [d].[LastName], [d].[PasswordHash], [d].[Specialty]
+FROM [Doctors] AS [d]
+WHERE [d].[Email] = @__resetDto_Email_0
+4/8/2025 8:47:38 AM: Information: Executed DbCommand (3ms) [Parameters=[@__resetDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [p].[Id], [p].[BirthDate], [p].[CreatedAt], [p].[Email], [p].[FirstName], [p].[Gender], [p].[ImageUrl], [p].[LastName], [p].[PasswordHash]
+FROM [Patients] AS [p]
+WHERE [p].[Email] = @__resetDto_Email_0
+4/8/2025 8:47:38 AM: Information: Executed DbCommand (11ms) [Parameters=[@p1='?' (DbType = Int32), @p0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [Doctors] SET [PasswordHash] = @p0
+OUTPUT 1
+WHERE [Id] = @p1;
+4/8/2025 8:47:38 AM: Information: Password reset successfully for email: omaressamtefa@gmail.com
+4/8/2025 8:47:47 AM: Information: Login attempt for email: omaressamtefa@gmail.com
+4/8/2025 8:47:47 AM: Information: Executed DbCommand (2ms) [Parameters=[@__loginDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email], [a].[PasswordHash]
+FROM [Admins] AS [a]
+WHERE [a].[Email] = @__loginDto_Email_0
+4/8/2025 8:47:47 AM: Information: Executed DbCommand (3ms) [Parameters=[@__loginDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [d].[Id], [d].[BirthDate], [d].[Email], [d].[FirstName], [d].[Gender], [d].[ImageUrl], [d].[LastName], [d].[PasswordHash], [d].[Specialty]
+FROM [Doctors] AS [d]
+WHERE [d].[Email] = @__loginDto_Email_0
+4/8/2025 8:47:47 AM: Warning: Invalid password for doctor with email: omaressamtefa@gmail.com
+4/8/2025 8:47:53 AM: Information: Login attempt for email: omaressamtefa@gmail.com
+4/8/2025 8:47:53 AM: Information: Executed DbCommand (2ms) [Parameters=[@__loginDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email], [a].[PasswordHash]
+FROM [Admins] AS [a]
+WHERE [a].[Email] = @__loginDto_Email_0
+4/8/2025 8:47:53 AM: Information: Executed DbCommand (1ms) [Parameters=[@__loginDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [d].[Id], [d].[BirthDate], [d].[Email], [d].[FirstName], [d].[Gender], [d].[ImageUrl], [d].[LastName], [d].[PasswordHash], [d].[Specialty]
+FROM [Doctors] AS [d]
+WHERE [d].[Email] = @__loginDto_Email_0
+4/8/2025 8:47:53 AM: Information: Doctor login successful for email: omaressamtefa@gmail.com
+4/8/2025 8:52:58 AM: Warning: The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+4/8/2025 8:52:58 AM: Information: Now listening on: https://localhost:7295
+4/8/2025 8:52:58 AM: Information: Now listening on: http://localhost:5024
+4/8/2025 8:52:58 AM: Information: Application started. Press Ctrl+C to shut down.
+4/8/2025 8:52:58 AM: Information: Hosting environment: Development
+4/8/2025 8:52:58 AM: Information: Content root path: E:\Course\login .net\AuthApi\AuthApi
+4/8/2025 8:53:28 AM: Information: RequestPasswordReset called for email: dontplaywithmeeh007@gmail.com
+4/8/2025 8:53:29 AM: Information: Executed DbCommand (40ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email], [a].[PasswordHash]
+FROM [Admins] AS [a]
+WHERE [a].[Email] = @__requestDto_Email_0
+4/8/2025 8:53:29 AM: Information: Executed DbCommand (4ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [d].[Id], [d].[BirthDate], [d].[Email], [d].[FirstName], [d].[Gender], [d].[ImageUrl], [d].[LastName], [d].[PasswordHash], [d].[Specialty]
+FROM [Doctors] AS [d]
+WHERE [d].[Email] = @__requestDto_Email_0
+4/8/2025 8:53:30 AM: Information: Executed DbCommand (3ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [p].[Id], [p].[BirthDate], [p].[CreatedAt], [p].[Email], [p].[FirstName], [p].[Gender], [p].[ImageUrl], [p].[LastName], [p].[PasswordHash]
+FROM [Patients] AS [p]
+WHERE [p].[Email] = @__requestDto_Email_0
+4/8/2025 8:53:30 AM: Error: Invalid SMTP configuration. Host: smtp.gmail.com, Username: , Password: derz nwyu lgwg clha, FromEmail: omaressamtefa@gmail.com
+4/8/2025 8:53:30 AM: Error: Failed to send password reset email to dontplaywithmeeh007@gmail.com
+4/8/2025 8:55:18 AM: Warning: The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+4/8/2025 8:55:18 AM: Information: Now listening on: https://localhost:7295
+4/8/2025 8:55:18 AM: Information: Now listening on: http://localhost:5024
+4/8/2025 8:55:18 AM: Information: Application started. Press Ctrl+C to shut down.
+4/8/2025 8:55:18 AM: Information: Hosting environment: Development
+4/8/2025 8:55:18 AM: Information: Content root path: E:\Course\login .net\AuthApi\AuthApi
+4/8/2025 8:55:36 AM: Information: RequestPasswordReset called for email: dontplaywithmeeh007@gmail.com
+4/8/2025 8:55:37 AM: Information: Executed DbCommand (51ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email], [a].[PasswordHash]
+FROM [Admins] AS [a]
+WHERE [a].[Email] = @__requestDto_Email_0
+4/8/2025 8:55:37 AM: Information: Executed DbCommand (4ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [d].[Id], [d].[BirthDate], [d].[Email], [d].[FirstName], [d].[Gender], [d].[ImageUrl], [d].[LastName], [d].[PasswordHash], [d].[Specialty]
+FROM [Doctors] AS [d]
+WHERE [d].[Email] = @__requestDto_Email_0
+4/8/2025 8:55:37 AM: Information: Executed DbCommand (3ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [p].[Id], [p].[BirthDate], [p].[CreatedAt], [p].[Email], [p].[FirstName], [p].[Gender], [p].[ImageUrl], [p].[LastName], [p].[PasswordHash]
+FROM [Patients] AS [p]
+WHERE [p].[Email] = @__requestDto_Email_0
+4/8/2025 8:55:40 AM: Information: Email sent successfully to dontplaywithmeeh007@gmail.com
+4/8/2025 8:55:40 AM: Information: Password reset code sent to email: dontplaywithmeeh007@gmail.com
+4/8/2025 8:56:17 AM: Information: ResetPassword called for email: dontplaywithmeeh007@gmail.com
+4/8/2025 8:56:17 AM: Information: Executed DbCommand (5ms) [Parameters=[@__resetDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email], [a].[PasswordHash]
+FROM [Admins] AS [a]
+WHERE [a].[Email] = @__resetDto_Email_0
+4/8/2025 8:56:17 AM: Information: Executed DbCommand (3ms) [Parameters=[@__resetDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [d].[Id], [d].[BirthDate], [d].[Email], [d].[FirstName], [d].[Gender], [d].[ImageUrl], [d].[LastName], [d].[PasswordHash], [d].[Specialty]
+FROM [Doctors] AS [d]
+WHERE [d].[Email] = @__resetDto_Email_0
+4/8/2025 8:56:17 AM: Information: Executed DbCommand (3ms) [Parameters=[@__resetDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [p].[Id], [p].[BirthDate], [p].[CreatedAt], [p].[Email], [p].[FirstName], [p].[Gender], [p].[ImageUrl], [p].[LastName], [p].[PasswordHash]
+FROM [Patients] AS [p]
+WHERE [p].[Email] = @__resetDto_Email_0
+4/8/2025 8:56:17 AM: Information: Executed DbCommand (6ms) [Parameters=[@p1='?' (DbType = Int32), @p0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [Doctors] SET [PasswordHash] = @p0
+OUTPUT 1
+WHERE [Id] = @p1;
+4/8/2025 8:56:17 AM: Information: Password reset successfully for email: dontplaywithmeeh007@gmail.com
+4/8/2025 8:56:30 AM: Information: Login attempt for email: dontplaywithmeeh007@gmail.com
+4/8/2025 8:56:30 AM: Information: Executed DbCommand (2ms) [Parameters=[@__loginDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email], [a].[PasswordHash]
+FROM [Admins] AS [a]
+WHERE [a].[Email] = @__loginDto_Email_0
+4/8/2025 8:56:30 AM: Information: Executed DbCommand (2ms) [Parameters=[@__loginDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [d].[Id], [d].[BirthDate], [d].[Email], [d].[FirstName], [d].[Gender], [d].[ImageUrl], [d].[LastName], [d].[PasswordHash], [d].[Specialty]
+FROM [Doctors] AS [d]
+WHERE [d].[Email] = @__loginDto_Email_0
+4/8/2025 8:56:31 AM: Information: Doctor login successful for email: dontplaywithmeeh007@gmail.com
+4/8/2025 9:30:56 AM: Warning: The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+4/8/2025 9:30:56 AM: Information: Now listening on: https://localhost:7295
+4/8/2025 9:30:56 AM: Information: Now listening on: http://localhost:5024
+4/8/2025 9:30:56 AM: Information: Application started. Press Ctrl+C to shut down.
+4/8/2025 9:30:56 AM: Information: Hosting environment: Development
+4/8/2025 9:30:56 AM: Information: Content root path: E:\Course\login .net\AuthApi\AuthApi
+4/8/2025 9:31:10 AM: Information: RequestPasswordReset called for email: dontplaywithmeeh007@gmail.com
+4/8/2025 9:31:11 AM: Information: Executed DbCommand (25ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email], [a].[PasswordHash]
+FROM [Admins] AS [a]
+WHERE [a].[Email] = @__requestDto_Email_0
+4/8/2025 9:31:11 AM: Information: Executed DbCommand (5ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [d].[Id], [d].[BirthDate], [d].[Email], [d].[FirstName], [d].[Gender], [d].[ImageUrl], [d].[LastName], [d].[PasswordHash], [d].[Specialty]
+FROM [Doctors] AS [d]
+WHERE [d].[Email] = @__requestDto_Email_0
+4/8/2025 9:31:11 AM: Information: Executed DbCommand (5ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [p].[Id], [p].[BirthDate], [p].[CreatedAt], [p].[Email], [p].[FirstName], [p].[Gender], [p].[ImageUrl], [p].[LastName], [p].[PasswordHash]
+FROM [Patients] AS [p]
+WHERE [p].[Email] = @__requestDto_Email_0
+4/8/2025 9:31:13 AM: Information: Email sent successfully to dontplaywithmeeh007@gmail.com
+4/8/2025 9:31:13 AM: Information: Password reset code sent to email: dontplaywithmeeh007@gmail.com
+4/8/2025 9:31:49 AM: Information: ResetPassword called for email: dontplaywithmeeh007@gmail.com
+4/8/2025 9:31:49 AM: Information: Executed DbCommand (2ms) [Parameters=[@__resetDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email], [a].[PasswordHash]
+FROM [Admins] AS [a]
+WHERE [a].[Email] = @__resetDto_Email_0
+4/8/2025 9:31:49 AM: Information: Executed DbCommand (3ms) [Parameters=[@__resetDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [d].[Id], [d].[BirthDate], [d].[Email], [d].[FirstName], [d].[Gender], [d].[ImageUrl], [d].[LastName], [d].[PasswordHash], [d].[Specialty]
+FROM [Doctors] AS [d]
+WHERE [d].[Email] = @__resetDto_Email_0
+4/8/2025 9:31:49 AM: Information: Executed DbCommand (2ms) [Parameters=[@__resetDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [p].[Id], [p].[BirthDate], [p].[CreatedAt], [p].[Email], [p].[FirstName], [p].[Gender], [p].[ImageUrl], [p].[LastName], [p].[PasswordHash]
+FROM [Patients] AS [p]
+WHERE [p].[Email] = @__resetDto_Email_0
+4/8/2025 9:31:49 AM: Information: Executed DbCommand (4ms) [Parameters=[@p1='?' (DbType = Int32), @p0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [Doctors] SET [PasswordHash] = @p0
+OUTPUT 1
+WHERE [Id] = @p1;
+4/8/2025 9:31:49 AM: Information: Password reset successfully for email: dontplaywithmeeh007@gmail.com
+4/8/2025 3:03:58 PM: Warning: The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+4/8/2025 3:03:58 PM: Information: Now listening on: https://localhost:7295
+4/8/2025 3:03:58 PM: Information: Now listening on: http://localhost:5024
+4/8/2025 3:03:58 PM: Information: Application started. Press Ctrl+C to shut down.
+4/8/2025 3:03:58 PM: Information: Hosting environment: Development
+4/8/2025 3:03:58 PM: Information: Content root path: E:\Course\login .net\AuthApi\AuthApi
+4/8/2025 3:04:14 PM: Information: RequestPasswordReset called for email: omaressamtefa@gmail.com
+4/8/2025 3:04:15 PM: Information: Executed DbCommand (71ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email], [a].[PasswordHash]
+FROM [Admins] AS [a]
+WHERE [a].[Email] = @__requestDto_Email_0
+4/8/2025 3:04:16 PM: Information: Executed DbCommand (8ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [d].[Id], [d].[BirthDate], [d].[Email], [d].[FirstName], [d].[Gender], [d].[ImageUrl], [d].[LastName], [d].[PasswordHash], [d].[Specialty]
+FROM [Doctors] AS [d]
+WHERE [d].[Email] = @__requestDto_Email_0
+4/8/2025 3:04:16 PM: Information: Executed DbCommand (5ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [p].[Id], [p].[BirthDate], [p].[CreatedAt], [p].[Email], [p].[FirstName], [p].[Gender], [p].[ImageUrl], [p].[LastName], [p].[PasswordHash]
+FROM [Patients] AS [p]
+WHERE [p].[Email] = @__requestDto_Email_0
+4/8/2025 3:04:18 PM: Information: Email sent successfully to omaressamtefa@gmail.com
+4/8/2025 3:04:18 PM: Information: Password reset code sent to email: omaressamtefa@gmail.com
+4/8/2025 3:05:24 PM: Information: RequestPasswordReset called for email: dontplaywithmeeh007@gmail.com
+4/8/2025 3:05:24 PM: Information: Executed DbCommand (31ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email], [a].[PasswordHash]
+FROM [Admins] AS [a]
+WHERE [a].[Email] = @__requestDto_Email_0
+4/8/2025 3:05:24 PM: Information: Executed DbCommand (3ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [d].[Id], [d].[BirthDate], [d].[Email], [d].[FirstName], [d].[Gender], [d].[ImageUrl], [d].[LastName], [d].[PasswordHash], [d].[Specialty]
+FROM [Doctors] AS [d]
+WHERE [d].[Email] = @__requestDto_Email_0
+4/8/2025 3:05:24 PM: Information: Executed DbCommand (3ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [p].[Id], [p].[BirthDate], [p].[CreatedAt], [p].[Email], [p].[FirstName], [p].[Gender], [p].[ImageUrl], [p].[LastName], [p].[PasswordHash]
+FROM [Patients] AS [p]
+WHERE [p].[Email] = @__requestDto_Email_0
+4/8/2025 3:05:26 PM: Information: Email sent successfully to dontplaywithmeeh007@gmail.com
+4/8/2025 3:05:26 PM: Information: Password reset code sent to email: dontplaywithmeeh007@gmail.com
+4/8/2025 3:07:00 PM: Warning: The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+4/8/2025 3:07:00 PM: Information: Now listening on: https://localhost:7295
+4/8/2025 3:07:00 PM: Information: Now listening on: http://localhost:5024
+4/8/2025 3:07:00 PM: Information: Application started. Press Ctrl+C to shut down.
+4/8/2025 3:07:00 PM: Information: Hosting environment: Development
+4/8/2025 3:07:00 PM: Information: Content root path: E:\Course\login .net\AuthApi\AuthApi
+4/8/2025 3:08:52 PM: Information: RequestPasswordReset called for email: dontplaywithmeeh007@gmail.com
+4/8/2025 3:08:53 PM: Information: Executed DbCommand (39ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email], [a].[PasswordHash]
+FROM [Admins] AS [a]
+WHERE [a].[Email] = @__requestDto_Email_0
+4/8/2025 3:08:53 PM: Information: Executed DbCommand (4ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [d].[Id], [d].[BirthDate], [d].[Email], [d].[FirstName], [d].[Gender], [d].[ImageUrl], [d].[LastName], [d].[PasswordHash], [d].[Specialty]
+FROM [Doctors] AS [d]
+WHERE [d].[Email] = @__requestDto_Email_0
+4/8/2025 3:08:53 PM: Information: Executed DbCommand (4ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [p].[Id], [p].[BirthDate], [p].[CreatedAt], [p].[Email], [p].[FirstName], [p].[Gender], [p].[ImageUrl], [p].[LastName], [p].[PasswordHash]
+FROM [Patients] AS [p]
+WHERE [p].[Email] = @__requestDto_Email_0
+4/8/2025 3:08:55 PM: Information: Email sent successfully to dontplaywithmeeh007@gmail.com
+4/8/2025 3:08:55 PM: Information: Password reset code sent to email: dontplaywithmeeh007@gmail.com
+4/8/2025 3:09:50 PM: Warning: The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+4/8/2025 3:09:50 PM: Information: Now listening on: https://localhost:7295
+4/8/2025 3:09:50 PM: Information: Now listening on: http://localhost:5024
+4/8/2025 3:09:50 PM: Information: Application started. Press Ctrl+C to shut down.
+4/8/2025 3:09:50 PM: Information: Hosting environment: Development
+4/8/2025 3:09:50 PM: Information: Content root path: E:\Course\login .net\AuthApi\AuthApi
+4/8/2025 3:09:58 PM: Information: RequestPasswordReset called for email: dontplaywithmeeh007@gmail.com
+4/8/2025 3:09:59 PM: Information: Executed DbCommand (72ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email], [a].[PasswordHash]
+FROM [Admins] AS [a]
+WHERE [a].[Email] = @__requestDto_Email_0
+4/8/2025 3:09:59 PM: Information: Executed DbCommand (5ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [d].[Id], [d].[BirthDate], [d].[Email], [d].[FirstName], [d].[Gender], [d].[ImageUrl], [d].[LastName], [d].[PasswordHash], [d].[Specialty]
+FROM [Doctors] AS [d]
+WHERE [d].[Email] = @__requestDto_Email_0
+4/8/2025 3:09:59 PM: Information: Executed DbCommand (11ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [p].[Id], [p].[BirthDate], [p].[CreatedAt], [p].[Email], [p].[FirstName], [p].[Gender], [p].[ImageUrl], [p].[LastName], [p].[PasswordHash]
+FROM [Patients] AS [p]
+WHERE [p].[Email] = @__requestDto_Email_0
+4/8/2025 3:10:01 PM: Information: Email sent successfully to dontplaywithmeeh007@gmail.com
+4/8/2025 3:10:01 PM: Information: Password reset code sent to email: dontplaywithmeeh007@gmail.com
+4/8/2025 3:15:11 PM: Warning: The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+4/8/2025 3:15:11 PM: Information: Now listening on: https://localhost:7295
+4/8/2025 3:15:11 PM: Information: Now listening on: http://localhost:5024
+4/8/2025 3:15:11 PM: Information: Application started. Press Ctrl+C to shut down.
+4/8/2025 3:15:11 PM: Information: Hosting environment: Development
+4/8/2025 3:15:11 PM: Information: Content root path: E:\Course\login .net\AuthApi\AuthApi
+4/8/2025 3:15:29 PM: Information: RequestPasswordReset called for email: dontplaywithmeeh007@gmail.com
+4/8/2025 3:15:31 PM: Information: Executed DbCommand (50ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email], [a].[PasswordHash]
+FROM [Admins] AS [a]
+WHERE [a].[Email] = @__requestDto_Email_0
+4/8/2025 3:15:31 PM: Information: Executed DbCommand (5ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [d].[Id], [d].[BirthDate], [d].[Email], [d].[FirstName], [d].[Gender], [d].[ImageUrl], [d].[LastName], [d].[PasswordHash], [d].[Specialty]
+FROM [Doctors] AS [d]
+WHERE [d].[Email] = @__requestDto_Email_0
+4/8/2025 3:15:31 PM: Information: Executed DbCommand (5ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [p].[Id], [p].[BirthDate], [p].[CreatedAt], [p].[Email], [p].[FirstName], [p].[Gender], [p].[ImageUrl], [p].[LastName], [p].[PasswordHash]
+FROM [Patients] AS [p]
+WHERE [p].[Email] = @__requestDto_Email_0
+4/8/2025 3:15:32 PM: Information: Email sent successfully to dontplaywithmeeh007@gmail.com
+4/8/2025 3:15:32 PM: Information: Password reset code sent to email: dontplaywithmeeh007@gmail.com
+4/8/2025 3:16:09 PM: Information: ResetPassword called for email: dontplaywithmeeh007@gmail.com
+4/8/2025 3:16:09 PM: Warning: Invalid reset code for email: dontplaywithmeeh007@gmail.com
+4/8/2025 3:17:15 PM: Information: ResetPassword called for email: dontplaywithmeeh007@gmail.com
+4/8/2025 3:17:15 PM: Information: Executed DbCommand (25ms) [Parameters=[@__resetDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email], [a].[PasswordHash]
+FROM [Admins] AS [a]
+WHERE [a].[Email] = @__resetDto_Email_0
+4/8/2025 3:17:15 PM: Information: Executed DbCommand (4ms) [Parameters=[@__resetDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [d].[Id], [d].[BirthDate], [d].[Email], [d].[FirstName], [d].[Gender], [d].[ImageUrl], [d].[LastName], [d].[PasswordHash], [d].[Specialty]
+FROM [Doctors] AS [d]
+WHERE [d].[Email] = @__resetDto_Email_0
+4/8/2025 3:17:15 PM: Information: Executed DbCommand (3ms) [Parameters=[@__resetDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [p].[Id], [p].[BirthDate], [p].[CreatedAt], [p].[Email], [p].[FirstName], [p].[Gender], [p].[ImageUrl], [p].[LastName], [p].[PasswordHash]
+FROM [Patients] AS [p]
+WHERE [p].[Email] = @__resetDto_Email_0
+4/8/2025 3:17:16 PM: Information: Executed DbCommand (5ms) [Parameters=[@p1='?' (DbType = Int32), @p0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [Doctors] SET [PasswordHash] = @p0
+OUTPUT 1
+WHERE [Id] = @p1;
+4/8/2025 3:17:16 PM: Information: Password reset successfully for email: dontplaywithmeeh007@gmail.com
+4/8/2025 3:18:51 PM: Warning: The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+4/8/2025 3:18:51 PM: Information: Now listening on: https://localhost:7295
+4/8/2025 3:18:51 PM: Information: Now listening on: http://localhost:5024
+4/8/2025 3:18:51 PM: Information: Application started. Press Ctrl+C to shut down.
+4/8/2025 3:18:51 PM: Information: Hosting environment: Development
+4/8/2025 3:18:51 PM: Information: Content root path: E:\Course\login .net\AuthApi\AuthApi
+4/8/2025 3:19:15 PM: Information: RequestPasswordReset called for email: dontplaywithmeeh007@gmail.com
+4/8/2025 3:19:16 PM: Information: Executed DbCommand (57ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email], [a].[PasswordHash]
+FROM [Admins] AS [a]
+WHERE [a].[Email] = @__requestDto_Email_0
+4/8/2025 3:19:16 PM: Information: Executed DbCommand (5ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [d].[Id], [d].[BirthDate], [d].[Email], [d].[FirstName], [d].[Gender], [d].[ImageUrl], [d].[LastName], [d].[PasswordHash], [d].[Specialty]
+FROM [Doctors] AS [d]
+WHERE [d].[Email] = @__requestDto_Email_0
+4/8/2025 3:19:16 PM: Information: Executed DbCommand (4ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [p].[Id], [p].[BirthDate], [p].[CreatedAt], [p].[Email], [p].[FirstName], [p].[Gender], [p].[ImageUrl], [p].[LastName], [p].[PasswordHash]
+FROM [Patients] AS [p]
+WHERE [p].[Email] = @__requestDto_Email_0
+4/8/2025 3:19:18 PM: Information: Email sent successfully to dontplaywithmeeh007@gmail.com
+4/8/2025 3:19:18 PM: Information: Password reset code sent to email: dontplaywithmeeh007@gmail.com
+4/8/2025 3:26:29 PM: Warning: The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+4/8/2025 3:26:29 PM: Information: Now listening on: https://localhost:7295
+4/8/2025 3:26:29 PM: Information: Now listening on: http://localhost:5024
+4/8/2025 3:26:29 PM: Information: Application started. Press Ctrl+C to shut down.
+4/8/2025 3:26:29 PM: Information: Hosting environment: Development
+4/8/2025 3:26:29 PM: Information: Content root path: E:\Course\login .net\AuthApi\AuthApi
+4/8/2025 3:26:43 PM: Information: RequestPasswordReset called for email: dontplaywithmeeh007@gmail.com
+4/8/2025 3:26:44 PM: Information: Executed DbCommand (60ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[Email], [a].[PasswordHash]
+FROM [Admins] AS [a]
+WHERE [a].[Email] = @__requestDto_Email_0
+4/8/2025 3:26:44 PM: Information: Executed DbCommand (6ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [d].[Id], [d].[BirthDate], [d].[Email], [d].[FirstName], [d].[Gender], [d].[ImageUrl], [d].[LastName], [d].[PasswordHash], [d].[Specialty]
+FROM [Doctors] AS [d]
+WHERE [d].[Email] = @__requestDto_Email_0
+4/8/2025 3:26:44 PM: Information: Executed DbCommand (4ms) [Parameters=[@__requestDto_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [p].[Id], [p].[BirthDate], [p].[CreatedAt], [p].[Email], [p].[FirstName], [p].[Gender], [p].[ImageUrl], [p].[LastName], [p].[PasswordHash]
+FROM [Patients] AS [p]
+WHERE [p].[Email] = @__requestDto_Email_0
+4/8/2025 3:26:46 PM: Information: Email sent successfully to dontplaywithmeeh007@gmail.com
+4/8/2025 3:26:46 PM: Information: Password reset code sent to email: dontplaywithmeeh007@gmail.com
+4/8/2025 3:29:26 PM: Warning: The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+4/8/2025 3:29:26 PM: Information: Now listening on: https://localhost:7295
+4/8/2025 3:29:26 PM: Information: Now listening on: http://localhost:5024
+4/8/2025 3:29:26 PM: Information: Application started. Press Ctrl+C to shut down.
+4/8/2025 3:29:26 PM: Information: Hosting environment: Development
+4/8/2025 3:29:26 PM: Information: Content root path: E:\Course\login .net\AuthApi\AuthApi
+4/8/2025 3:29:32 PM: Warning: The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+4/8/2025 3:29:32 PM: Information: Now listening on: https://localhost:7295
+4/8/2025 3:29:32 PM: Information: Now listening on: http://localhost:5024
+4/8/2025 3:29:32 PM: Information: Application started. Press Ctrl+C to shut down.
+4/8/2025 3:29:32 PM: Information: Hosting environment: Development
+4/8/2025 3:29:32 PM: Information: Content root path: E:\Course\login .net\AuthApi\AuthApi
+4/8/2025 3:29:54 PM: Warning: The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+4/8/2025 3:29:54 PM: Information: Now listening on: https://localhost:7295
+4/8/2025 3:29:54 PM: Information: Now listening on: http://localhost:5024
+4/8/2025 3:29:54 PM: Information: Application started. Press Ctrl+C to shut down.
+4/8/2025 3:29:54 PM: Information: Hosting environment: Development
+4/8/2025 3:29:54 PM: Information: Content root path: E:\Course\login .net\AuthApi\AuthApi
+4/8/2025 3:30:24 PM: Warning: The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+4/8/2025 3:30:24 PM: Information: Now listening on: https://localhost:7295
+4/8/2025 3:30:24 PM: Information: Now listening on: http://localhost:5024
+4/8/2025 3:30:24 PM: Information: Application started. Press Ctrl+C to shut down.
+4/8/2025 3:30:24 PM: Information: Hosting environment: Development
+4/8/2025 3:30:24 PM: Information: Content root path: E:\Course\login .net\AuthApi\AuthApi
+4/8/2025 3:30:43 PM: Warning: The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+4/8/2025 3:30:43 PM: Information: Now listening on: https://localhost:7295
+4/8/2025 3:30:43 PM: Information: Now listening on: http://localhost:5024
+4/8/2025 3:30:43 PM: Information: Application started. Press Ctrl+C to shut down.
+4/8/2025 3:30:43 PM: Information: Hosting environment: Development
+4/8/2025 3:30:43 PM: Information: Content root path: E:\Course\login .net\AuthApi\AuthApi
+4/8/2025 3:31:23 PM: Warning: The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+4/8/2025 3:31:23 PM: Information: Now listening on: https://localhost:7295
+4/8/2025 3:31:23 PM: Information: Now listening on: http://localhost:5024
+4/8/2025 3:31:23 PM: Information: Application started. Press Ctrl+C to shut down.
+4/8/2025 3:31:23 PM: Information: Hosting environment: Development
+4/8/2025 3:31:23 PM: Information: Content root path: E:\Course\login .net\AuthApi\AuthApi
+4/8/2025 3:32:55 PM: Warning: The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+4/8/2025 3:32:56 PM: Information: Now listening on: https://localhost:7295
+4/8/2025 3:32:56 PM: Information: Now listening on: http://localhost:5024
+4/8/2025 3:32:56 PM: Information: Application started. Press Ctrl+C to shut down.
+4/8/2025 3:32:56 PM: Information: Hosting environment: Development
+4/8/2025 3:32:56 PM: Information: Content root path: E:\Course\login .net\AuthApi\AuthApi
+4/8/2025 3:41:54 PM: Warning: The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+4/8/2025 3:41:54 PM: Information: Now listening on: https://localhost:7295
+4/8/2025 3:41:54 PM: Information: Now listening on: http://localhost:5024
+4/8/2025 3:41:54 PM: Information: Application started. Press Ctrl+C to shut down.
+4/8/2025 3:41:54 PM: Information: Hosting environment: Development
+4/8/2025 3:41:54 PM: Information: Content root path: E:\Course\login .net\AuthApi\AuthApi
+4/8/2025 3:43:32 PM: Warning: The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+4/8/2025 3:43:32 PM: Information: Now listening on: https://localhost:7295
+4/8/2025 3:43:32 PM: Information: Now listening on: http://localhost:5024
+4/8/2025 3:43:32 PM: Information: Application started. Press Ctrl+C to shut down.
+4/8/2025 3:43:32 PM: Information: Hosting environment: Development
+4/8/2025 3:43:32 PM: Information: Content root path: E:\Course\login .net\AuthApi\AuthApi
+4/8/2025 3:46:13 PM: Warning: The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+4/8/2025 3:46:13 PM: Information: Now listening on: https://localhost:7295
+4/8/2025 3:46:13 PM: Information: Now listening on: http://localhost:5024
+4/8/2025 3:46:13 PM: Information: Application started. Press Ctrl+C to shut down.
+4/8/2025 3:46:13 PM: Information: Hosting environment: Development
+4/8/2025 3:46:13 PM: Information: Content root path: E:\Course\login .net\AuthApi\AuthApi
+4/8/2025 3:46:24 PM: Warning: The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+4/8/2025 3:46:24 PM: Information: Now listening on: https://localhost:7295
+4/8/2025 3:46:24 PM: Information: Now listening on: http://localhost:5024
+4/8/2025 3:46:25 PM: Information: Application started. Press Ctrl+C to shut down.
+4/8/2025 3:46:25 PM: Information: Hosting environment: Development
+4/8/2025 3:46:25 PM: Information: Content root path: E:\Course\login .net\AuthApi\AuthApi
+4/8/2025 3:48:10 PM: Warning: The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+4/8/2025 3:48:11 PM: Information: Now listening on: https://localhost:7295
+4/8/2025 3:48:11 PM: Information: Now listening on: http://localhost:5024
+4/8/2025 3:48:11 PM: Information: Application started. Press Ctrl+C to shut down.
+4/8/2025 3:48:11 PM: Information: Hosting environment: Development
+4/8/2025 3:48:11 PM: Information: Content root path: E:\Course\login .net\AuthApi\AuthApi
+4/8/2025 3:49:32 PM: Warning: The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+4/8/2025 3:49:32 PM: Information: Now listening on: https://localhost:7295
+4/8/2025 3:49:32 PM: Information: Now listening on: http://localhost:5024
+4/8/2025 3:49:32 PM: Information: Application started. Press Ctrl+C to shut down.
+4/8/2025 3:49:32 PM: Information: Hosting environment: Development
+4/8/2025 3:49:32 PM: Information: Content root path: E:\Course\login .net\AuthApi\AuthApi
+4/8/2025 3:49:41 PM: Warning: The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+4/8/2025 3:49:41 PM: Information: Now listening on: https://localhost:7295
+4/8/2025 3:49:41 PM: Information: Now listening on: http://localhost:5024
+4/8/2025 3:49:41 PM: Information: Application started. Press Ctrl+C to shut down.
+4/8/2025 3:49:41 PM: Information: Hosting environment: Development
+4/8/2025 3:49:41 PM: Information: Content root path: E:\Course\login .net\AuthApi\AuthApi
+4/8/2025 3:49:47 PM: Warning: The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+4/8/2025 3:49:47 PM: Information: Now listening on: https://localhost:7295
+4/8/2025 3:49:47 PM: Information: Now listening on: http://localhost:5024
+4/8/2025 3:49:47 PM: Information: Application started. Press Ctrl+C to shut down.
+4/8/2025 3:49:47 PM: Information: Hosting environment: Development
+4/8/2025 3:49:47 PM: Information: Content root path: E:\Course\login .net\AuthApi\AuthApi
+4/8/2025 3:51:44 PM: Warning: The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+4/8/2025 3:51:44 PM: Information: Now listening on: https://localhost:7295
+4/8/2025 3:51:44 PM: Information: Now listening on: http://localhost:5024
+4/8/2025 3:51:44 PM: Information: Application started. Press Ctrl+C to shut down.
+4/8/2025 3:51:44 PM: Information: Hosting environment: Development
+4/8/2025 3:51:44 PM: Information: Content root path: E:\Course\login .net\AuthApi\AuthApi
+4/8/2025 3:53:02 PM: Warning: The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+4/8/2025 3:53:02 PM: Information: Now listening on: https://localhost:7295
+4/8/2025 3:53:02 PM: Information: Now listening on: http://localhost:5024
+4/8/2025 3:53:02 PM: Information: Application started. Press Ctrl+C to shut down.
+4/8/2025 3:53:02 PM: Information: Hosting environment: Development
+4/8/2025 3:53:02 PM: Information: Content root path: E:\Course\login .net\AuthApi\AuthApi
+4/8/2025 3:53:43 PM: Warning: The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+4/8/2025 3:53:43 PM: Information: Now listening on: http://localhost:5024
+4/8/2025 3:53:43 PM: Information: Application started. Press Ctrl+C to shut down.
+4/8/2025 3:53:43 PM: Information: Hosting environment: Development
+4/8/2025 3:53:43 PM: Information: Content root path: E:\Course\login .net\AuthApi\AuthApi
+4/8/2025 3:54:31 PM: Warning: The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+4/8/2025 3:54:31 PM: Information: Now listening on: https://localhost:7295
+4/8/2025 3:54:31 PM: Information: Now listening on: http://localhost:5024
+4/8/2025 3:54:31 PM: Information: Application started. Press Ctrl+C to shut down.
+4/8/2025 3:54:31 PM: Information: Hosting environment: Development
+4/8/2025 3:54:31 PM: Information: Content root path: E:\Course\login .net\AuthApi\AuthApi
+4/8/2025 3:55:11 PM: Warning: The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+4/8/2025 3:55:11 PM: Information: Now listening on: https://localhost:7295
+4/8/2025 3:55:11 PM: Information: Now listening on: http://localhost:5024
+4/8/2025 3:55:11 PM: Information: Application started. Press Ctrl+C to shut down.
+4/8/2025 3:55:11 PM: Information: Hosting environment: Development
+4/8/2025 3:55:11 PM: Information: Content root path: E:\Course\login .net\AuthApi\AuthApi
+4/8/2025 3:55:18 PM: Warning: The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+4/8/2025 3:55:18 PM: Information: Now listening on: https://localhost:7295
+4/8/2025 3:55:18 PM: Information: Now listening on: http://localhost:5024
+4/8/2025 3:55:18 PM: Information: Application started. Press Ctrl+C to shut down.
+4/8/2025 3:55:18 PM: Information: Hosting environment: Development
+4/8/2025 3:55:18 PM: Information: Content root path: E:\Course\login .net\AuthApi\AuthApi
+4/8/2025 3:55:31 PM: Warning: The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+4/8/2025 3:55:31 PM: Information: Now listening on: https://localhost:7295
+4/8/2025 3:55:31 PM: Information: Now listening on: http://localhost:5024
+4/8/2025 3:55:31 PM: Information: Application started. Press Ctrl+C to shut down.
+4/8/2025 3:55:31 PM: Information: Hosting environment: Development
+4/8/2025 3:55:31 PM: Information: Content root path: E:\Course\login .net\AuthApi\AuthApi
+4/8/2025 3:55:41 PM: Warning: The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+4/8/2025 3:55:41 PM: Information: Now listening on: https://localhost:7295
+4/8/2025 3:55:41 PM: Information: Now listening on: http://localhost:5024
+4/8/2025 3:55:41 PM: Information: Application started. Press Ctrl+C to shut down.
+4/8/2025 3:55:41 PM: Information: Hosting environment: Development
+4/8/2025 3:55:41 PM: Information: Content root path: E:\Course\login .net\AuthApi\AuthApi
+4/8/2025 3:55:59 PM: Warning: The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+4/8/2025 3:55:59 PM: Information: Now listening on: https://localhost:7295
+4/8/2025 3:55:59 PM: Information: Now listening on: http://localhost:5024
+4/8/2025 3:55:59 PM: Information: Application started. Press Ctrl+C to shut down.
+4/8/2025 3:55:59 PM: Information: Hosting environment: Development
+4/8/2025 3:55:59 PM: Information: Content root path: E:\Course\login .net\AuthApi\AuthApi
+4/8/2025 11:17:49 PM: Warning: The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+4/8/2025 11:17:49 PM: Information: Now listening on: https://localhost:7295
+4/8/2025 11:17:49 PM: Information: Now listening on: http://localhost:5024
+4/8/2025 11:17:49 PM: Information: Application started. Press Ctrl+C to shut down.
+4/8/2025 11:17:49 PM: Information: Hosting environment: Development
+4/8/2025 11:17:49 PM: Information: Content root path: E:\Course\login .net\AuthApi\AuthApi
+4/8/2025 11:19:26 PM: Warning: The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+4/8/2025 11:19:27 PM: Information: Now listening on: https://localhost:7295
+4/8/2025 11:19:27 PM: Information: Now listening on: http://localhost:5024
+4/8/2025 11:19:27 PM: Information: Application started. Press Ctrl+C to shut down.
+4/8/2025 11:19:27 PM: Information: Hosting environment: Development
+4/8/2025 11:19:27 PM: Information: Content root path: E:\Course\login .net\AuthApi\AuthApi
+4/8/2025 11:22:33 PM: Warning: The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+4/8/2025 11:22:33 PM: Information: Now listening on: https://localhost:7295
+4/8/2025 11:22:33 PM: Information: Now listening on: http://localhost:5024
+4/8/2025 11:22:33 PM: Information: Application started. Press Ctrl+C to shut down.
+4/8/2025 11:22:33 PM: Information: Hosting environment: Development
+4/8/2025 11:22:33 PM: Information: Content root path: E:\Course\login .net\AuthApi\AuthApi
+4/8/2025 11:22:49 PM: Warning: The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+4/8/2025 11:22:49 PM: Information: Now listening on: https://localhost:7295
+4/8/2025 11:22:49 PM: Information: Now listening on: http://localhost:5024
+4/8/2025 11:22:49 PM: Information: Application started. Press Ctrl+C to shut down.
+4/8/2025 11:22:49 PM: Information: Hosting environment: Development
+4/8/2025 11:22:49 PM: Information: Content root path: E:\Course\login .net\AuthApi\AuthApi
+4/8/2025 11:26:02 PM: Warning: The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+4/8/2025 11:26:02 PM: Information: Now listening on: https://localhost:7295
+4/8/2025 11:26:02 PM: Information: Now listening on: http://localhost:5024
+4/8/2025 11:26:02 PM: Information: Application started. Press Ctrl+C to shut down.
+4/8/2025 11:26:02 PM: Information: Hosting environment: Development
+4/8/2025 11:26:02 PM: Information: Content root path: E:\Course\login .net\AuthApi\AuthApi
+4/8/2025 11:27:26 PM: Warning: The WebRootPath was not found: E:\Course\login .net\AuthApi\AuthApi\wwwroot. Static files may be unavailable.
+4/8/2025 11:27:26 PM: Information: Now listening on: https://localhost:7295
+4/8/2025 11:27:26 PM: Information: Now listening on: http://localhost:5024
+4/8/2025 11:27:26 PM: Information: Application started. Press Ctrl+C to shut down.
+4/8/2025 11:27:26 PM: Information: Hosting environment: Development
+4/8/2025 11:27:26 PM: Information: Content root path: E:\Course\login .net\AuthApi\AuthApi

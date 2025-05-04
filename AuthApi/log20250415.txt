@@ -1,0 +1,22 @@
+2025-04-15 11:27:03.535 +02:00 [INF] User profile is available. Using 'C:\Users\TEFA\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-15 11:27:03.779 +02:00 [INF] Now listening on: https://localhost:7295
+2025-04-15 11:27:03.781 +02:00 [INF] Now listening on: http://localhost:5024
+2025-04-15 11:27:03.922 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-15 11:27:03.924 +02:00 [INF] Hosting environment: Development
+2025-04-15 11:27:03.926 +02:00 [INF] Content root path: E:\Course\login .net\AuthApi\AuthApi
+2025-04-15 11:27:06.440 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger - null null
+2025-04-15 11:27:06.440 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/index.html - null null
+2025-04-15 11:27:06.647 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger - 499 null null 214.1644ms
+2025-04-15 11:27:06.685 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/index.html - 200 null text/html;charset=utf-8 253.0445ms
+2025-04-15 11:27:06.719 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-15 11:27:06.719 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/_vs/browserLink - null null
+2025-04-15 11:27:06.719 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/swagger-ui.css - null null
+2025-04-15 11:27:06.725 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_framework/aspnetcore-browser-refresh.js - 200 16499 application/javascript; charset=utf-8 6.2529ms
+2025-04-15 11:27:06.865 +02:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-04-15 11:27:06.866 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/swagger-ui.css - 499 144929 text/css 147.4569ms
+2025-04-15 11:27:06.950 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/favicon-16x16.png - null null
+2025-04-15 11:27:06.992 +02:00 [INF] Sending file. Request path: '/favicon-16x16.png'. Physical path: 'N/A'
+2025-04-15 11:27:06.993 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/favicon-16x16.png - 499 665 image/png 43.2691ms
+2025-04-15 11:27:07.047 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/_vs/browserLink - 200 null text/javascript; charset=UTF-8 328.7546ms
+2025-04-15 11:27:07.078 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - null null
+2025-04-15 11:27:07.090 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7295/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 11.861ms
